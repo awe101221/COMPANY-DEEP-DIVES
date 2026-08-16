@@ -16,6 +16,12 @@ All MELI agents and automations must read and write only within `companies/MELI/
 - `source-ledger.md`: source provenance for material facts and calculations.
 - `open-questions.md`: unresolved research questions ranked by decision impact.
 - `updates/`: dated incremental intelligence reports named `YYYY-MM-DD.md`.
+- `changelog.md`: dated knowledge-base change log.
+- `expectations-map.md`: what the price and consensus appear to embed.
+- `quarterly-tracker.md`: print-by-print expectations vs actuals.
+- `catalyst-calendar.md`: dated events that can move the thesis.
+- `country-dossiers.md`: Brazil, Mexico, Argentina operating + macro transmission.
+- `reverse-dcf-2026-08-16.md`: first completed reverse DCF / EV bridge / SOTP.
 
 ## Operating rules
 
