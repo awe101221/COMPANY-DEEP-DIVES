@@ -22,6 +22,7 @@ All MELI agents and automations must read and write only within `companies/MELI/
 - `catalyst-calendar.md`: dated events that can move the thesis.
 - `country-dossiers.md`: Brazil, Mexico, Argentina operating + macro transmission.
 - `reverse-dcf-2026-08-16.md`: first completed reverse DCF / EV bridge / SOTP.
+- `estimate-vs-actuals-2026-08-17.md`: eight-quarter (Q3’24–Q2’26) estimate-vs-actuals reconstruction.
 
 ## Operating rules
 

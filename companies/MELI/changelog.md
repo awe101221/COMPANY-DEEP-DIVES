@@ -2,6 +2,14 @@
 
 Dated views only. Do not silently overwrite.
 
+## 2026-08-17 — Incremental run
+
+- **Trigger:** scheduled cron 2026-08-17T00:24:58Z. Prior successful run 2026-08-16 ~12:30 UTC on `cursor/meli-intelligence-agent-instructions-303d` (cherry-picked onto this branch from empty `main`).
+- **Company event:** none. No 8-K after 2026-08-06. Price still 2026-08-14 close $1,844.58. Consensus unchanged.
+- **Deep research:** eight-quarter estimate-vs-actuals (`estimate-vs-actuals-2026-08-17.md`). Revenue beat/in-line 8/8; investment-cycle NI missed until the small Q2’26 beat. FY27 EPS $55.99 is not a high-confidence rebound.
+- **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence ~40% → ~48%.
+- **Status:** `research progress only`.
+
 ## 2026-08-16 afternoon — Incremental run (this workspace)
 
 - **Trigger:** scheduled cron 2026-08-16T12:01:54Z. Prior successful run ~05:18 UTC the same day on branch `cursor/meli-intelligence-agent-instructions-1f5e`.

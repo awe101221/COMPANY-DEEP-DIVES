@@ -1,7 +1,7 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). Afternoon run: no probability change.  
-**Last thesis review:** 2026-08-16  
+**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and 2026-08-17 incremental runs: no probability change.  
+**Last thesis review:** 2026-08-17  
 **Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
@@ -18,7 +18,7 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 
 **Variant perception:** After the Q2 selloff, the market already doubts a quick return to 12% EBIT. The remaining disagreement is whether **ecosystem LTV** (management) exceeds the **visible credit + subsidy cash drain** (10-Q). Reverse DCF (2026-08-16 afternoon) says the $1,845 price still embeds ~13% terminal EBIT at ~9% WACC, or faster duration. I am in the middle: Brazil engagement evidence is better than a typical growth story; credit disclosure is worse than a typical bank’s.
 
-**Confidence in the probability set:** 40%. Eight-quarter estimate history still incomplete; reverse DCF exists but is not a full integrated model.
+**Confidence in the probability set:** ~48% (was ~40% on 2026-08-16). Eight-quarter estimate history is now sourced (`estimate-vs-actuals-2026-08-17.md`); reverse DCF exists but is not a full integrated model. Remaining gaps: ads dollars, 90+ by product, integrated forecast.
 
 ### Evidence for
 
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-17 — eight-quarter estimate history; no probability change
+
+New work: Q3’24–Q2’26 actuals from primary 8-Ks plus contemporaneous Reuters/LSEG NI polls. Revenue beat/in-line 8/8; investment-cycle NI missed until the small Q2’26 beat. This supports — and does not change — the view that street FY27 EPS $55.99 is a margin-recovery assumption, not a demonstrated payback. Confidence in 25/45/30 rises ~40% → ~48%. No new company operating fact. No 8-K after 2026-08-06.
 
 ### 2026-08-16 afternoon — reverse DCF completed; no probability change
 

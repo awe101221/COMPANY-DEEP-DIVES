@@ -1,7 +1,7 @@
 # MELI Financial and Operating History
 
-**Status:** Partial — annual 2023–25 and quarterly 2023–Q2 2026 revenue complete; Q3/Q4 2025 EBIT/NI now from primary 8-Ks. Full eight-quarter KPI block still incomplete.  
-**Last verified:** 2026-08-16. $ millions unless noted.
+**Status:** Partial — annual 2023–25 and quarterly 2023–Q2 2026 revenue complete; quarterly P&L from Q3 2024 through Q2 2026 now from primary 8-Ks. Full eight-quarter *operating-KPI* block still incomplete.  
+**Last verified:** 2026-08-17. $ millions unless noted.
 
 ## Annual financial history
 
@@ -55,17 +55,17 @@ Seasonality: Q1 typically flat-to-down QoQ; Q4 is the step-up. **Do not annualiz
 
 ## Quarterly P&L (primary sources)
 
-| | Q2'25 | Q3'25 | Q4'25 | Q1'26 | Q2'26 | TTM |
-|---|---:|---:|---:|---:|---:|---:|
-| Revenue | 6,790 | 7,409 | 8,759 | 8,845 | 10,169 | 35,182 |
-| USD growth | +34% | +39% | +45% | +49% | +50% | +46% |
-| FXN growth | +53% | +49% | +47% | +46% | +43% | — |
-| EBIT | 825 | 724 | 889 | 611 | 683 | 2,907 |
-| EBIT margin | 12.2% | 9.8% | 10.1% | 6.9% | 6.7% | 8.26% |
-| Net income | 523 | 421 | 559 | 417 | 466 | 1,863 |
-| Diluted EPS | 10.31 | 8.32 | 11.03 | 8.23 | 9.19 | 36.75 |
+| | Q3'24 | Q4'24 | Q1'25 | Q2'25 | Q3'25 | Q4'25 | Q1'26 | Q2'26 | TTM |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Revenue | 5,312 | 6,059 | 5,935 | 6,790 | 7,409 | 8,759 | 8,845 | 10,169 | 35,182 |
+| EBIT | 557 | 820 | 763 | 825 | 724 | 889 | 611 | 683 | 2,907 |
+| EBIT margin | 10.5% | 13.5% | 12.9% | 12.2% | 9.8% | 10.1% | 6.9% | 6.7% | 8.26% |
+| Net income | 397 | 639 | 494 | 523 | 421 | 559 | 417 | 466 | 1,863 |
+| Diluted EPS | 7.83 | 12.61 | 9.74 | 10.31 | 8.32 | 11.03 | 8.23 | 9.19 | 36.75 |
 
-**Sources:** Q3’25 [EX-99.1](https://www.sec.gov/Archives/edgar/data/1099590/000109959025000048/meli-20251029xex991.htm); Q4’25 [EX-99.1](https://www.sec.gov/Archives/edgar/data/1099590/000109959026000003/meli-20260224xex991.htm); Q1’26 and Q2’26 8-Ks. TTM and margins are **calculated**. Yahoo “operating margin (ttm) 6.72%” is the latest quarter, not TTM.
+**Sources:** Q3’24 [EX-99.1](https://www.sec.gov/Archives/edgar/data/1099590/000109959024000039/meli-20241106xex991.htm); Q4’24 [EX-99.1](https://www.sec.gov/Archives/edgar/data/1099590/000109959025000004/meli-20250220xex991.htm); Q1’25 [EX-99.1](https://www.sec.gov/Archives/edgar/data/1099590/000109959025000025/meli-20250507xex991.htm); Q2’25 [EX-99.1](https://www.sec.gov/Archives/edgar/data/1099590/000109959025000041/meli-20250804xex991.htm); Q3’25 [EX-99.1](https://www.sec.gov/Archives/edgar/data/1099590/000109959025000048/meli-20251029xex991.htm); Q4’25 [EX-99.1](https://www.sec.gov/Archives/edgar/data/1099590/000109959026000003/meli-20260224xex991.htm); Q1’26 and Q2’26 8-Ks. TTM (Q3’25–Q2’26) and margins are **calculated**. Yahoo “operating margin (ttm) 6.72%” is the latest quarter, not TTM.
+
+USD / FXN growth for Q2’25–Q2’26 remains in the country tables below. Estimate-vs-actuals for this window: `estimate-vs-actuals-2026-08-17.md`.
 
 ## Operating KPI history (partial)
 

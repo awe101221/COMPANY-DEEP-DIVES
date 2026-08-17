@@ -1,6 +1,6 @@
 # MELI expectations map
 
-**As-of:** 2026-08-16 (afternoon). Price as-of 2026-08-14 close **$1,844.58**.
+**As-of:** 2026-08-17. Price as-of 2026-08-14 close **$1,844.58** (no session since; this run is before the 2026-08-17 cash open). Consensus unchanged vs 2026-08-16 afternoon.
 
 ## What the price appears to embed (inference, now reverse-DCF backed)
 
@@ -15,6 +15,8 @@ The completed reverse DCF (`reverse-dcf-2026-08-16.md`) says $99.9bn EV is consi
 It is **not** consistent with 6.7% EBIT as mid-cycle (that path is ~$720/share at 10% WACC).
 
 Street near-term is a trough: FY26 EPS $38.31 vs FY25 $39.40; implied EBIT margins ~7.0% / ~7.8% in 2026–27 (my calculation). The recovery lives in the **32.9× 2027E** multiple, not in 2026–27 consensus EBIT.
+
+**Eight-quarter test (2026-08-17):** street FY27 EPS $55.99 fails as a high-confidence rebound. Revenue beat or in-line 8/8 from Q3’24–Q2’26; LSEG NI missed the first three investment-cycle prints (Q2–Q4’25) and only beat in Q2’26 after the FY26 cut. See `estimate-vs-actuals-2026-08-17.md`. This is an expectations finding, not a new operating fact.
 
 ## Consensus vs my read
 

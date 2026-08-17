@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted.
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17**.
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -36,6 +36,18 @@ Access date **2026-08-16** unless noted.
 | S28 | US 10-year yield | CNBC / Trading Economics | 2026-08-14 | rf | https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html | 4.70% for CoE |
 | S29 | FRED DGS10 | FRB / FRED | 2026-08-13 | rf | https://fred.stlouisfed.org/series/DGS10 | 4.63% on 8/13; triangulates CNBC 8/14 4.70% |
 | S30 | StockAnalysis MELI forecast | S&P Global via StockAnalysis | retrieved 2026-08-16 | targets | https://stockanalysis.com/stocks/meli/forecast/ | Avg PT $2,250; rating list |
+| S31 | EDGAR company index reconfirm | SEC | live 2026-08-17 | filings through 2026-08-06 | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001099590 | No 8-K after 2026-08-06 |
+| S32 | Q3 2024 8-K EX-99.1 | MELI / SEC | 2024-11-06 | Q3 2024 | https://www.sec.gov/Archives/edgar/data/1099590/000109959024000039/meli-20241106xex991.htm | Rev $5,312mn; EBIT $557mn; NI $397mn; EPS $7.83 |
+| S33 | Q4 2024 8-K EX-99.1 | MELI / SEC | 2025-02-20 | Q4 2024 | https://www.sec.gov/Archives/edgar/data/1099590/000109959025000004/meli-20250220xex991.htm | Rev $6,059mn; EBIT $820mn; NI $639mn; EPS $12.61 |
+| S34 | Q1 2025 8-K EX-99.1 | MELI / SEC | 2025-05-07 | Q1 2025 | https://www.sec.gov/Archives/edgar/data/1099590/000109959025000025/meli-20250507xex991.htm | Rev $5,935mn; EBIT $763mn; NI $494mn; EPS $9.74 |
+| S35 | Q2 2025 8-K EX-99.1 | MELI / SEC | 2025-08-04 | Q2 2025 | https://www.sec.gov/Archives/edgar/data/1099590/000109959025000041/meli-20250804xex991.htm | Rev $6,790mn; EBIT $825mn; NI $523mn; EPS $10.31 |
+| S36 | Reuters/LSEG Q3’24 NI poll (reprint) | Reuters via WXER | 2024-11-06 | street | https://wxerfm.com/2024/11/06/mercadolibre-misses-third-quarter-profit-expectations-on-logistics-credit-costs/ | LSEG NI $542mn vs $397mn |
+| S37 | Reuters/LSEG Q4’24 NI/EBIT poll (reprint) | Reuters via Blue Water | 2025-02-20 | street | https://bluewaterhealthyliving.com/news/business-and-economy/mercadolibres-fourth-quarter-net-profit/ | LSEG NI $401.5mn / EBIT $612mn |
+| S38 | Reuters/LSEG Q1’25 poll | Reuters | 2025-05-07 | street | https://www.reuters.com/business/retail-consumer/mercadolibre-beats-profit-estimates-first-quarter-argentina-business-booms-2025-05-07/ | LSEG NI $420.9mn / rev $5.51bn |
+| S39 | Reuters/LSEG Q2’25 poll (reprint) | Reuters via AOL | 2025-08-04 | street | https://www.aol.com/mercadolibre-misses-profit-estimates-brazil-201421376.html | LSEG NI $596mn / EBIT $869mn |
+| S40 | Reuters/LSEG Q3’25 and Q4’25 polls | Reuters | 2025-10-29; 2026-02-24 | street | https://www.reuters.com/world/americas/mercadolibres-third-quarter-net-profit-misses-estimates-despite-revenue-beat-2025-10-29/ ; https://www.reuters.com/world/americas/mercadolibre-misses-quarterly-profit-estimates-revenue-exceeds-expectations-2026-02-24/ | Q3 NI $481mn / rev $7.2bn; Q4 NI $587mn / rev $8.5bn |
+| S41 | Yahoo MELI Analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | consensus + EPS history | https://finance.yahoo.com/quote/MELI/analysis/ | FY26/27 unchanged; last-4 EPS surprises |
+| S42 | Benzinga MELI earnings history | Benzinga | retrieved 2026-08-17 | fallback street | https://www.benzinga.com/quote/MELI/earnings | Used only where Reuters/Yahoo lack a number |
 
 **Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
 
