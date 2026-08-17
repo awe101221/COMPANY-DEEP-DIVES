@@ -1,0 +1,19 @@
+---
+description: Repository-wide guardrails for auditable single-company investment research
+globs: "companies/**"
+alwaysApply: true
+---
+
+# Company research boundaries
+
+- Resolve the company's ticker and read `companies/TICKER/README.md` before substantive work.
+- Keep company-specific research inside `companies/TICKER/`.
+- Never modify another company's directory unless the user explicitly requests it.
+- Do not create a new company folder without explicit authorization.
+- Browse before making current claims and attach an as-of date.
+- Prefer primary sources and place precise citations near the claims they support.
+- Distinguish reported facts, management claims, third-party estimates, calculations, inferences, and unverified leads.
+- Preserve thesis history instead of silently replacing prior views.
+- Do not create filler reports or commits when research finds no substantive change.
+- Treat repository files as accumulated research that still requires freshness and definition checks.
+- Perform research and analysis only; do not place trades or contact outside parties.
