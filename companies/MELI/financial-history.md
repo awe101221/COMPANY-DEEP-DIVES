@@ -1,6 +1,6 @@
 # MELI Financial and Operating History
 
-**Status:** Partial — annual 2023–25 and quarterly 2023–Q2 2026 revenue complete; quarterly P&L from Q3 2024 through Q2 2026 now from primary 8-Ks. Full eight-quarter *operating-KPI* block still incomplete.  
+**Status:** Partial — annual 2023–25 and quarterly 2023–Q2 2026 revenue complete; quarterly P&L from Q3 2024 through Q2 2026 now from primary 8-Ks. Ads dollars reconstructed 2026-08-17 (not GAAP). Full eight-quarter *operating-KPI* block still incomplete.  
 **Last verified:** 2026-08-17. $ millions unless noted.
 
 ## Annual financial history
@@ -81,6 +81,24 @@ USD / FXN growth for Q2’25–Q2’26 remains in the country tables below. Esti
 | 15–90 NPL | — | 6.8% | — | 8.0% | 7.0% |
 
 Q3’25 GMV/TPV/NIMAL/NPL from Q3 letter (primary). Q4’25 GMV $19.9bn / TPV $83.7bn from Q4 letter (primary). Q4 NIMAL/NPL still not extracted. Q3/Q4 2025 unique buyers and items not fully loaded.
+
+## Advertising (reconstructed; not GAAP)
+
+Last company take-rate print: **Q4 2024 ads = 2.1% of GMV** = $306mn on $14,548mn GMV (letter). After that, letters give growth only. Full method: `ads-revenue-reconstruction-2026-08-17.md`.
+
+| Period | Ads USD YoY | Ads FXN YoY | Ads $mn | Ads / GMV | Label |
+|---|---:|---:|---:|---:|---|
+| FY 2022 | — | — | ~442 | 1.3% | Letter take-rate × ~$34bn GMV |
+| FY 2023 | — | — | 716 | 1.6% | Letter take-rate × 10-K GMV $44,749 |
+| Q4 2023 | — | >70% | 215 | 1.6% | Letter take-rate × GMV $13,450 |
+| Q4 2024 | +41% | +88% | 306 | 2.1% | **Last reported take-rate** |
+| Q2 2025 | +38% | +59% | ~280–370 | — | Growth only; dollars depend on Q2’24 take-rate |
+| Q3 2025 | +56% | +63% | — | — | Growth only |
+| Q4 2025 | +70% | +67% | 519 | ~2.61% | Calculation: Q4’24 $306mn × 1.70 |
+| Q1 2026 | +73% | +63% | — | — | Growth only |
+| Q2 2026 | +73% | +62% | **483–634 (base 559)** | **2.20–2.89% (base 2.55%)** | Calculation; Q2’24 take-rate interpolated |
+
+Do not treat the Q2 2026 base as a company-reported number. TTM sketch ~$1.7–2.2bn.
 
 ## USD vs FXN growth by country (Q2’26 letter tables)
 

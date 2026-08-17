@@ -18,6 +18,8 @@ Street near-term is a trough: FY26 EPS $38.31 vs FY25 $39.40; implied EBIT margi
 
 **Eight-quarter test (2026-08-17):** street FY27 EPS $55.99 fails as a high-confidence rebound. Revenue beat or in-line 8/8 from Q3’24–Q2’26; LSEG NI missed the first three investment-cycle prints (Q2–Q4’25) and only beat in Q2’26 after the FY26 cut. See `estimate-vs-actuals-2026-08-17.md`. This is an expectations finding, not a new operating fact.
 
+**Ads test (2026-08-17):** street does not publish an auditable ads line. Independent reconstruction puts Q2’26 ads at ~$0.5–0.6bn (~5.5% of revenue, mid-2% of GMV) and TTM ~$2bn. That is not large enough to be the 2027 margin-recovery story on its own. See `ads-revenue-reconstruction-2026-08-17.md`.
+
 ## Consensus vs my read
 
 | Object | Market / street (third-party, Yahoo 2026-08-16) | My read |

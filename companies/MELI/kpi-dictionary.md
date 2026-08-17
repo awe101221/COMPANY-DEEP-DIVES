@@ -1,6 +1,6 @@
 # MELI KPI dictionary
 
-**Last updated:** 2026-08-16 (reviewed on afternoon incremental run; no new definition changes). Definitions from Q2 2026 shareholder letter and 2025 10-K unless noted.
+**Last updated:** 2026-08-17 (ads reconstruction). Definitions from Q2 2026 shareholder letter and 2025 10-K unless noted.
 
 | KPI | Official definition | Units | Known definition changes | Where disclosed |
 |---|---|---|---|---|
@@ -22,6 +22,7 @@
 | Adjusted FCF | CFO − customer-fund/restricted-cash build − capex − Δ loans receivable + net fintech funding. From Q2 2025 also adjusts management-restricted cash and digital assets | $ mn | Definition widened Q2 2025 | Letter |
 | Available cash, investments and digital assets | Unrestricted cash + eligible investments + digital assets (from Q2 2025) | $ mn | Non-GAAP | Letter |
 | Commerce (revenue) | Marketplace fees, shipping, 1P, ads, classifieds, membership, ancillary | $ | Segment/letter classification, not a GAAP segment | Letter |
+| Advertising / Mercado Ads | Letter: “ad sales” inside Commerce. 10-K: advertising sales fees inside Commerce services (Product Ads, Brands Ads, Display, Video; Display/Video also off-platform). **Not a GAAP line after aggregation** | $ and % of GMV | Company printed ads **as % of GMV** through Q4 2024 (last print 2.1%). From 2025 letters: **USD and FXN growth only**, plus qualitative share/margin comments. Food-delivery GMV inclusion from Q2 2025 slightly dilutes ads/GMV vs a merchandise-only base | Letters; 2025 10-K; reconstruction in `ads-revenue-reconstruction-2026-08-17.md` |
 | Fintech (revenue) | Off-platform fees, financing, credit interest, Mpago investment income net of BR pass-through, MPOS sales | $ | Same | Letter |
 | Ecosystemic users | Users engaging **both** marketplace and Mercado Pago | n/a | Management metric; not in 10-Q | Q2’26 letter |
 | MELI+ subscribers | Loyalty program subscribers | n/a | +72% YoY Q2’26 (mgmt); absolute not disclosed | Letter |
@@ -34,3 +35,4 @@
 - **TPV >> GMV** because of off-platform acquiring, bills, wallet, cards.
 - **CFO >> owner earnings** because of funds payable to customers and credit-related working capital.
 - **15–90 NPL ≠ 90+ NPL.** See credit deep-dive.
+- **Ads $ ≠ a GAAP line.** After Q4 2024 the company stopped printing ads/GMV. Dollar figures in `ads-revenue-reconstruction-2026-08-17.md` are calculations, not reported actuals.

@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17**.
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run).
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -48,6 +48,16 @@ Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17**.
 | S40 | Reuters/LSEG Q3’25 and Q4’25 polls | Reuters | 2025-10-29; 2026-02-24 | street | https://www.reuters.com/world/americas/mercadolibres-third-quarter-net-profit-misses-estimates-despite-revenue-beat-2025-10-29/ ; https://www.reuters.com/world/americas/mercadolibre-misses-quarterly-profit-estimates-revenue-exceeds-expectations-2026-02-24/ | Q3 NI $481mn / rev $7.2bn; Q4 NI $587mn / rev $8.5bn |
 | S41 | Yahoo MELI Analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | consensus + EPS history | https://finance.yahoo.com/quote/MELI/analysis/ | FY26/27 unchanged; last-4 EPS surprises |
 | S42 | Benzinga MELI earnings history | Benzinga | retrieved 2026-08-17 | fallback street | https://www.benzinga.com/quote/MELI/earnings | Used only where Reuters/Yahoo lack a number |
+| S43 | EDGAR company index reconfirm | SEC | live 2026-08-17 (ads run) | filings through 2026-08-06 | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001099590 | Still no 8-K after 2026-08-06 |
+| S44 | Q4 2023 8-K EX-99.1 | MELI / SEC | 2024-02-22 | FY/Q4 2023 | https://www.sec.gov/Archives/edgar/data/1099590/000109959024000005/meli-20240222xex991.htm | Ads 1.6% of FY23 GMV and of Q4’23 GMV; FY22 1.3% |
+| S45 | Q2 2022 8-K EX-99.1 | MELI / SEC | 2022-08-03 | Q2 2022 | https://www.sec.gov/Archives/edgar/data/1099590/000156276222000324/meli-20220803xex99_1.htm | Ads 1.2% of GMV (early take-rate print) |
+| S46 | Q4 2024 8-K EX-99.1 (ads sentence) | MELI / SEC + IR reprint | 2025-02-20 | Q4 2024 | https://www.sec.gov/Archives/edgar/data/1099590/000109959025000004/meli-20250220xex991.htm ; https://news.mercadolibre.com/en/financial-results-fourth-quarter-2024 | **Last reported ads/GMV: 2.1%**; +41% USD / +88% FXN; GMV $14,548mn |
+| S47 | Q1 2024 8-K EX-99.1 | MELI / SEC | 2024-05-02 | Q1 2024 | https://www.sec.gov/Archives/edgar/data/1099590/000109959024000015/meli-20240502xex991.htm | GMV $11,365mn (used in Q2’24 residual) |
+| S48 | Q3 2025 ads growth | MELI / BusinessWire | 2025-10-29 | Q3 2025 | https://www.businesswire.com/news/home/20251029534041/en/Mercado-Libres-Strategic-Investments-Drive-Net-Revenue-to-%247.4-Billion-in-Q3-2025-Marking-the-27th-Consecutive-Quarter-of-Growth-Above-30-YoY | Ads +56% USD / +63% FXN |
+| S49 | Q4 2025 call (ads penetration) | Motley Fool transcript | 2026-02-26 | Q4 2025 | https://www.fool.com/earnings/call-transcripts/2026/02/26/mercadolibre-meli-q4-2025-earnings-transcript/ | Management: ads/GMV “still small compared to its potential” |
+| S50 | Latin America Ad Spending 2025 | eMarketer | 2025-06-25 | 2025 market | https://www.emarketer.com/content/latin-america-ad-spending-2025 | Total LatAm ads >$40bn; digital 56.6% — used only to test the 10% share claim |
+| S51 | Amazon 2025 10-K ads line | Amazon / SEC | 2026 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm | Advertising services $68.635bn analog; Amazon does not report ads/GMV |
+| S52 | Yahoo MELI quote + analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,844.58; FY26/27 EPS $38.31 / $55.99 unchanged |
 
 **Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
 

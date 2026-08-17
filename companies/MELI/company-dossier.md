@@ -1,6 +1,6 @@
 # MELI company dossier
 
-**Last updated:** 2026-08-16 (ported from foundation run; afternoon incremental run found no leadership, capital-structure, or definition change). Stable facts; date any item that can change.
+**Last updated:** 2026-08-17 (ads reconstruction added under Commerce; no leadership or capital-structure change). Stable facts; date any item that can change.
 
 ## Identity
 
@@ -58,6 +58,8 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 ## Business map (how money is made)
 
 **Commerce revenue (letter definition):** marketplace fees, shipping fees, 1P product sales, ads, classifieds, membership (MELI+), ancillary.
+
+**Advertising (Mercado Ads):** not broken out in GAAP. Last company take-rate print was **Q4 2024: 2.1% of GMV**. Subsequent letters give growth only (Q2 2026: +73% USD / +62% FXN; management: first time >10% of LatAm digital-ad market; “one of our highest-margin revenue lines”). Working reconstruction as of 2026-08-17: Q2 2026 ads **~$480–630mn** (base ~$560mn, ~2.55% of GMV); TTM sketch **~$1.7–2.2bn**. Incremental margin is not disclosed. Full memo: `ads-revenue-reconstruction-2026-08-17.md`.
 
 **Fintech revenue (letter definition):** off-platform fees, financing fees, interest on merchant/consumer/card credit, interest on Mpago cash/investments net of yield passed to Brazilian users, MPOS device sales.
 

@@ -2,9 +2,17 @@
 
 Dated views only. Do not silently overwrite.
 
-## 2026-08-17 — Incremental run
+## 2026-08-17 — Incremental run (ads reconstruction)
 
-- **Trigger:** scheduled cron 2026-08-17T00:24:58Z. Prior successful run 2026-08-16 ~12:30 UTC on `cursor/meli-intelligence-agent-instructions-303d` (cherry-picked onto this branch from empty `main`).
+- **Trigger:** scheduled cron 2026-08-17T00:31:13Z. Prior successful run ~01:30 UTC the same day on `cursor/meli-intelligence-update-9125` (ported onto this branch from empty `main`).
+- **Company event:** none. No 8-K after 2026-08-06. Price still 2026-08-14 close $1,844.58. Consensus unchanged.
+- **Deep research:** ads-revenue reconstruction (`ads-revenue-reconstruction-2026-08-17.md`). Last reported take-rate Q4’24 2.1% of GMV; Q2’26 working range ~$480–630mn (base ~$560mn). TTM sketch ~$1.7–2.2bn. Not large enough to offset Q2 PDA $1,276mn.
+- **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence stays ~48%.
+- **Status:** `research progress only`.
+
+## 2026-08-17 — Incremental run (eight-quarter estimate history)
+
+- **Trigger:** scheduled cron 2026-08-17T00:24:58Z. Prior successful run 2026-08-16 ~12:30 UTC on `cursor/meli-intelligence-agent-instructions-303d` (cherry-picked onto that branch from empty `main`).
 - **Company event:** none. No 8-K after 2026-08-06. Price still 2026-08-14 close $1,844.58. Consensus unchanged.
 - **Deep research:** eight-quarter estimate-vs-actuals (`estimate-vs-actuals-2026-08-17.md`). Revenue beat/in-line 8/8; investment-cycle NI missed until the small Q2’26 beat. FY27 EPS $55.99 is not a high-confidence rebound.
 - **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence ~40% → ~48%.

@@ -1,7 +1,7 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and 2026-08-17 incremental runs: no probability change.  
-**Last thesis review:** 2026-08-17  
+**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and both 2026-08-17 incremental runs: no probability change.  
+**Last thesis review:** 2026-08-17 (ads reconstruction)  
 **Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
@@ -18,13 +18,13 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 
 **Variant perception:** After the Q2 selloff, the market already doubts a quick return to 12% EBIT. The remaining disagreement is whether **ecosystem LTV** (management) exceeds the **visible credit + subsidy cash drain** (10-Q). Reverse DCF (2026-08-16 afternoon) says the $1,845 price still embeds ~13% terminal EBIT at ~9% WACC, or faster duration. I am in the middle: Brazil engagement evidence is better than a typical growth story; credit disclosure is worse than a typical bank’s.
 
-**Confidence in the probability set:** ~48% (was ~40% on 2026-08-16). Eight-quarter estimate history is now sourced (`estimate-vs-actuals-2026-08-17.md`); reverse DCF exists but is not a full integrated model. Remaining gaps: ads dollars, 90+ by product, integrated forecast.
+**Confidence in the probability set:** ~48% (was ~40% on 2026-08-16). Eight-quarter estimate history is sourced (`estimate-vs-actuals-2026-08-17.md`); ads dollars are now a ranged estimate (`ads-revenue-reconstruction-2026-08-17.md`); reverse DCF exists but is not a full integrated model. Remaining gaps: ads incremental margin, 90+ by product, integrated forecast.
 
 ### Evidence for
 
 - Brazil FXN GMV +39%, items +56%, conversion +1.1 ppt a full year after the threshold cut (Q2 letter + call).
 - Ecosystemic users +37% YoY; cardholders 2–3× more likely to stay ecosystemic (management).
-- Ads FXN +62%; >10% LatAm digital-ad share (management).
+- Ads FXN +62%; >10% LatAm digital-ad share (management). Working Q2’26 ads ~$0.48–0.63bn / TTM ~$1.7–2.2bn (calculation, 2026-08-17).
 - 15–90 NPL 7.0% / card 4.6%, near lows; Q1 provision spike reversed as promised.
 - Share count stable; LTRP is cash, not dilution.
 - Structural e-comm and financial-inclusion gap vs US (management claim).
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-17 — ads reconstruction; no probability change
+
+New work: last reported ads/GMV (Q4’24 2.1%) chained through subsequent letter growth rates. Q2’26 working range ~$480–630mn (base ~$560mn, ~2.55% of GMV). TTM sketch ~$1.7–2.2bn. A 4% GMV outcome would be ~+2 TTM EBIT ppts at an unverified 70–90% contribution analog; Q2 PDA $1,276mn is still ~2× base ads. This sizes the high-margin offset. It does **not** change 25/45/30. No new company operating print. No 8-K after 2026-08-06.
 
 ### 2026-08-17 — eight-quarter estimate history; no probability change
 

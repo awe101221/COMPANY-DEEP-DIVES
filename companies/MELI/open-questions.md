@@ -1,6 +1,6 @@
 # MELI Open Research Questions
 
-**Last reviewed:** 2026-08-17 (incremental run)
+**Last reviewed:** 2026-08-17 (ads reconstruction run)
 
 Rank unresolved questions by their potential effect on investment decisions, not by ease of answering.
 
@@ -9,7 +9,7 @@ Rank unresolved questions by their potential effect on investment decisions, not
 | 1 | Is card NIMAL −2.5% vintage mix or structural? | Determines whether cards are a cash-flow hole or a 12–18 month investment. | Cohort NIMAL; 90+ by product | Wait for GS 2026-09-08 and Q3; foundation memo on other branch | In progress — foundation `credit-deep-dive-2026-08-16.md` |
 | 2 | What 90+ NPL by product is doing, and is the late-2025 vintage contained? | 10-Q shows 18.7% of gross loans 90–360 DPD vs 7.0% 15–90 NPL. | Product-level aging | Ask at GS 9/8; wait for Q3 10-Q | Open |
 | 3 | When do Brazil free-shipping lanes become contribution-positive across most of the R$19–79 band? | Core commerce payback. | Management update of “half of ASP ranges” | Q3 letter / GS | Open |
-| 4 | What is ads revenue and incremental margin in dollars? | Could justify a 4× residual sales multiple. | Not in GAAP | Reconstruct from letter comments + competitor analog | Open — **suggested next** if no 8-K |
+| 4 | What is ads revenue and incremental margin in dollars? | Could justify a 4× residual sales multiple. | Not in GAAP; last take-rate print was Q4’24 | **Progressed 2026-08-17** — `ads-revenue-reconstruction-2026-08-17.md`. Refresh if a new ads/GMV print arrives | Progressed; dollars ranged, incremental margin still unknown |
 | 5 | Reverse DCF + SOTP with credit as a bank | What the $1,845 price embeds | Price, 10-Q EV bridge, consensus | Progressed 2026-08-16 — `reverse-dcf-2026-08-16.md` | Progressed; refine after Q3 or >10% price move |
 | 6 | Eight-quarter estimate-vs-actuals (Q3’24–Q2’26) | Tests whether street 2027 EPS $56 is a recency rebound | Old 8-Ks + Reuters/LSEG + Yahoo | **Progressed 2026-08-17** — `estimate-vs-actuals-2026-08-17.md` | Progressed; refresh after Q3 |
 | 7 | How large is Amazon–Nubank checkout volume vs MELI GMV in Brazil? | Bundle competition | Company or alternative data | Low researchability | Open |
@@ -21,7 +21,7 @@ Rank unresolved questions by their potential effect on investment decisions, not
 
 ## Resolved questions
 
-None fully resolved. #5 and #6 are progressed, not closed.
+None fully resolved. #4, #5, and #6 are progressed, not closed.
 
-**Selected this run:** #6 (eight-quarter estimate-vs-actuals).  
-**Suggested next run if no new 8-K:** #4 (ads dollars) or #11 (13D/A / Form 4s).
+**Selected this run:** #4 (ads dollars).  
+**Suggested next run if no new 8-K:** #11 (13D/A / Form 4s) or a full 10-K risk-factor read. Do not redo #4 unless a new ads/GMV print arrives.
