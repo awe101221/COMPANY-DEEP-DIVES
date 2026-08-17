@@ -11,9 +11,11 @@
 
 Advertising is **not a GAAP line**. The last company-reported ads/GMV print is **Q4 2024: 2.1% of GMV** ([Q4’24 letter](https://www.sec.gov/Archives/edgar/data/1099590/000109959025000004/meli-20250220xex991.htm); same sentence in the [IR/news reprint](https://news.mercadolibre.com/en/financial-results-fourth-quarter-2024)). After that, letters give **growth rates only**.
 
-Chaining those growth rates off the last reported take-rate and the last reported GMV dollars produces a **Q2 2026 ads range of about $480–630mn**, with a **base case ~$560mn** (calculation). That is **~2.2–2.9% of Q2 GMV** and **~4.7–6.2% of Q2 revenue**. TTM ads land around **$1.7–2.2bn**.
+Chaining those growth rates off the last reported take-rate and the last reported GMV dollars produces a **Q2 2026 ads range of about $480–630mn**, with a **base case ~$560mn** (calculation). That is **~2.2–2.9% of Q2 GMV** and **~4.7–6.2% of Q2 revenue**. TTM ads land around **$1.7–2.1bn** (calculated envelope; base sketch ~$1.9bn).
 
-That is a real high-margin engine. It is **not yet large enough to offset the investment cycle**: Q2 2026 provision for doubtful accounts was **$1,276mn** (reported), more than 2× the base-case ads print. Moving ads from ~2.55% to 4% of TTM GMV would add on the order of **+$1.1bn ads** and, at a 70–90% incremental contribution assumption (inference / analog, not disclosed), **~+2 ppts of TTM EBIT margin**. Useful for the reverse-DCF debate. Not a reason to raise bull probability today.
+That is a real high-margin engine. It does **not** change 25/45/30. Moving ads from ~2.55% to 4% of TTM GMV would add on the order of **+$1.1bn ads** and, at a 70–90% incremental contribution assumption (inference / analog, not disclosed), **~+2 ppts of TTM EBIT margin**. Useful for the reverse-DCF debate. Not a reason to raise bull probability today.
+
+**Scale, not an economic offset:** Q2 2026 provision for doubtful accounts was **$1,276mn** (reported). Reconstructed base ads revenue is about **0.4×** that expense. Advertising revenue and credit provisions are **not directly comparable P&L measures** — ads is a commerce-services revenue line; PDA is a credit operating expense. Only an undisclosed ads *contribution* could be compared economically to an expense. The 0.4× figure is a scale check, not a netting identity.
 
 **Working confidence in the dollar range: ~55%.** The growth rates and the Q4’24 2.1% anchor are primary. The Q2’24 take-rate used to start the Q2 chain is interpolated.
 
@@ -92,9 +94,9 @@ Using the same method on the other three TTM quarters, with Q3’24 take-rate in
 |---|---:|---|
 | Q3 2025 | ~380 | Q3’24 GMV $12,907 × ~1.9% × 1.56 |
 | Q4 2025 | 519 | Q4’24 2.1% anchor × 1.70 |
-| Q1 2026 | ~410–450 | Q1’25 GMV residual ~$13.3bn × ~1.8–2.0% × 1.73 |
+| Q1 2026 | ~415–460 | Q1’25 GMV residual $13,336mn × ~1.8–2.0% × 1.73 |
 | Q2 2026 | 559 | Q2 chain base |
-| **TTM** | **~$1.9bn** (range **~$1.7–2.2bn**) | Sum |
+| **TTM** | **~$1.9bn** (calculated envelope **~$1.7–2.1bn**) | Sum of the four quarters; high end uses the 2.1% start-rate bound on Q2 and nearby quarters |
 
 Q1 2025 GMV residual: FY25 GMV $65,037 − Q2 $15,258 − Q3 $16,543 − Q4 $19,900 = **$13,336mn** (calculation). Q1’26 GMV $18,951 / $13,336 = +42%, matching the letter.
 
@@ -132,11 +134,11 @@ eMarketer-implied ~$2.3bn is a **consistency check**, not an independent proof.
 - Base ads/GMV ~2.55%. Gap to 4.0% = **145 bps**.
 - 1.45% × $77.32bn = **+$1.12bn ads**.
 - If incremental contribution is 70–90% (unverified analog): **+$0.78–1.01bn** of contribution.
-- TTM revenue $35,182mn; TTM EBIT $2,907mn (8.26%). Adding $1.12bn revenue and $0.78–1.01bn EBIT → TTM EBIT margin **~10.1–10.7%**.
+- TTM revenue $35,182mn; TTM EBIT $2,907mn (8.26%). Adding $1.12bn revenue **and** $0.78–1.01bn EBIT → new TTM EBIT margin **~10.2–10.8%** (calculation: $3,691–3,916mn / $36,302mn).
 
-That is **one** path toward the reverse DCF’s embedded ~13% terminal EBIT (`reverse-dcf-2026-08-16.md`). It is **not** sufficient on its own: credit PDA and shipping subsidies are larger near-term P&L items.
+That is **one** path toward the reverse DCF’s embedded ~13% terminal EBIT (`reverse-dcf-2026-08-16.md`). Credit losses and shipping subsidies remain separately large near-term P&L items; they are not netted against ads revenue.
 
-**Scale check (reported vs reconstructed):** Q2’26 PDA **$1,276mn** vs base ads **~$559mn**. Ads would need to roughly **double** just to match one quarter of credit provisions. High incremental margin does not make a $0.6bn line the offset to a $1.3bn provision line.
+**Scale check (not an offset):** Q2’26 PDA **$1,276mn** (reported expense) vs base ads **~$559mn** (reconstructed revenue) ≈ **0.4×**. These lines do not net. An ads contribution at an unverified 70–90% incremental margin would be ~$390–500mn — still a different economic object from PDA.
 
 ---
 
@@ -144,7 +146,7 @@ That is **one** path toward the reverse DCF’s embedded ~13% terminal EBIT (`re
 
 - **Does:** replace “ads is a mystery high-margin residual” with a sourced **$0.5–0.6bn quarterly / ~$2bn TTM** working range and a **~20% YoY take-rate expansion** in Q2.
 - **Does:** show why a 4% GMV ads outcome is still **material** to terminal margin (~+2 EBIT ppts on today’s GMV) and why the 4× residual-sales idea in open question #4 is not crazy — it is just **unearned**.
-- **Does not:** change 25 / 45 / 30. The investment cycle is still credit + free shipping. Ads is the best **identified** offset, not a demonstrated payback.
+- **Does not:** change 25 / 45 / 30. The investment cycle is still credit + free shipping. Ads is the best **identified** high-margin growth line in the reconstruction, not a demonstrated payback and not a net against PDA.
 - **Does not:** justify treating street FY27 EPS $55.99 as ads-driven. Street does not publish an ads line I can audit.
 
 **Falsifiers for this reconstruction:**
@@ -162,3 +164,11 @@ That is **one** path toward the reverse DCF’s embedded ~13% terminal EBIT (`re
 - On-platform vs off-platform / CBT / Top Brands mix in dollars.
 - Whether “10% digital-ad share” uses eMarketer-like digital, retail media only, or another vendor.
 - Country ads mix (Q4’23 call: Argentina ~20% of GMV but ~10% of ads — that dilution can still move the consolidated take-rate).
+
+---
+
+## 8. Pre-merge review (2026-08-17)
+
+Rechecked arithmetic before PR #5 review. Unchanged after recheck: Q4’24 ads $305.5mn (2.1% × $14,548mn); Q4’23 cross-check $215.2mn × 1.41 = $303.4mn; Q2’24 GMV residual $12,647mn; Q2 chain $483 / $559 / $634mn; take-rate expansion 1.73 / 1.44 ≈ 1.20; 4% GMV gap +$1.12bn ads.
+
+Corrected in this review: TTM calculated envelope **~$1.7–2.1bn** (was rounded to $2.2bn on the high end); 4% thought-experiment TTM EBIT margin **~10.2–10.8%** after adding both ads revenue and assumed contribution to the TTM (was ~10.1–10.7%). Labels unchanged: reported take-rates and growth rates vs calculations vs interpolated Q2’24 start-rate vs inferences.

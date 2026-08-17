@@ -24,7 +24,7 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 
 - Brazil FXN GMV +39%, items +56%, conversion +1.1 ppt a full year after the threshold cut (Q2 letter + call).
 - Ecosystemic users +37% YoY; cardholders 2–3× more likely to stay ecosystemic (management).
-- Ads FXN +62%; >10% LatAm digital-ad share (management). Working Q2’26 ads ~$0.48–0.63bn / TTM ~$1.7–2.2bn (calculation, 2026-08-17).
+- Ads FXN +62%; >10% LatAm digital-ad share (management). Working Q2’26 ads ~$0.48–0.63bn / TTM ~$1.7–2.1bn (calculation, 2026-08-17).
 - 15–90 NPL 7.0% / card 4.6%, near lows; Q1 provision spike reversed as promised.
 - Share count stable; LTRP is cash, not dilution.
 - Structural e-comm and financial-inclusion gap vs US (management claim).
@@ -54,7 +54,7 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 
 ### 2026-08-17 — ads reconstruction; no probability change
 
-New work: last reported ads/GMV (Q4’24 2.1%) chained through subsequent letter growth rates. Q2’26 working range ~$480–630mn (base ~$560mn, ~2.55% of GMV). TTM sketch ~$1.7–2.2bn. A 4% GMV outcome would be ~+2 TTM EBIT ppts at an unverified 70–90% contribution analog; Q2 PDA $1,276mn is still ~2× base ads. This sizes the high-margin offset. It does **not** change 25/45/30. No new company operating print. No 8-K after 2026-08-06.
+New work: last reported ads/GMV (Q4’24 2.1%) chained through subsequent letter growth rates. Q2’26 working range ~$480–630mn (base ~$560mn, ~2.55% of GMV). TTM envelope ~$1.7–2.1bn. A 4% GMV outcome would be ~+2 TTM EBIT ppts at an unverified 70–90% contribution analog. Q2 PDA $1,276mn is about 2.3× reconstructed ads *revenue* — a scale comparison, not an economic offset (ads revenue and credit provisions do not net). This sizes the high-margin line. It does **not** change 25/45/30. No new company operating print. No 8-K after 2026-08-06.
 
 ### 2026-08-17 — eight-quarter estimate history; no probability change
 

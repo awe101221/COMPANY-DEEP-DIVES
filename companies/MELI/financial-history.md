@@ -98,7 +98,7 @@ Last company take-rate print: **Q4 2024 ads = 2.1% of GMV** = $306mn on $14,548m
 | Q1 2026 | +73% | +63% | — | — | Growth only |
 | Q2 2026 | +73% | +62% | **483–634 (base 559)** | **2.20–2.89% (base 2.55%)** | Calculation; Q2’24 take-rate interpolated |
 
-Do not treat the Q2 2026 base as a company-reported number. TTM sketch ~$1.7–2.2bn.
+Do not treat the Q2 2026 base as a company-reported number. TTM calculated envelope ~$1.7–2.1bn (base sketch ~$1.9bn). Ads revenue and credit provisions are not netted.
 
 ## USD vs FXN growth by country (Q2’26 letter tables)
 
