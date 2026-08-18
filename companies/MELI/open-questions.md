@@ -1,6 +1,6 @@
 # MELI Open Research Questions
 
-**Last reviewed:** 2026-08-17 (ads reconstruction run)
+**Last reviewed:** 2026-08-18 (ownership / 13D run)
 
 Rank unresolved questions by their potential effect on investment decisions, not by ease of answering.
 
@@ -16,12 +16,12 @@ Rank unresolved questions by their potential effect on investment decisions, not
 | 8 | Mexico tax-reform GMV drag in ppts | Separates temporary World Cup from structural | Management quantification | Low | Open |
 | 9 | Customer-fund / restricted-cash mapping vs regulatory regimes | EV bridge quality | 10-K notes by country | Medium | Open |
 | 10 | 2026 LTRP / bonus payout sensitivity to EBIT | Incentive alignment | 8-K already read | Low-Med | Open |
-| 11 | Insider / 13D ownership after June 2026 filings | Governance / flow | 13D/A 2026-06-18; Form 4s | High researchability — alternate next if #4 stalls | Open |
+| 11 | Insider / 13D ownership after June 2026 filings | Governance / flow | 13D/A 2026-06-18; Form 4s; DEF 14A; 13Gs | **Progressed 2026-08-18** — `ownership-2026-08-18.md`. Residual: undescribed 150k 13D drop vs April proxy; Q2 13Fs | Progressed; June distribution sourced |
 | 12 | Food-delivery contribution to GMV/items (definition break) | KPI comparability | Not disclosed | Low | Open |
 
 ## Resolved questions
 
-None fully resolved. #4, #5, and #6 are progressed, not closed.
+None fully resolved. #4, #5, #6, and #11 are progressed, not closed.
 
-**Selected this run:** #4 (ads dollars).  
-**Suggested next run if no new 8-K:** #11 (13D/A / Form 4s) or a full 10-K risk-factor read. Do not redo #4 unless a new ads/GMV print arrives.
+**Selected this run:** #11 (13D/A / Form 4s).  
+**Suggested next run if no new 8-K:** full 10-K risk-factor read, or the undescribed 150k 13D reduction via Amendment No. 1. Do not redo #4, #5, #6, or #11 unless a new print, a new 13D/Form 4, or a >10% price move arrives.

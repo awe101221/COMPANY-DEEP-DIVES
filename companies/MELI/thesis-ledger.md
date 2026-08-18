@@ -1,8 +1,8 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and both 2026-08-17 incremental runs: no probability change.  
-**Last thesis review:** 2026-08-17 (ads reconstruction)  
-**Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
+**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon, both 2026-08-17 incremental runs, and 2026-08-18: no probability change.  
+**Last thesis review:** 2026-08-18 (ownership / 13D)  
+**Valuation as of:** 2026-08-17 16:00 EDT close $1,787.57 (was $1,844.58 on 2026-08-14)
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
 
@@ -16,7 +16,7 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 | Base | 45% | FXN growth mid/high-30s; EBIT 6–9%; 15–90 NPL ≤8%; issuance can be throttled | Earnings grow slower than revenue; FCF credit-constrained; multiple 35–50×; range-bound $1,600–2,200 | Q2 beat on growth, miss on quality; street FY26 EPS flat YoY | Card 15–90 >6.5% or group >9% |
 | Bear | 30% | Incremental EBIT stays ≤0; 90+ aging is the cycle; Mexico/AR dilute; multiple compresses | 2026–27 NI down or flat; $1,200–1,500 | Incremental EBIT −4.2% Q2 / −4.7% H1; 90–360 DPD 18.7%; H1 adj. FCF $158mn | Unused lines >$18bn with card NIMAL still negative |
 
-**Variant perception:** After the Q2 selloff, the market already doubts a quick return to 12% EBIT. The remaining disagreement is whether **ecosystem LTV** (management) exceeds the **visible credit + subsidy cash drain** (10-Q). Reverse DCF (2026-08-16 afternoon) says the $1,845 price still embeds ~13% terminal EBIT at ~9% WACC, or faster duration. I am in the middle: Brazil engagement evidence is better than a typical growth story; credit disclosure is worse than a typical bank’s.
+**Variant perception:** After the Q2 selloff, the market already doubts a quick return to 12% EBIT. The remaining disagreement is whether **ecosystem LTV** (management) exceeds the **visible credit + subsidy cash drain** (10-Q). Reverse DCF (2026-08-16 afternoon) says the then-$1,845 price embedded ~13% terminal EBIT at ~9% WACC, or faster duration. The 2026-08-17 close ($1,788) is a 3% tape move, not a new model. I am in the middle: Brazil engagement evidence is better than a typical growth story; credit disclosure is worse than a typical bank’s.
 
 **Confidence in the probability set:** ~48% (was ~40% on 2026-08-16). Eight-quarter estimate history is sourced (`estimate-vs-actuals-2026-08-17.md`); ads dollars are now a ranged estimate (`ads-revenue-reconstruction-2026-08-17.md`); reverse DCF exists but is not a full integrated model. Remaining gaps: ads incremental margin, 90+ by product, integrated forecast.
 
@@ -38,7 +38,7 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 - H1 adj. FCF $158mn vs NI $883mn.
 - Argentina = 18% of revenue and 40% of direct contribution.
 - Mexico GMV FXN slowed to +26%; tax reform + World Cup + device losses.
-- Reverse DCF: 6.7% forever at 10% WACC ≈ $720/share vs $1,845 tape.
+- Reverse DCF: 6.7% forever at 10% WACC ≈ $720/share vs $1,845 tape (still the right comparison at $1,788).
 
 ### Falsifiers (observable)
 
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-18 — ownership / 13D; no probability change
+
+New work: June 18, 2026 13D/A is an estate-planning distribution of 3,400,136 shares (6.70%) from Meliga LP to Meliga Corp. for no consideration, with no Item 4 plans (`ownership-2026-08-18.md`). NEO equity is de minimis (directors + officers 0.26% at the April proxy). First post-weekend cash print $1,787.57 (−3.09%); Yahoo FY26/FY27 EPS still $38.31 / $55.99. This removes a *possible* “founder selling” overlay. It does **not** change 25/45/30. No new company operating print. No 8-K after 2026-08-06. Reverse DCF not redone (move <10%).
 
 ### 2026-08-17 — ads reconstruction; no probability change
 
