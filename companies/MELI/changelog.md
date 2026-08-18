@@ -2,6 +2,14 @@
 
 Dated views only. Do not silently overwrite.
 
+## 2026-08-18 — Incremental run (ownership / 13D)
+
+- **Trigger:** scheduled cron 2026-08-18T12:01:47Z. Prior successful run 2026-08-17 ~04:00 UTC; research now on `main` via PR #5 (`261a59f`).
+- **Company event:** none. No 8-K after 2026-08-06. First post-weekend cash print: 2026-08-17 close **$1,787.57** (−3.09% vs 2026-08-14 $1,844.58). Consensus EPS unchanged.
+- **Deep research:** ownership reconstruction (`ownership-2026-08-18.md`). June 13D/A is an estate-planning wrap of 3,400,136 shares / 6.70%, not a sale. NEO equity is de minimis.
+- **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence stays ~48%.
+- **Status:** `research progress only`.
+
 ## 2026-08-17 — Pre-merge review of PR #5
 
 - **Base:** PR #5 is based on current `main` (`ef1cdb2`). `main` is not empty: it already has the repo scaffold, MELI folder templates, and the MELI analyst skill. This PR only changes files under `companies/MELI/`.

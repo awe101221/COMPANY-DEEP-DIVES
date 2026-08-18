@@ -1,6 +1,6 @@
 # MELI catalyst calendar
 
-**As-of:** 2026-08-16 (afternoon check: IR calendar unchanged). Only items that can move growth, margins, credit, cash, regulation, or valuation.
+**As-of:** 2026-08-18 (IR calendar unchanged vs 2026-08-16). Only items that can move growth, margins, credit, cash, regulation, or valuation.
 
 | Date | Event | Why it matters | Status |
 |---|---|---|---|

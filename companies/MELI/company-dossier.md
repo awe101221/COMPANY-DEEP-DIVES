@@ -1,6 +1,6 @@
 # MELI company dossier
 
-**Last updated:** 2026-08-17 (ads reconstruction added under Commerce; no leadership or capital-structure change). Stable facts; date any item that can change.
+**Last updated:** 2026-08-18 (ownership section added; Summers Form 3). Stable facts; date any item that can change.
 
 ## Identity
 
@@ -30,6 +30,7 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 | Fintech President | Osvaldo Giménez | Q2 2026 call; 2026 bonus 8-K |
 | Technology & Operations President | Daniel Rabinovich | 2026-03-31 8-K (bonus/LTRP) |
 | EVP & CFO (PFO/PAO) | Martín de los Santos | 10-Q / 8-K signatures |
+| Marketing & Advertising EVP | Sean Summers | Form 3 filed 2026-06-26 (event 2026-06-17); 305 shares |
 | IR (on calls) | Richard Cathcart, Senior Director IR | Q2 2026 call |
 
 **Incentives (2026-03-31 8-K):** 2026 bonus for NEOs tied to constant-dollar net revenues & financial income, constant-dollar income from operations, adjusted TPV, and Competitive NPS. 2026 LTRP: six-year cash, first payment Jan–Apr 2027, grant date 1 Jan 2026. **Implication:** official incentives still reward *growth and operating income*, not reported GAAP EPS or FCF. That is consistent with the current “invest over harvest” posture.
@@ -37,6 +38,23 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 **Governance notes (2025 10-K):** staggered board; 20% voting-power limitation; no dividend since Q1 2018 (board: reinvestment > dividend). LTRP is cash, not equity — dilution is low (share count ~50.7mn and stable) but compensation still hits G&A / opex.
 
 **Share count (2026-06-30):** 50,696,802 issued and outstanding; 226,593 treasury; 110,000,000 authorized.
+
+## Ownership (as of June 2026 filings; read 2026-08-18)
+
+No 10% holder. Charter 20% voting-power limitation still applies (2025 10-K). Full memo: `ownership-2026-08-18.md`.
+
+| Holder | Shares | % | As-of | Source | Label |
+|---|---:|---:|---|---|---|
+| Meliga No. 1 Corp. / Galperin Trust /SD / Corpag | 3,400,136 | 6.70% | 2026-06-17 | 13D/A No. 2 filed 2026-06-18 | Estate-planning wrap; shared vote/disposition; no Item 4 plans |
+| Baillie Gifford & Co. | 3,233,259 | 6.38% | 2026-03-31 | 13G/A No. 18 filed 2026-05-06 | Passive; 551k below the Apr-2025 13G cited in the 2026 proxy |
+| Capital Research Global Investors | 2,717,172 | 5.4% | 2026-03-31 | 13G filed 2026-05-14 | New 5% passive sleeve |
+| All directors and officers (17) | 129,974 | 0.26% | 2026-04-14 | DEF 14A | Calculation on 50,697,182 |
+| Marcos Galperin (personal) | 35 | * | 2026-04-14 | DEF 14A | Not the trust block |
+| Osvaldo Giménez | 18,402 | * | 2026-04-14 | DEF 14A | Only NEO position of size |
+
+The June 13D/A moved the same 3,400,136 shares from Meliga LP to Meliga Corp. for **no consideration**. It is **not** an open-market founder sale. The 13D count is 150,000 below the April 14, 2026 proxy figure (3,550,136, citing the Nov 1, 2024 13D/A); Amendment No. 2 does not describe that reduction.
+
+Section 16 after the proxy, through 2026-08-18: Aguzin bought 600 shares on 2026-05-22; Melamud bought 124.64 on 2026-06-11; June 12 independent-director grants of 94 shares; Tolda gifted 250. No Form 4 after 2026-06-15.
 
 ## History — skeleton (to be deepened)
 

@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run).
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run). S53–S62 accessed **2026-08-18** (ownership run).
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -58,10 +58,20 @@ Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (esti
 | S50 | Latin America Ad Spending 2025 | eMarketer | 2025-06-25 | 2025 market | https://www.emarketer.com/content/latin-america-ad-spending-2025 | Total LatAm ads >$40bn; digital 56.6% — used only to test the 10% share claim |
 | S51 | Amazon 2025 10-K ads line | Amazon / SEC | 2026 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm | Advertising services $68.635bn analog; Amazon does not report ads/GMV |
 | S52 | Yahoo MELI quote + analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,844.58; FY26/27 EPS $38.31 / $55.99 unchanged |
+| S53 | EDGAR company index reconfirm | SEC | live 2026-08-18 | filings through 2026-08-06 | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001099590 | Still no 8-K after 2026-08-06 |
+| S54 | Schedule 13D/A No. 2 | Galperin Trust group / SEC | 2026-06-18 | event 2026-06-17 | https://www.sec.gov/Archives/edgar/data/1099590/000143774926021169/0001437749-26-021169.txt | 3,400,136 / 6.70%; LP→Corp estate wrap; no Item 4 plans |
+| S55 | Schedule 13D (prior) | Galperin Trust group / SEC | 2024-05-24 | event 2024-05-20 | https://www.sec.gov/Archives/edgar/data/1099590/000143774924018325/0001437749-24-018325.txt | 3,650,136 / 7.2%; NZ→SD trust transfer |
+| S56 | DEF 14A | MELI / SEC | 2026-04-23 | as-of 2026-04-14 | https://www.sec.gov/Archives/edgar/data/1099590/000109959026000010/meli-20260423.htm | Beneficial-ownership table; CEO transition; Baillie 2025 13G cite |
+| S57 | Schedule 13G/A No. 18 | Baillie Gifford / SEC | 2026-05-06 | event 2026-03-31 | https://www.sec.gov/Archives/edgar/data/1099590/000108887526000027/0001088875-26-000027.txt | 3,233,259 / 6.38%; sole vote 2,425,549 |
+| S58 | Schedule 13G | Capital Research Global Investors / SEC | 2026-05-14 | event 2026-03-31 | https://www.sec.gov/Archives/edgar/data/1099590/000142284826000061/0001422848-26-000061.txt | 2,717,172 / 5.4%; initial 13G |
+| S59 | Form 4 Aguzin | SEC | 2026-05-26 | trade 2026-05-22 | https://www.sec.gov/Archives/edgar/data/1099590/000162828026038297/0001628280-26-038297.txt | Open-market buy 600 shares |
+| S60 | Form 4 Melamud | SEC | 2026-06-15 | trade 2026-06-11 | https://www.sec.gov/Archives/edgar/data/1099590/000162828026043342/0001628280-26-043342.txt | Open-market buy 124.64 shares |
+| S61 | Form 3 Summers | SEC | 2026-06-26 | event 2026-06-17 | https://www.sec.gov/Archives/edgar/data/1099590/000162828026045860/0001628280-26-045860.txt | Marketing & Advertising EVP; 305 shares |
+| S62 | Yahoo MELI quote + analysis | Yahoo / Refinitiv | retrieved 2026-08-18 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,787.57; FY26/27 EPS $38.31 / $55.99 |
 
-**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
+**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV. Fake “insider” tables inventing non-EDGAR names (John Mitchell, Sarah Chen, etc.). Headlines that Baillie “boosted” MELI in the May 2026 13G/A — the live 13G/A is 551k shares *below* the April 2025 13G cited in the 2026 proxy.
 
-**Not obtained this run:** official call audio; full 2025 10-K risk-factor read; 13F/13D detail; sell-side models; X posts.
+**Not obtained this run:** official call audio; full 2025 10-K risk-factor read; 13D/A Amendment No. 1 (2024-11-01) full text; Q2 2026 13Fs; sell-side models; X posts.
 
 ## Source priority
 
