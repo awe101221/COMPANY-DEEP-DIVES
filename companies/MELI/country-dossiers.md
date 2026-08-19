@@ -1,6 +1,6 @@
 # MELI country dossiers
 
-**As-of:** 2026-08-16 (afternoon check: no new official BR/MX/AR print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
+**As-of:** 2026-08-19 (no new official Copom / Banxico / INDEC / IBGE print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
 
 ## Brazil (~54% of Q2 revenue)
 
@@ -13,6 +13,8 @@
 - Acquiring TPV +32% YoY (FXN), helped by large online merchants (lower take-rate, incremental dollars).
 - Free/slow shipments variable-contribution-positive in **half** of ASP bands R$19–79 (mgmt).
 - Credit: Brazil consumer NIMAL recovered QoQ after Q1 provision spike; NPLs “broadly stable YoY” and “nearly bottoms” (Giménez). Card issuance 2.6mn in the quarter, described as Brazil-heavy.
+- **2026-08-17 (after the Q2 letter):** Mercado Pago began offering consignado privado to CLT workers (app + CTPS Digital). Company-attributed July pilot: 5,000 contracts in four days; gradual rollout. **Not in the Q2 letter.** Dollar scale is a rounding error on the $16.4bn book (`updates/2026-08-19.md`). Industry prior (Folha citing BCB, June 2026): private-payroll stock R$113.3bn, NPL **8.6%** (record), avg rate 54% a.a. Folha: government attributes >50% of that NPL to a job-change withholding-rail failure.
+- **Casas Bahia (2026-08-16):** Brazil’s large-format appliance/electronics retailer filed for recuperação judicial (CVM fato relevante). Nov-2025 MELI partnership was an assortment patch for bulky goods. MELI: partnership still operating (Bloomberg Línea, 2026-08-18). Citi: “marginalmente negativo” for MELI; CB ~2% of Brazil 3P / <5% of online (third-party).
 
 **Macro (official):**
 
@@ -23,7 +25,7 @@
 
 **MELI transmission:** Brazil is the only large market where FXN growth is *accelerating*. That is why management is spending. The bear case for Brazil is not “growth dies tomorrow”; it is “they bought 56% item growth with take-rate and shipping that never fully earn back, while a 2027 credit cycle hits a 75% growing book.” Electricity inflation is a small extra logistics-cost watch item (CFO: some energy costs absorbed).
 
-**Competition:** Amazon–Nubank NuPay at Amazon checkout (July 2026) attacks the financing wedge. Shopee remains the low-ASP competitor; ignore the $38bn-Brazil-GMV blog claim.
+**Competition:** Amazon–Nubank NuPay at Amazon checkout (July 2026) attacks the financing wedge. Shopee remains the low-ASP competitor; ignore the $38bn-Brazil-GMV blog claim. Casas Bahia’s RJ is a physical-retail credit-cycle data point, not a new marketplace competitor. Magalu is Citi’s suggested replacement bulky-goods partner; that is an unverified lead.
 
 ## Mexico (~23% of Q2 revenue)
 

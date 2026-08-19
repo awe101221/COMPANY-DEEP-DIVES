@@ -1,6 +1,6 @@
 # MELI expectations map
 
-**As-of:** 2026-08-17. Price as-of 2026-08-14 close **$1,844.58** (no session since; this run is before the 2026-08-17 cash open). Consensus unchanged vs 2026-08-16 afternoon.
+**As-of:** 2026-08-19. Price as-of 2026-08-18 close **$1,779.14** (Yahoo chart API + StockAnalysis). −3.5% vs the 2026-08-14 $1,844.58 reverse-DCF print; −0.5% vs 2026-08-17 $1,787.57. DCF not rebuilt (<10% rule).
 
 ## What the price appears to embed (inference, now reverse-DCF backed)
 
@@ -22,18 +22,18 @@ Street near-term is a trough: FY26 EPS $38.31 vs FY25 $39.40; implied EBIT margi
 
 ## Consensus vs my read
 
-| Object | Market / street (third-party, Yahoo 2026-08-16) | My read |
+| Object | Market / street (third-party) | My read |
 |---|---|---|
-| 2026 growth | Revenue $41.63bn (+44%) | Agree: FXN 35–45% is the base |
-| 2026 EPS | $38.31 (cut 4% in 30 days, 7.5% in 90 days) | Agree directionally; quality of the $1.94bn NI is the issue |
-| 2027 EPS | $55.99 (+46% YoY) | Street rebound is a *margin* forecast I would not underwrite at 70%+ |
+| 2026 growth | Yahoo 2026-08-17: revenue $41.63bn (+44%). StockAnalysis/S&P 2026-08-19: $41.67bn | Agree: FXN 35–45% is the base |
+| 2026 EPS | Last sourced Yahoo (2026-08-18 memory): $38.31. StockAnalysis 2026-08-19: $39.25 **non-GAAP** — do not splice | Agree directionally; quality of the $1.94bn NI is the issue |
+| 2027 EPS | Yahoo $55.99; StockAnalysis $56.72 (non-GAAP flag on that page) | Street rebound is a *margin* forecast I would not underwrite at 70%+ |
 | 2026–27 EBIT | Implied ~7.0–7.8% | Matches the print; does not match the multiple |
 | Credit | 15–90 NPL “fine” | Underweights 90+ aging and unused lines |
 | Terminal margin | Embedded 12–15% (DCF) | Possible, not demonstrated |
 | Brazil | Priced as the engine | Agree |
 | Mexico | Soft landing | Risk of longer tax-reform drag |
 | Argentina | Often ignored in USD models | 40% of DC — not ignorable |
-| Avg street target | ~$2,250–2,257 (StockAnalysis / prior run) | Assumes a 2027 re-rating I treat as bull, not base |
+| Avg street target | $2,250 (StockAnalysis / S&P, 24 analysts, 2026-08-19) | Assumes a 2027 re-rating I treat as bull, not base |
 
 ## What would be a genuine surprise vs today’s tape
 
@@ -42,4 +42,6 @@ Street near-term is a trough: FY26 EPS $38.31 vs FY25 $39.40; implied EBIT margi
 
 ## Ownership / flow
 
-Not updated this run (13F lag). June 2026 Form 4s and a 13D/A (2026-06-18) remain an open workstream (#11). Short interest 809k shares / 1.60% of float as of 2026-07-31 (Yahoo/Morningstar) — not a crowded short.
+Ownership map written 2026-08-18 on PR #6 (`ownership-2026-08-18.md`) — not yet on `main`. June 13D/A is a 6.70% estate wrap, not a sale. Short interest 809k shares / 1.60% of float as of 2026-07-31 (Yahoo/Morningstar, last pulled 2026-08-16) — not a crowded short.
+
+**2026-08-19 tape note:** consignado and Casas Bahia are not large enough, on the evidence above, to move FY26/FY27 consensus by themselves.

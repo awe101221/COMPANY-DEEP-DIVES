@@ -1,8 +1,8 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and both 2026-08-17 incremental runs: no probability change.  
-**Last thesis review:** 2026-08-17 (ads reconstruction)  
-**Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
+**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon, both 2026-08-17 incremental runs, 2026-08-18 ownership (PR #6), and 2026-08-19: no probability change.  
+**Last thesis review:** 2026-08-19 (consignado + 10-K Item 1A)  
+**Valuation as of:** 2026-08-18 16:00 EDT close $1,779.14
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
 
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-19 — consignado launch + Casas Bahia RJ + 10-K Item 1A; no probability change
+
+New work: Mercado Pago consignado privado went live 2026-08-17 (management-via-press; 5,000-contract July pilot). Industry BCB-cited NPL 8.6% in June argues against treating payroll loans as structurally safe. Casas Bahia filed RJ 2026-08-16; MELI says the Nov-2025 partnership is still operating; Citi calls MELI impact marginally negative. 10-K Item 1A inventory completed; Q2 10-Q says no material factor change through 2026-06-30. These refine the credit-mix and assortment watch-list. They do **not** change 25/45/30. No new 8-K after 2026-08-06. Price $1,779.14 (−3.5% vs the $1,845 reverse-DCF print; DCF not rebuilt).
 
 ### 2026-08-17 — ads reconstruction; no probability change
 

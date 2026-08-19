@@ -1,6 +1,6 @@
 # MELI KPI dictionary
 
-**Last updated:** 2026-08-17 (ads reconstruction). Definitions from Q2 2026 shareholder letter and 2025 10-K unless noted.
+**Last updated:** 2026-08-19 (consignado note). Definitions from Q2 2026 shareholder letter and 2025 10-K unless noted.
 
 | KPI | Official definition | Units | Known definition changes | Where disclosed |
 |---|---|---|---|---|
@@ -28,6 +28,7 @@
 | MELI+ subscribers | Loyalty program subscribers | n/a | +72% YoY Q2’26 (mgmt); absolute not disclosed | Letter |
 | AUM | Mercado Pago assets under management | $ bn | $23bn Q2’26; AUM/user $264 (mgmt) | Letter |
 | Credit portfolio | Management’s $16.4bn Q2 figure matches 10-Q **gross** loans receivable $16,375mn | $ | Always state gross vs net | Letter vs 10-Q Note 4 |
+| Consignado privado / Crédito do Trabalhador | Payroll-deducted CLT loan; **not a letter KPI** as of Q2 2026. Offered from 2026-08-17 via MP app or CTPS Digital (management-via-press) | contracts / $ not disclosed | New product; do not infer a book from the 5,000-contract July pilot | Press 2026-08-17; 10-K lending risk |
 
 ## Reconciliation notes
 
