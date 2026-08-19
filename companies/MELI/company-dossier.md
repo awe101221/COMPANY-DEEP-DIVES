@@ -1,6 +1,6 @@
 # MELI company dossier
 
-**Last updated:** 2026-08-17 (ads reconstruction added under Commerce; no leadership or capital-structure change). Stable facts; date any item that can change.
+**Last updated:** 2026-08-19 (Mercado Pago consignado privado launch; Casas Bahia partnership/RJ; 10-K Item 1A inventory). Stable facts; date any item that can change.
 
 ## Identity
 
@@ -17,7 +17,7 @@
 Latin America’s largest online commerce and fintech ecosystem (company claim; 10-K/10-Q). Two economic engines that management insists are one flywheel:
 
 1. **Commerce:** Mercado Libre Marketplace, Mercado Envíos, Mercado Ads, 1P, classifieds, MELI+, food delivery (in GMV/buyers/items from Q2 2025).
-2. **Fintech (Mercado Pago):** acquiring (online + instore + QR), wallet, cards, credit (Mercado Crédito), asset management / yielding account, insurance, crypto.
+2. **Fintech (Mercado Pago):** acquiring (online + instore + QR), wallet, cards, credit (Mercado Crédito), asset management / yielding account, insurance, crypto. **As of 2026-08-17:** private payroll loans (consignado privado / Crédito do Trabalhador) for CLT workers via the Mercado Pago app or CTPS Digital (management claim via press; not in an 8-K). July pilot: 5,000 contracts in four days; gradual rollout. See `updates/2026-08-19.md`.
 
 **Geographic footprint (10-Q MD&A):** Commerce in 18 countries; Mercado Pago in 8 (Argentina, Brazil, Mexico, Chile, Colombia, Peru, Uruguay, Ecuador). Venezuela deconsolidated since December 2017. Brazil + Mexico + Argentina = ~95% of revenue (Q2 2026 calculated 95.4%).
 
@@ -54,6 +54,9 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 | 2026-Q1/Q2 | Card issuance 2.7mn then 2.6mn / quarter | Credit mix shift |
 | 2026-04 | Brazil PIX buyer discounts + selected take-rate cuts | Q2 gross-margin hit |
 | 2026-Q2 | Instore acquiring launched in Uruguay | Footprint |
+| 2025-11 | Commercial partnership with Grupo Casas Bahia (appliances / electronics / furniture on MELI) | Assortment patch for bulky goods (third-party / press) |
+| 2026-08-16 | Casas Bahia files recuperação judicial (CVM fato relevante) | Partner-risk watch; MELI told Bloomberg Línea the storefront remains active (2026-08-18) |
+| 2026-08-17 | Mercado Pago starts offering consignado privado | New credit product; de minimis vs $16.4bn book |
 
 ## Business map (how money is made)
 
@@ -61,7 +64,7 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 
 **Advertising (Mercado Ads):** not broken out in GAAP. Last company take-rate print was **Q4 2024: 2.1% of GMV**. Subsequent letters give growth only (Q2 2026: +73% USD / +62% FXN; management: first time >10% of LatAm digital-ad market; “one of our highest-margin revenue lines”). Working reconstruction as of 2026-08-17: Q2 2026 ads **~$480–630mn** (base ~$560mn, ~2.55% of GMV); TTM envelope **~$1.7–2.1bn**. Incremental margin is not disclosed. Ads revenue is not netted against credit provisions. Full memo: `ads-revenue-reconstruction-2026-08-17.md`.
 
-**Fintech revenue (letter definition):** off-platform fees, financing fees, interest on merchant/consumer/card credit, interest on Mpago cash/investments net of yield passed to Brazilian users, MPOS device sales.
+**Fintech revenue (letter definition):** off-platform fees, financing fees, interest on merchant/consumer/card credit, interest on Mpago cash/investments net of yield passed to Brazilian users, MPOS device sales. Consignado privado interest, if/when material, would sit inside credit interest; it is **not** a disclosed letter KPI as of Q2 2026.
 
 **Do not confuse:**
 

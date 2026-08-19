@@ -2,6 +2,15 @@
 
 Dated views only. Do not silently overwrite.
 
+## 2026-08-19 — Incremental run (consignado + Casas Bahia + 10-K Item 1A)
+
+- **Trigger:** scheduled cron 2026-08-19T12:00:04Z. Prior successful run 2026-08-18 ~12:30 UTC on `cursor/meli-intelligence-update-aad0` (PR #6, ownership; still open, not on `main`). This branch is based on `main` at PR #5 (`261a59f`).
+- **Company event:** no 8-K after 2026-08-06. Two non-IR developments: Mercado Pago consignado privado launch 2026-08-17 (5k-contract July pilot); Casas Bahia RJ 2026-08-16 with MELI saying the partnership is still live.
+- **Deep research:** 2025 10-K Item 1A inventory (`risk-factors-10k-2026-08-19.md`). Q2 10-Q: no material factor change through 2026-06-30.
+- **Tape:** 2026-08-18 close $1,779.14. Reverse DCF not rebuilt.
+- **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence stays ~48%.
+- **Status:** `material update`. **Do not merge automatically.**
+
 ## 2026-08-17 — Pre-merge review of PR #5
 
 - **Base:** PR #5 is based on current `main` (`ef1cdb2`). `main` is not empty: it already has the repo scaffold, MELI folder templates, and the MELI analyst skill. This PR only changes files under `companies/MELI/`.

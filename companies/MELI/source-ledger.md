@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run).
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run). S53–S66 accessed **2026-08-19**.
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -58,10 +58,24 @@ Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (esti
 | S50 | Latin America Ad Spending 2025 | eMarketer | 2025-06-25 | 2025 market | https://www.emarketer.com/content/latin-america-ad-spending-2025 | Total LatAm ads >$40bn; digital 56.6% — used only to test the 10% share claim |
 | S51 | Amazon 2025 10-K ads line | Amazon / SEC | 2026 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm | Advertising services $68.635bn analog; Amazon does not report ads/GMV |
 | S52 | Yahoo MELI quote + analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,844.58; FY26/27 EPS $38.31 / $55.99 unchanged |
+| S53 | EDGAR company index reconfirm | SEC | live 2026-08-19 08:01 EDT | filings through 2026-08-06 | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001099590 | Still no 8-K after 2026-08-06 |
+| S54 | 2025 Form 10-K Item 1A | MELI / SEC | 2026-02-25 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1099590/000109959026000006/meli-20251231.htm | 40 summarized principal risks; lending full text |
+| S55 | Q2 2026 10-Q Item 1A + Item 2 | MELI / SEC | 2026-08-06 | QE 2026-06-30 | https://www.sec.gov/Archives/edgar/data/1099590/000109959026000023/meli-20260630.htm | No material risk-factor change; 662-share / $1mn buyback |
+| S56 | Mercado Pago entra no consignado privado | Valor Econômico | 2026-08-17 (upd. 2026-08-18 05:29 BRT) | product launch | https://valor.globo.com/financas/noticia/2026/08/17/mercado-pago-entra-no-crdito-consignado-privado.ghtml | Primary-quality journalism; 5k July contracts |
+| S57 | Mercado Pago consignado — Zbinden + mechanics | O Povo | 2026-08-17 | product launch | https://www.opovo.com.br/noticias/economia/2026/08/17/mercado-pago-comeca-a-oferecer-consignado-privado-e-fecha-5-mil-contratos-na-fase-inicial.html | 70% CTPS conversion; 80% existing clients; gradual rollout (mgmt claims) |
+| S58 | BCB credit statistics via Folha | Folha / BCB | 2026-07-30 | June 2026 credit | https://www1.folha.uol.com.br/mercado/2026/07/juro-medio-cobrado-das-familias-sobe-a-64-em-junho-maior-patamar-em-quase-10-anos.shtml | Private-payroll stock R$113.3bn; NPL 8.6%; 54% a.a.; Rocha quotes |
+| S59 | Casas Bahia CVM fato relevante | Grupo Casas Bahia | 2026-08-16 | RJ filing | https://static.poder360.com.br/uploads/2026/08/fato-relevante-casas-bahia-recuperacao-judicial-16ago2026.pdf | Official petition authorization; nine subsidiaries |
+| S60 | Casas Bahia RJ petition coverage | G1 | 2026-08-17 | RJ filing | https://g1.globo.com/economia/noticia/2026/08/17/casas-bahia-entra-com-pedido-de-recuperacao-judicial.ghtml | R$17.3bn debt (petition, not in the two-page fato) |
+| S61 | Citi on MELI / Casas Bahia + MELI quote | Bloomberg Línea | 2026-08-18 | partnership | https://www.bloomberglinea.com.br/negocios/como-a-crise-da-casas-bahia-afeta-a-parceria-com-o-mercado-livre-segundo-o-citi/ | MELI: partnership still live; Citi “marginalmente negativo” |
+| S62 | Citi report recap | VEJA | 2026-08-18 | partnership | https://veja.abril.com.br/economia/o-risco-da-crise-da-casas-bahia-bhai3-respingar-no-mercado-livre-segundo-o-citi/ | Soares/Husein quote; 2% 3P / <5% online; Magalu alternative |
+| S63 | MELI quote / 5-day tape | Yahoo Finance chart API | retrieved 2026-08-19 | price | https://query1.finance.yahoo.com/v8/finance/chart/MELI?interval=1d&range=5d | 2026-08-18 close $1,779.14 |
+| S64 | MELI price + consensus snapshot | StockAnalysis / S&P Global | retrieved 2026-08-19 | price / street | https://stockanalysis.com/stocks/meli/ ; https://stockanalysis.com/stocks/meli/forecast/ | $1,779.14; PT $2,250; FY26 EPS $39.25 non-GAAP flag |
+| S65 | IR news & events reconfirm | MELI | live 2026-08-19 | calendar | https://investor.mercadolibre.com/news-and-events | GS 9/8; Q3 11/4; no consignado IR PR |
+| S66 | IPCA-15 August release date | IBGE | calendar 2026 | macro | https://anda.ibge.gov.br/estatisticas/economicas/precos-e-custos/9260-indice-nacional-de-precos-ao-consumidor-amplo-15.html | Next print 2026-08-26 |
 
-**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
+**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV. Finexus-style “Baillie boosted” headlines on the May 2026 13G/A (see PR #6). Do not splice Yahoo FY26 EPS $38.31 with StockAnalysis $39.25.
 
-**Not obtained this run:** official call audio; full 2025 10-K risk-factor read; 13F/13D detail; sell-side models; X posts.
+**Not obtained this run:** official Mercado Pago PDF press kit; BCB raw time-series extract (Folha used as the citing source); Yahoo analysis module (API unauthorized); official call audio; 13D Amendment No. 1 (2024-11-01); sell-side models; X posts.
 
 ## Source priority
 

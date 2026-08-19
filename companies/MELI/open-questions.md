@@ -1,6 +1,6 @@
 # MELI Open Research Questions
 
-**Last reviewed:** 2026-08-17 (ads reconstruction run)
+**Last reviewed:** 2026-08-19 (consignado + 10-K Item 1A)
 
 Rank unresolved questions by their potential effect on investment decisions, not by ease of answering.
 
@@ -14,14 +14,16 @@ Rank unresolved questions by their potential effect on investment decisions, not
 | 6 | Eight-quarter estimate-vs-actuals (Q3’24–Q2’26) | Tests whether street 2027 EPS $56 is a recency rebound | Old 8-Ks + Reuters/LSEG + Yahoo | **Progressed 2026-08-17** — `estimate-vs-actuals-2026-08-17.md` | Progressed; refresh after Q3 |
 | 7 | How large is Amazon–Nubank checkout volume vs MELI GMV in Brazil? | Bundle competition | Company or alternative data | Low researchability | Open |
 | 8 | Mexico tax-reform GMV drag in ppts | Separates temporary World Cup from structural | Management quantification | Low | Open |
-| 9 | Customer-fund / restricted-cash mapping vs regulatory regimes | EV bridge quality | 10-K notes by country | Medium | Open |
+| 9 | Customer-fund / restricted-cash mapping vs regulatory regimes | EV bridge quality; 10-K Item 1A #11–#13 now explicitly elevate funds/processors/card networks | 10-K notes by country | Medium — next alternate after GS | Open; 10-K language extracted 2026-08-19 |
 | 10 | 2026 LTRP / bonus payout sensitivity to EBIT | Incentive alignment | 8-K already read | Low-Med | Open |
-| 11 | Insider / 13D ownership after June 2026 filings | Governance / flow | 13D/A 2026-06-18; Form 4s | High researchability — alternate next if #4 stalls | Open |
+| 11 | Insider / 13D ownership after June 2026 filings | Governance / flow | 13D/A 2026-06-18; Form 4s | **Progressed 2026-08-18 on PR #6** (`ownership-2026-08-18.md`, not yet on `main`). Residual: undescribed 150k drop vs April proxy / Amendment No. 1 (2024-11-01) | Progressed on PR #6; residual open |
 | 12 | Food-delivery contribution to GMV/items (definition break) | KPI comparability | Not disclosed | Low | Open |
+| 13 | Consignado privado: book, yield, NPL vs cards, and averbação quality | Could offset or compound the card NIMAL hole | Letter/GS mention; BCB industry NPL; any MP disclosure of CET or ticket | High now that the product is live | **Opened 2026-08-19** — pilot 5k contracts only |
+| 14 | 2025 10-K Item 1A vs live register | Completeness of risk set | 10-K + 10-Q Item 1A | **Progressed 2026-08-19** — `risk-factors-10k-2026-08-19.md`. Refresh if a 10-Q/10-K says factors changed | Progressed |
 
 ## Resolved questions
 
-None fully resolved. #4, #5, and #6 are progressed, not closed.
+None fully resolved. #4, #5, #6, #11 (PR #6), and #14 are progressed, not closed.
 
-**Selected this run:** #4 (ads dollars).  
-**Suggested next run if no new 8-K:** #11 (13D/A / Form 4s) or a full 10-K risk-factor read. Do not redo #4 unless a new ads/GMV print arrives.
+**Selected this run:** consignado launch (#13) + 10-K Item 1A (#14).  
+**Suggested next run if no new 8-K:** GS 2026-09-08 listening brief, Amendment No. 1 for the 150k 13D residual, or #9 (customer funds) now that the 10-K elevates it. Do not redo #4, #5, #6, or the ownership map unless a new print / >10% price move / new 13D arrives.
