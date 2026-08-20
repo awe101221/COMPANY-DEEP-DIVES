@@ -1,6 +1,6 @@
 # MELI country dossiers
 
-**As-of:** 2026-08-16 (afternoon check: no new official BR/MX/AR print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
+**As-of:** 2026-08-20 (no new official BR/MX/AR print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
 
 ## Brazil (~54% of Q2 revenue)
 
@@ -22,6 +22,8 @@
 - Presidential election October 2026 (political/fiscal risk → BRL, rates).
 
 **MELI transmission:** Brazil is the only large market where FXN growth is *accelerating*. That is why management is spending. The bear case for Brazil is not “growth dies tomorrow”; it is “they bought 56% item growth with take-rate and shipping that never fully earn back, while a 2027 credit cycle hits a 75% growing book.” Electricity inflation is a small extra logistics-cost watch item (CFO: some energy costs absorbed).
+
+**Customer-fund reserve (2026-08-20 mapping):** $11,174mn of restricted cash is a BCB mandatory guarantee — 85.2% of group restricted cash, +$3,309mn in H1. A BCB payments-institution reserve-rule change is the concentrated float risk. See `customer-funds-2026-08-20.md`.
 
 **Competition:** Amazon–Nubank NuPay at Amazon checkout (July 2026) attacks the financing wedge. Shopee remains the low-ASP competitor; ignore the $38bn-Brazil-GMV blog claim.
 
@@ -57,7 +59,9 @@
 - BCRA REM (survey 29–31 Jul, published 6 Aug): 2026 inflation **29.8%**; Aug FX **$1,512/USD**; Dec FX **$1,652/USD** (+14.1% vs Dec 2025).
 - 10-Q: April 2025 FX-band liberalization; from 1 Jan 2026 bands update with last monthly inflation; dividend remittance flexibility for FY beginning 2025.
 
-**MELI transmission:** Do **not** read +20% USD or +48% FXN as real volume. Items +22% is the cleaner activity read. High DC margin means a consumption/FX shock hits group EBIT harder than the revenue mix suggests. Card book is young; a 2026–27 AR credit scare at banks is a live local headline (Giménez acknowledged others are worried).
+**MELI transmission:** Do **not** read +20% USD or +48% FXN as real volume. Items +22% is the cleaner activity read. High DC margin means a consumption/FX shock hits group EBIT harder than the revenue mix suggests. Card book is young; a 2026–27 AR credit scare at banks is a live local headline (Giménez acknowledged others are worried). BCRA mandatory-guarantee cash is only **$360mn** (2.7% of restricted cash) — Argentina’s thesis weight is DC and credit, not trapped customer funds.
+
+**Rate / political overlay (ingested 2026-08-20; not a letter KPI):** Infobae 2026-08-14, citing company disclosures: consumer TNA 48–249%, max CFTEA 1,375.94%; management claim that the max bucket is ~2% of loans and that mora is “in line with the main private banks.” Libres del Sur protest 2026-08-18; Solano usury-filing follow-up 2026-08-19. Political / reputational. No 8-K. A 2025 BCRA “wallets cannot sell official dollars” story recirculated in August 2026 searches — **rejected** as a current event (Chequeado comments dated October 2025).
 
 ## Other countries (~5% of Q2 revenue)
 

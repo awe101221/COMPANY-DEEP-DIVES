@@ -1,7 +1,7 @@
 # MELI Financial and Operating History
 
-**Status:** Partial — annual 2023–25 and quarterly 2023–Q2 2026 revenue complete; quarterly P&L from Q3 2024 through Q2 2026 now from primary 8-Ks. Ads dollars reconstructed 2026-08-17 (not GAAP). Full eight-quarter *operating-KPI* block still incomplete.  
-**Last verified:** 2026-08-17. $ millions unless noted.
+**Status:** Partial — annual 2023–25 and quarterly 2023–Q2 2026 revenue complete; quarterly P&L from Q3 2024 through Q2 2026 now from primary 8-Ks. Ads dollars reconstructed 2026-08-17 (not GAAP). Customer-funds / restricted-cash map added 2026-08-20. Full eight-quarter *operating-KPI* block still incomplete.  
+**Last verified:** 2026-08-20. $ millions unless noted.
 
 ## Annual financial history
 
@@ -135,6 +135,25 @@ Do not treat the Q2 2026 base as a company-reported number. TTM calculated envel
 | Unused card commitments | 9,001 | 14,047 |
 | Coverage | 25.1% | 26.7% |
 
+## Customer funds and restricted cash (10-Q Note 3)
+
+Full mapping: `customer-funds-2026-08-20.md`. Do not treat restricted cash as excess cash or funds payable as ordinary debt.
+
+| | 2025-12-31 | 2026-06-30 | Source |
+|---|---:|---:|---|
+| Cash and cash equivalents | 3,670 | 3,649 | 10-Q BS / Note 3 |
+| Restricted cash and cash equivalents | 9,867 | 13,114 | Note 3 |
+| of which BCB mandatory guarantee | 7,865 | 11,174 | Note 3 |
+| Funds payable to customers | 13,029 | 16,035 | BS |
+| Restricted / funds payable (calc.) | 75.7% | 81.8% | Calculation |
+| Cash + restricted | 13,537 | 16,763 | CFS |
+| Card-settlement payables (current + non-current) | 3,771 | 5,184 | BS |
+| Credit card receivables and other means of payment, net | 6,893 | 8,349 | BS |
+| Available cash, investments and digital assets (non-GAAP) | 6,710 | 6,751 | Net-debt recon |
+| Net debt (mgmt, incl. leases) | 4,682 | 6,425 | Net-debt recon |
+
+H1 restricted-cash build +$3,247mn is mostly Brazil BCB reserve (+$3,309mn). Liquidity MD&A: 91.1% of cash+restricted+investments is in non-U.S. subsidiaries ($18,724mn); 83.6% held outside the U.S.
+
 ## Cash-flow quality (H1)
 
 | | H1 2025 | H1 2026 |
@@ -151,4 +170,4 @@ Do not treat the Q2 2026 base as a company-reported number. TTM calculated envel
 
 ## Forecast and valuation assumptions
 
-Recorded 2026-08-16 in `reverse-dcf-2026-08-16.md` and `expectations-map.md`. No integrated forecast workbook yet. Do not treat the reverse DCF as a budget.
+Recorded 2026-08-16 in `reverse-dcf-2026-08-16.md` and `expectations-map.md`. EV restated to $103.2bn at the 2026-08-19 close; DCF not rebuilt. No integrated forecast workbook yet. Do not treat the reverse DCF as a budget.
