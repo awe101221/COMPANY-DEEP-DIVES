@@ -2,6 +2,16 @@
 
 Dated views only. Do not silently overwrite.
 
+## 2026-08-20 — Incremental run (customer funds + tape)
+
+- **Trigger:** scheduled cron 2026-08-20T12:00:23Z. Prior successful run 2026-08-19 ~12:30 UTC on `cursor/meli-intelligence-update-5a1e` (PR #7; still open, not on `main`).
+- **Company event:** none. No 8-K after 2026-08-05. No IR release.
+- **Tape:** 2026-08-19 close **$1,908.65** (+7.28% vs $1,779.14). Idiosyncratic vs EWZ/NU/QQQ. Cause unidentified. Recycled DB 13F rejected as catalyst.
+- **Deep research:** customer-funds mapping (`customer-funds-2026-08-20.md`). Restricted cash $13.1bn = 81.8% of funds payable; 85.2% is BCB mandatory guarantee. EV plug unchanged. No DCF rebuild.
+- **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence stays ~48%.
+- **Does not supersede** PRs #6 or #7.
+- **Status:** `material update`. Do not merge automatically.
+
 ## 2026-08-17 — Pre-merge review of PR #5
 
 - **Base:** PR #5 is based on current `main` (`ef1cdb2`). `main` is not empty: it already has the repo scaffold, MELI folder templates, and the MELI analyst skill. This PR only changes files under `companies/MELI/`.

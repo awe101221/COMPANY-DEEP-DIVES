@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run).
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run). S53–S66 reserved for open PRs #6 (ownership) and #7 (consignado / 10-K). S67–S78 accessed **2026-08-20**.
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -58,10 +58,22 @@ Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (esti
 | S50 | Latin America Ad Spending 2025 | eMarketer | 2025-06-25 | 2025 market | https://www.emarketer.com/content/latin-america-ad-spending-2025 | Total LatAm ads >$40bn; digital 56.6% — used only to test the 10% share claim |
 | S51 | Amazon 2025 10-K ads line | Amazon / SEC | 2026 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm | Advertising services $68.635bn analog; Amazon does not report ads/GMV |
 | S52 | Yahoo MELI quote + analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,844.58; FY26/27 EPS $38.31 / $55.99 unchanged |
+| S67 | EDGAR company index reconfirm | SEC | live 2026-08-20 | filings through 2026-08-06 | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001099590 | Still no 8-K after 2026-08-06 |
+| S68 | IR news & events reconfirm | MELI | live 2026-08-20 | calendar | https://investor.mercadolibre.com/news-and-events | GS 9/8; Q3 11/4 provisional; no new PR |
+| S69 | Q2 2026 10-Q Note 3 + liquidity + net-debt / FCF recon | MELI / SEC | 2026-08-06 | QE 2026-06-30 | https://www.sec.gov/Archives/edgar/data/1099590/000109959026000023/meli-20260630.htm | Restricted-cash composition; BCB $11,174mn; funds payable $16,035mn; available cash $6,751mn |
+| S70 | Yahoo MELI daily chart | Yahoo Finance | 2026-08-19 close | price / volume | https://query1.finance.yahoo.com/v8/finance/chart/MELI?interval=1d&range=10d | Close $1,908.65; range $1,771–$1,918; volume 707,600 |
+| S71 | Yahoo peer daily charts | Yahoo Finance | 2026-08-19 close | relative tape | chart API for EWZ, NU, AMZN, SE, QQQ, EEM | Documents idiosyncratic MELI +7.28% vs Brazil/fintech/Nasdaq |
+| S72 | Yahoo MELI Analysis | Yahoo / Refinitiv | retrieved 2026-08-20 | consensus | https://finance.yahoo.com/quote/MELI/analysis/ | FY26/27 EPS $38.31 / $55.99; rev $41.67bn / $53.21bn; Q3 $10.57bn / $9.25 |
+| S73 | StockAnalysis MELI forecast | S&P Global via StockAnalysis | retrieved 2026-08-20 | targets / non-GAAP EPS | https://stockanalysis.com/stocks/meli/forecast/ | Price $1,908.65; PT $2,250; FY26 EPS $39.25 flagged non-GAAP |
+| S74 | Infobae MP loan-rate explainer | Infobae | 2026-08-14 | AR credit pricing | https://www.infobae.com/economia/2026/08/14/por-que-la-billetera-virtual-mas-grande-de-la-argentina-cobra-intereses-de-hasta-1375-en-sus-prestamos/ | Company-attributed TNA 48–249%; max CFTEA 1,375.94%; ~2% of loans; mora claim |
+| S75 | La Nación digital-wallet rate piece | La Nación | 2026-08-14 | triangulation | https://www.lanacion.com.ar/economia/polemica-por-los-creditos-por-que-pedir-un-prestamo-en-una-billetera-digital-puede-costar-el-doble-nid14082026/ | Same TNA/CFTEA schedule; Solano denuncia mentioned |
+| S76 | Conclusión Solano follow-up | Conclusión | 2026-08-19 | AR legal/political | https://www.conclusion.com.ar/politica/economia/denunciaron-a-galperin-y-mercado-pago-por-usura-piden-que-se-suspenda-el-cobro-de-todos-los-prestamos-otorgados/08/2026/ | Follow-up filing asking to suspend collections; not a court ruling |
+| S77 | Chequeado BCRA wallet-dollar explainer | Chequeado | 2025-09/10 (comments Oct 2025) | rejected as 2026 event | https://chequeado.com/el-explicador/billeteras-virtuales-sin-dolar-oficial-preguntas-y-respuestas-para-entender-los-cambios-en-la-compra-y-venta-de-la-divisa/ | Used only to reject 2026 recirculation |
+| S78 | Watchlist News / Traders Union DB 13F items | Watchlist News; Traders Union | 2026-08-19 | rejected catalyst | https://www.watchlistnews.com/deutsche-bank-ag-takes-position-in-mercadolibre-inc-meli/11189972.html | Q2 13F recycle (164,632 sh / ~0.32%); not a 13G |
 
-**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
+**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV. Deutsche Bank “new stake” as a 2026-08-19 price catalyst. 2025 BCRA wallet-dollar shutdown recirculated as August 2026 news.
 
-**Not obtained this run:** official call audio; full 2025 10-K risk-factor read; 13F/13D detail; sell-side models; X posts.
+**Not obtained this run:** official call audio; BCB statutory reserve circular; LSEG terminal extract; X posts; sell-side models. 10-K Item 1A inventory and ownership map remain on PRs #7 and #6.
 
 ## Source priority
 

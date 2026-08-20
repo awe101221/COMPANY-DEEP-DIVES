@@ -1,6 +1,6 @@
 # MELI Open Research Questions
 
-**Last reviewed:** 2026-08-17 (ads reconstruction run)
+**Last reviewed:** 2026-08-20 (customer-funds mapping)
 
 Rank unresolved questions by their potential effect on investment decisions, not by ease of answering.
 
@@ -10,18 +10,20 @@ Rank unresolved questions by their potential effect on investment decisions, not
 | 2 | What 90+ NPL by product is doing, and is the late-2025 vintage contained? | 10-Q shows 18.7% of gross loans 90–360 DPD vs 7.0% 15–90 NPL. | Product-level aging | Ask at GS 9/8; wait for Q3 10-Q | Open |
 | 3 | When do Brazil free-shipping lanes become contribution-positive across most of the R$19–79 band? | Core commerce payback. | Management update of “half of ASP ranges” | Q3 letter / GS | Open |
 | 4 | What is ads revenue and incremental margin in dollars? | Could justify a 4× residual sales multiple. | Not in GAAP; last take-rate print was Q4’24 | **Progressed 2026-08-17** — `ads-revenue-reconstruction-2026-08-17.md`. Refresh if a new ads/GMV print arrives | Progressed; dollars ranged, incremental margin still unknown |
-| 5 | Reverse DCF + SOTP with credit as a bank | What the $1,845 price embeds | Price, 10-Q EV bridge, consensus | Progressed 2026-08-16 — `reverse-dcf-2026-08-16.md` | Progressed; refine after Q3 or >10% price move |
+| 5 | Reverse DCF + SOTP with credit as a bank | What the $1,845 (now $1,909) price embeds | Price, 10-Q EV bridge, consensus | Progressed 2026-08-16 — `reverse-dcf-2026-08-16.md`. EV restated $103.2bn at $1,908.65; **not rebuilt** (+3.5% < 10%) | Progressed; refine after Q3 or >10% price move |
 | 6 | Eight-quarter estimate-vs-actuals (Q3’24–Q2’26) | Tests whether street 2027 EPS $56 is a recency rebound | Old 8-Ks + Reuters/LSEG + Yahoo | **Progressed 2026-08-17** — `estimate-vs-actuals-2026-08-17.md` | Progressed; refresh after Q3 |
 | 7 | How large is Amazon–Nubank checkout volume vs MELI GMV in Brazil? | Bundle competition | Company or alternative data | Low researchability | Open |
 | 8 | Mexico tax-reform GMV drag in ppts | Separates temporary World Cup from structural | Management quantification | Low | Open |
-| 9 | Customer-fund / restricted-cash mapping vs regulatory regimes | EV bridge quality | 10-K notes by country | Medium | Open |
+| 9 | Customer-fund / restricted-cash mapping vs regulatory regimes | EV bridge quality; Brazil reserve concentration | 10-Q Note 3; BCB/CNBV/BCRA circulars | **Progressed 2026-08-20** — `customer-funds-2026-08-20.md`. Leftover: statutory reserve *ratio* | Progressed on the dollar map; legal-regime residual open |
 | 10 | 2026 LTRP / bonus payout sensitivity to EBIT | Incentive alignment | 8-K already read | Low-Med | Open |
-| 11 | Insider / 13D ownership after June 2026 filings | Governance / flow | 13D/A 2026-06-18; Form 4s | High researchability — alternate next if #4 stalls | Open |
+| 11 | Insider / 13D ownership after June 2026 filings | Governance / flow | 13D/A 2026-06-18; Form 4s | **Progressed 2026-08-18 on PR #6** (`ownership-2026-08-18.md`, not yet on `main`). Residual: undescribed 150k drop / Amendment No. 1 (2024-11-01) | Progressed on PR #6; residual open |
 | 12 | Food-delivery contribution to GMV/items (definition break) | KPI comparability | Not disclosed | Low | Open |
+| 13 | Consignado privado: book, yield, NPL vs cards, and averbação quality | Could offset or compound the card NIMAL hole | Letter/GS; BCB industry NPL | Opened 2026-08-19 on PR #7 — pilot 5k contracts only | Open; write-up not on `main` |
+| 14 | 2025 10-K Item 1A vs live register | Completeness of risk set | 10-K + 10-Q Item 1A | **Progressed 2026-08-19 on PR #7** (`risk-factors-10k-2026-08-19.md`, not yet on `main`) | Progressed on PR #7 |
 
 ## Resolved questions
 
-None fully resolved. #4, #5, and #6 are progressed, not closed.
+None fully resolved. #4, #5, #6, #9 (dollar map), #11 (PR #6), and #14 (PR #7) are progressed, not closed.
 
-**Selected this run:** #4 (ads dollars).  
-**Suggested next run if no new 8-K:** #11 (13D/A / Form 4s) or a full 10-K risk-factor read. Do not redo #4 unless a new ads/GMV print arrives.
+**Selected this run:** #9 (customer-funds / restricted-cash dollars).  
+**Suggested next run if no new 8-K:** BCB payments-institution reserve rule (leftover of #9), GS 2026-09-08 listening brief, or Amendment No. 1 for the 150k 13D residual. Do not redo #4, #5, #6, the ownership map, or the 10-K Item 1A inventory unless a new print / >10% price move / new 13D arrives. This PR does **not** supersede PRs #6 or #7.

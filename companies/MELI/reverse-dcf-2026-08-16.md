@@ -2,7 +2,8 @@
 
 **Question:** What growth, margin, reinvestment, and duration does the 2026-08-14 close of $1,844.58 imply, once cash, debt, customer funds, and the credit book are classified correctly?  
 **Status:** First completed reverse DCF. Not a full integrated forecast.  
-**As-of:** 2026-08-16. Price 2026-08-14 16:00 EDT. Balance sheet 2026-06-30.
+**As-of:** 2026-08-16. Price 2026-08-14 16:00 EDT. Balance sheet 2026-06-30.  
+**2026-08-20 restatement (not a rebuild):** 2026-08-19 close $1,908.65 → equity MV $96.76bn / EV **$103.19bn** (+3.3% vs $99.94bn). Customer-funds map (`customer-funds-2026-08-20.md`) confirms the $6.425bn net-debt plug. Move still <10%; implied terminal margins are unchanged at this precision.
 
 Epistemic labels are marked. This memo is **my calculation** on top of reported facts and third-party consensus.
 

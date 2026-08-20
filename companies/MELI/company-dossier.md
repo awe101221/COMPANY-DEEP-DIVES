@@ -1,6 +1,6 @@
 # MELI company dossier
 
-**Last updated:** 2026-08-17 (ads reconstruction added under Commerce; no leadership or capital-structure change). Stable facts; date any item that can change.
+**Last updated:** 2026-08-20 (customer-funds / restricted-cash paragraph under capital allocation). Stable facts; date any item that can change.
 
 ## Identity
 
@@ -80,6 +80,7 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 - Capex rising: $509mn (2023) → $860mn (2024) → $1,327mn (2025) → $712mn H1 2026.
 - Credit book is the largest use of cash: H1 2026 loans receivable net change −$4,069mn.
 - Net debt (mgmt def., incl. leases) $4.7bn → $6.4bn in six months.
+- **Customer float (2026-06-30, 10-Q Note 3):** funds payable to customers $16,035mn; restricted cash $13,114mn (81.8% coverage). **$11,174mn (85.2%)** is Banco Central do Brasil mandatory-guarantee cash. Combined cash + restricted $16,763mn covers the liability with a $728mn cushion. Available cash $6,751mn already excludes restricted cash, guarantee securities, and $155mn of GAAP cash under management-restriction policies. Full map: `customer-funds-2026-08-20.md`. Do not treat the $13.1bn restricted pile as excess cash.
 
 ## Accounting flags
 

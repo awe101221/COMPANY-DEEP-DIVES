@@ -1,8 +1,8 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and both 2026-08-17 incremental runs: no probability change.  
-**Last thesis review:** 2026-08-17 (ads reconstruction)  
-**Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
+**Current status:** Initial thesis dated 2026-08-16 (morning). Subsequent incremental runs through 2026-08-20: no probability change.  
+**Last thesis review:** 2026-08-20 (customer-funds mapping + 2026-08-19 tape)  
+**Valuation as of:** 2026-08-19 16:00 EDT close $1,908.65 (was $1,844.58 on 2026-08-14; $1,779.14 on 2026-08-18 on PR #7)
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
 
@@ -18,7 +18,7 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 
 **Variant perception:** After the Q2 selloff, the market already doubts a quick return to 12% EBIT. The remaining disagreement is whether **ecosystem LTV** (management) exceeds the **visible credit + subsidy cash drain** (10-Q). Reverse DCF (2026-08-16 afternoon) says the $1,845 price still embeds ~13% terminal EBIT at ~9% WACC, or faster duration. I am in the middle: Brazil engagement evidence is better than a typical growth story; credit disclosure is worse than a typical bank’s.
 
-**Confidence in the probability set:** ~48% (was ~40% on 2026-08-16). Eight-quarter estimate history is sourced (`estimate-vs-actuals-2026-08-17.md`); ads dollars are now a ranged estimate (`ads-revenue-reconstruction-2026-08-17.md`); reverse DCF exists but is not a full integrated model. Remaining gaps: ads incremental margin, 90+ by product, integrated forecast.
+**Confidence in the probability set:** ~48% (was ~40% on 2026-08-16). Eight-quarter estimate history is sourced (`estimate-vs-actuals-2026-08-17.md`); ads dollars are now a ranged estimate (`ads-revenue-reconstruction-2026-08-17.md`); reverse DCF exists but is not a full integrated model; customer-funds map confirms the EV plug (`customer-funds-2026-08-20.md`). Remaining gaps: ads incremental margin, 90+ by product, BCB reserve ratio, integrated forecast.
 
 ### Evidence for
 
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-20 — customer-funds map + 2026-08-19 tape; no probability change
+
+New work: 10-Q Note 3 mapping. Restricted cash $13,114mn covers 81.8% of funds payable $16,035mn; $11,174mn (85.2%) is BCB mandatory guarantee. Available cash / net debt $6,751mn / $6,425mn unchanged. Price $1,908.65 restates EV at $103.2bn (+3.3% vs the $99.9bn reverse DCF). Move is still <10%; DCF not rebuilt. Yahoo FY26/FY27 EPS unchanged at $38.31 / $55.99. A one-day idiosyncratic bounce without an 8-K is not payback evidence. Does **not** change 25/45/30. PRs #6 and #7 remain the source for ownership / consignado / 10-K Item 1A.
 
 ### 2026-08-17 — ads reconstruction; no probability change
 
