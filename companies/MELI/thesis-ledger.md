@@ -1,8 +1,8 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and both 2026-08-17 incremental runs: no probability change.  
-**Last thesis review:** 2026-08-17 (ads reconstruction)  
-**Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
+**Current status:** Initial thesis dated 2026-08-16 (morning). Subsequent incremental runs through 2026-08-21: no probability change.  
+**Last thesis review:** 2026-08-21 (BA consumer-defense expediente)  
+**Valuation as of:** 2026-08-20 16:00 EDT close $1,921.96 (EV restated $103.86bn; DCF not rebuilt)
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
 
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-21 — BA consumer-defense expediente; no probability change
+
+New work: official Buenos Aires Province investigation naming Mercado Pago (2,240 H1 complaints across six wallets; statutory cap ARS 1,883 million ≈ $1.24 million). Industry mora backdrop from the June 2026 BCRA PNFC report (Fintech irregularity 26.2% in February 2026) is ugly but is **not** MELI’s Argentina book. No 8-K. Price $1,921.96. This adds R11 as a leading indicator. It does **not** change 25/45/30. Open incrementals on PRs #6–#8 are not re-done. Full memo: `argentina-consumer-defense-2026-08-21.md`.
 
 ### 2026-08-17 — ads reconstruction; no probability change
 
