@@ -2,6 +2,15 @@
 
 Dated views only. Do not silently overwrite.
 
+## 2026-08-21 — Incremental run (BA consumer-defense expediente)
+
+- **Trigger:** scheduled cron 2026-08-21T12:00:38Z. Prior successful run 2026-08-20 ~14:00 UTC on `cursor/meli-intelligence-update-7d7e` (PR #8). This branch is based on current `main` (`261a59f`, PR #5). PRs #6, #7, and #8 remain open and are **not** superseded.
+- **Company event:** none. No 8-K after 2026-08-06. IR calendar unchanged.
+- **Material external event:** Buenos Aires Province consumer-defense expediente naming Mercado Pago (official gacetilla 2026-08-20, after PR #8’s cutoff). Statutory cap ARS 1,883 million ≈ $1.24 million. Industry mora backdrop from BCRA PNFC Feb-2026 data (Fintech 26.2%) is not MELI’s book.
+- **Tape:** 2026-08-20 close $1,921.96 (+0.70%). EV restated $103.86bn. DCF not rebuilt.
+- **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence stays ~48%. New R11.
+- **Status:** `material update`. Do not merge automatically.
+
 ## 2026-08-17 — Pre-merge review of PR #5
 
 - **Base:** PR #5 is based on current `main` (`ef1cdb2`). `main` is not empty: it already has the repo scaffold, MELI folder templates, and the MELI analyst skill. This PR only changes files under `companies/MELI/`.

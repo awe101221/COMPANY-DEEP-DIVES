@@ -1,6 +1,6 @@
 # MELI country dossiers
 
-**As-of:** 2026-08-16 (afternoon check: no new official BR/MX/AR print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
+**As-of:** 2026-08-21 (BA Province consumer-defense expediente; no new official Copom / Banxico / INDEC / IBGE print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
 
 ## Brazil (~54% of Q2 revenue)
 
@@ -58,6 +58,14 @@
 - 10-Q: April 2025 FX-band liberalization; from 1 Jan 2026 bands update with last monthly inflation; dividend remittance flexibility for FY beginning 2025.
 
 **MELI transmission:** Do **not** read +20% USD or +48% FXN as real volume. Items +22% is the cleaner activity read. High DC margin means a consumption/FX shock hits group EBIT harder than the revenue mix suggests. Card book is young; a 2026–27 AR credit scare at banks is a live local headline (Giménez acknowledged others are worried).
+
+**2026-08-21 add — provincial consumer defense + industry mora (not a MELI print):**
+
+- **Official action (2026-08-20):** Buenos Aires Province opened a consumer-defense expediente naming Mercado Pago first among six wallets after 2,240 H1 complaints. Statutory fine cap ARS 1,883 million ≈ **$1.24 million** at the 2026-08-21 BNA venta screen of ARS 1,515 / USD. Cash is de minimis vs Q2 AR DC $623 million. Primary: [GBA gacetilla](https://gba.gob.ar/comunicacion_publica/gacetillas/kicillof_y_costa_anunciaron_medidas_para_defender_los_consumidores). Memo: `argentina-consumer-defense-2026-08-21.md`.
+- **Official industry prior (stale print, live backdrop):** BCRA PNFC report published 2026-06-04, data February 2026 — PNFC irregularity **26.9%**; Fintech **26.2%**; personal loans 34.1%; cards 19.4%; bank household irregularity **11.2%**; Fintech average TNA **144%**. This is **not** Mercado Pago’s book. [BCRA](https://www.bcra.gob.ar/publicaciones/informe-de-proveedores-no-financieros-de-credito-junio-de-2026/).
+- **Do not write Kicillof’s 24.5% wallet-mora path into MELI.** It is a speech number near the BCRA industry print, not a company disclosure.
+- **Management claim (Infobae 2026-08-14):** MP consumer TNA 48–249%, max CFTEA 1,375.94% on ~2% of loans; mora “in line with main private banks.” Unverified. Group 10-Q 15–90 NPL 7.0% / 90–360 DPD 18.7% is a different object.
+- Next watches: MP descargo; Juzgado N° 53 collection-stay request (no order as of 2026-08-21); next BCRA PNFC print.
 
 ## Other countries (~5% of Q2 revenue)
 

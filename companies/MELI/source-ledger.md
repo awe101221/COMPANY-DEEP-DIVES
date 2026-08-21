@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run).
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run). S53–S64 accessed **2026-08-21** (BA consumer-defense run).
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -58,10 +58,22 @@ Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (esti
 | S50 | Latin America Ad Spending 2025 | eMarketer | 2025-06-25 | 2025 market | https://www.emarketer.com/content/latin-america-ad-spending-2025 | Total LatAm ads >$40bn; digital 56.6% — used only to test the 10% share claim |
 | S51 | Amazon 2025 10-K ads line | Amazon / SEC | 2026 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm | Advertising services $68.635bn analog; Amazon does not report ads/GMV |
 | S52 | Yahoo MELI quote + analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,844.58; FY26/27 EPS $38.31 / $55.99 unchanged |
+| S53 | EDGAR company index reconfirm | SEC | live 2026-08-21 | filings through 2026-08-06 | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001099590 | Still no 8-K after 2026-08-06 |
+| S54 | GBA gacetilla — billeteras virtuales | Provincia de Buenos Aires | 2026-08-20 | consumer-defense expediente | https://gba.gob.ar/comunicacion_publica/gacetillas/kicillof_y_costa_anunciaron_medidas_para_defender_los_consumidores | Official: 2,240 H1 complaints; names Mercado Pago; cap ARS 1,883 million |
+| S55 | Infobae BA probe recap | Infobae | 2026-08-20 | same event | https://www.infobae.com/economia/2026/08/20/mora-record-kicillof-investiga-a-mercado-pago-y-otras-billeteras-por-hostigamiento-acoso-y-falta-de-informacion-clara/ | Ministerial counts + Kicillof 24.5% wallet-mora claim |
+| S56 | La Nación BA probe recap | La Nación | 2026-08-20 | same event | https://www.lanacion.com.ar/politica/morosidad-kicillof-anuncio-investigaciones-y-posibles-multas-millonarias-contra-billeteras-virtuales-nid20082026/ | Triangulation of official quotes |
+| S57 | BCRA PNFC report (page) | BCRA | published 2026-06-04 | data Feb 2026 | https://www.bcra.gob.ar/publicaciones/informe-de-proveedores-no-financieros-de-credito-junio-de-2026/ | Official industry irregularity 26.9% |
+| S58 | BCRA PNFC report (PDF) | BCRA | published 2026-06-04 | data Feb 2026 | https://www.bcra.gob.ar/archivos/Pdfs/PublicacionesEstadisticas/informes/informe-proveedores-no-financieros-credito-junio-2026.pdf | Fintech irregularity 26.2%; TNA 144%; bank HH 11.2% |
+| S59 | Infobae MP rate / mora interview | Infobae + Mercado Pago | 2026-08-14 | AR consumer credit | https://www.infobae.com/economia/2026/08/14/por-que-la-billetera-virtual-mas-grande-de-la-argentina-cobra-intereses-de-hasta-1375-en-sus-prestamos/ | Management: TNA 48–249%; CFTEA to 1,375.94%; ~2% of loans; mora ≈ private banks |
+| S60 | Yahoo chart API MELI + peers | Yahoo | retrieved 2026-08-21 | 2026-08-20 session | https://query1.finance.yahoo.com/v8/finance/chart/MELI?interval=1d&range=15d | Close $1,921.96; EWZ/NU/QQQ comparison |
+| S61 | Yahoo MELI Analysis | Yahoo / Refinitiv | retrieved 2026-08-21 | consensus | https://finance.yahoo.com/quote/MELI/analysis/ | FY26/27 EPS $38.31 / $55.99; rev $41.67bn / $53.21bn; Q3 $10.57bn / $9.25 |
+| S62 | StockAnalysis MELI quote + forecast | S&P Global via StockAnalysis | retrieved 2026-08-21 | price / targets | https://stockanalysis.com/stocks/meli/ ; https://stockanalysis.com/stocks/meli/forecast/ | Close $1,921.96; avg PT $2,257; FY26 EPS $39.25 flagged non-GAAP |
+| S63 | BNA FX screens (reprint) | TN; El Cronista | 2026-08-21 | ARS/USD | https://tn.com.ar/economia/2026/08/21/dolar-a-cuanto-cotizan-el-oficial-y-las-otras-opciones-cambiarias-este-viernes-21-de-agosto/ ; https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-este-viernes-21-de-agosto/ | BNA venta ARS 1,515; mayorista ~1,497. Third-party reprint |
+| S64 | IR news & events reconfirm | MELI | live 2026-08-21 | calendar | https://investor.mercadolibre.com/news-and-events | GS 9/8; Q3 11/4 provisional; no new PR |
 
-**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
+**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV. La Letra Chica ARS 1,815 million / five-day intimación version of the 2026-08-20 BA story — conflicts with the official ARS 1,883 million gacetilla. Recycled Oct 2025 BCRA “wallets cannot sell official dollars” item (already rejected 2026-08-20). Deutsche Bank 13F “new stake” headlines (already rejected 2026-08-20).
 
-**Not obtained this run:** official call audio; full 2025 10-K risk-factor read; 13F/13D detail; sell-side models; X posts.
+**Not obtained this run:** official call audio; Mercado Pago descargo; MELI Argentina product NPL; BCRA series extract for the BNA FX (used press reprints); X posts.
 
 ## Source priority
 

@@ -1,6 +1,6 @@
 # MELI company dossier
 
-**Last updated:** 2026-08-17 (ads reconstruction added under Commerce; no leadership or capital-structure change). Stable facts; date any item that can change.
+**Last updated:** 2026-08-21 (Argentina consumer-defense note added; no leadership or capital-structure change). Stable facts; date any item that can change.
 
 ## Identity
 
@@ -86,6 +86,7 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 - **Argentina:** hyperinflation / FX. 10-Q notes April 2025 FX-band liberalization; from 1 Jan 2026 bands update with last monthly inflation. USD growth ≠ real growth.
 - **Credit:** write-off at **360 days**. 15–90 NPL is a *short* window; 90–360 stays on book.
 - **Device sales:** POS devices sold at a loss; inventory restock books the loss upfront (Q2 Mexico).
+- **Argentina consumer defense (2026-08-20):** Buenos Aires Province opened an industry-wide expediente naming Mercado Pago after 2,240 H1 complaints. Statutory cap ARS 1,883 million ≈ $1.24 million. Not a company 8-K. Memo: `argentina-consumer-defense-2026-08-21.md`.
 - **Loan sales:** true-sale facilities in Mexico (new $150mn revolver Q2’26) and Argentina ($100mn). Gains are in credit revenue / other — small vs book ($53mn MX + $66mn AR sold in Q2).
 - **Securitizations:** generally consolidated (not off-balance true sales).
 - **SBC / LTRP:** LTRP is cash over six years ($165mn H1 2026 accrual).

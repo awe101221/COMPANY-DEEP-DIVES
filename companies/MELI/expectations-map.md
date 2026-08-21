@@ -1,12 +1,12 @@
 # MELI expectations map
 
-**As-of:** 2026-08-17. Price as-of 2026-08-14 close **$1,844.58** (no session since; this run is before the 2026-08-17 cash open). Consensus unchanged vs 2026-08-16 afternoon.
+**As-of:** 2026-08-21. Price as-of 2026-08-20 close **$1,921.96**. Yahoo GAAP-style consensus unchanged vs 2026-08-20 (and vs 2026-08-17 on EPS).
 
 ## What the price appears to embed (inference, now reverse-DCF backed)
 
 The stock is ~−8% YTD and ~−22% over 52 weeks (Yahoo) while TTM revenue is +46% and TTM NI is −9%. That combination usually means the market has **cut the near-term margin assumption**, not the growth assumption.
 
-The completed reverse DCF (`reverse-dcf-2026-08-16.md`) says $99.9bn EV is consistent with:
+The completed reverse DCF (`reverse-dcf-2026-08-16.md`) was built at $1,844.58 / $99.9bn EV. At $1,921.96 the same net-debt plug ($6.425bn) implies **$103.86bn EV** (+3.9% vs the work; +0.7% vs the 2026-08-19 $103.19bn restatement on PR #8). Still inside the “do not rebuild” 10% band. That $99.9bn work said the price is consistent with:
 
 - **~13% terminal EBIT at ~9% WACC and improving cash conversion**, or
 - **~12% terminal EBIT at 10% WACC and a faster revenue path (~$175bn by 2035)**, or
@@ -22,9 +22,9 @@ Street near-term is a trough: FY26 EPS $38.31 vs FY25 $39.40; implied EBIT margi
 
 ## Consensus vs my read
 
-| Object | Market / street (third-party, Yahoo 2026-08-16) | My read |
+| Object | Market / street (third-party, Yahoo 2026-08-21) | My read |
 |---|---|---|
-| 2026 growth | Revenue $41.63bn (+44%) | Agree: FXN 35–45% is the base |
+| 2026 growth | Revenue $41.67bn (+44%) | Agree: FXN 35–45% is the base |
 | 2026 EPS | $38.31 (cut 4% in 30 days, 7.5% in 90 days) | Agree directionally; quality of the $1.94bn NI is the issue |
 | 2027 EPS | $55.99 (+46% YoY) | Street rebound is a *margin* forecast I would not underwrite at 70%+ |
 | 2026–27 EBIT | Implied ~7.0–7.8% | Matches the print; does not match the multiple |
@@ -33,7 +33,10 @@ Street near-term is a trough: FY26 EPS $38.31 vs FY25 $39.40; implied EBIT margi
 | Brazil | Priced as the engine | Agree |
 | Mexico | Soft landing | Risk of longer tax-reform drag |
 | Argentina | Often ignored in USD models | 40% of DC — not ignorable |
-| Avg street target | ~$2,250–2,257 (StockAnalysis / prior run) | Assumes a 2027 re-rating I treat as bull, not base |
+| Avg street target | $2,257 (StockAnalysis 2026-08-21); 15/4/5 Strong Buy/Buy/Hold | Assumes a 2027 re-rating I treat as bull, not base |
+| Argentina consumer-defense headline | Not in the 2026-08-20 tape (MELI +0.70% on a down peer day) | Correct on cash (~$1.2mn cap). Does **not** mean AR credit is underwritten. |
+
+**2026-08-21 dated note:** Yahoo FY26/FY27 EPS still $38.31 / $55.99; Q3’26 $10.57bn / $9.25. StockAnalysis FY26 EPS $39.25 remains flagged non-GAAP — do not splice. The BA expediente is a political/regulatory watch, not a consensus revision.
 
 ## What would be a genuine surprise vs today’s tape
 
