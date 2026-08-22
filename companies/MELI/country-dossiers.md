@@ -1,6 +1,6 @@
 # MELI country dossiers
 
-**As-of:** 2026-08-16 (afternoon check: no new official BR/MX/AR print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
+**As-of:** 2026-08-22 (no new official Copom / Banxico / INDEC / IBGE print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
 
 ## Brazil (~54% of Q2 revenue)
 
@@ -21,7 +21,9 @@
 - Copom still sees 2026 IPCA 5.1% and 2028Q1 3.2% in the reference scenario.
 - Presidential election October 2026 (political/fiscal risk → BRL, rates).
 
-**MELI transmission:** Brazil is the only large market where FXN growth is *accelerating*. That is why management is spending. The bear case for Brazil is not “growth dies tomorrow”; it is “they bought 56% item growth with take-rate and shipping that never fully earn back, while a 2027 credit cycle hits a 75% growing book.” Electricity inflation is a small extra logistics-cost watch item (CFO: some energy costs absorbed).
+**Regulation (payments, 2026-08-22):** Mercado Pago IP Ltda. is a BCB-listed *instituição de pagamento*. Res. BCB 80 art. 22 locks **100%** of Brazil prepaid e-money in CCME cash or short Tesouro. 10-Q Brazil ring-fence $11,376mn ($11,174mn cash + $202mn securities). That is the concentrated customer-fund rule. It is not the 21% bank *compulsório*. Full memo: `bcb-reserve-ratio-2026-08-22.md`.
+
+**MELI transmission:** Brazil is the only large market where FXN growth is *accelerating*. That is why management is spending. The bear case for Brazil is not “growth dies tomorrow”; it is “they bought 56% item growth with take-rate and shipping that never fully earn back, while a 2027 credit cycle hits a 75% growing book.” Electricity inflation is a small extra logistics-cost watch item (CFO: some energy costs absorbed). Wallet growth also locks more cash into the BCB safeguard (H1 BCB cash +$3,309mn).
 
 **Competition:** Amazon–Nubank NuPay at Amazon checkout (July 2026) attacks the financing wedge. Shopee remains the low-ASP competitor; ignore the $38bn-Brazil-GMV blog claim.
 

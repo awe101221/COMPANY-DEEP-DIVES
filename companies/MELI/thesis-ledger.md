@@ -1,8 +1,8 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and both 2026-08-17 incremental runs: no probability change.  
-**Last thesis review:** 2026-08-17 (ads reconstruction)  
-**Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
+**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon, both 2026-08-17 incremental runs, and the 2026-08-18–22 incremental runs: no probability change.  
+**Last thesis review:** 2026-08-22 (BCB reserve ratio)  
+**Valuation as of:** 2026-08-21 16:00 EDT close $1,922.73 (DCF still anchored to 2026-08-14 $1,844.58; EV restated only)
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
 
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-22 — BCB 100% e-money safeguard; no probability change
+
+New work: Resolução BCB nº 80 art. 22 is a 100% prepaid-wallet lock-up in CCME cash or ≤540-day Tesouro, not a 21% bank reserve. Brazil ring-fence on the 10-Q is $11,376mn ($11,174mn cash + $202mn securities). That sizes the leftover of #9. It does **not** change 25/45/30. No new company operating print. No 8-K after 2026-08-06. Friday close $1,922.73 restates EV to $103.90bn; DCF not rebuilt. PRs #6–#9 are not superseded.
 
 ### 2026-08-17 — ads reconstruction; no probability change
 

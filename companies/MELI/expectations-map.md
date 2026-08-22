@@ -1,6 +1,6 @@
 # MELI expectations map
 
-**As-of:** 2026-08-17. Price as-of 2026-08-14 close **$1,844.58** (no session since; this run is before the 2026-08-17 cash open). Consensus unchanged vs 2026-08-16 afternoon.
+**As-of:** 2026-08-22. Price as-of 2026-08-21 close **$1,922.73**. Yahoo FY26/FY27 EPS **$38.31 / $55.99** unchanged vs the 2026-08-21 run. FY26/FY27 revenue $41.67bn / $53.21bn. DCF still anchored to the 2026-08-14 $1,844.58 / $99.9bn EV work; EV only restated.
 
 ## What the price appears to embed (inference, now reverse-DCF backed)
 
@@ -19,6 +19,8 @@ Street near-term is a trough: FY26 EPS $38.31 vs FY25 $39.40; implied EBIT margi
 **Eight-quarter test (2026-08-17):** street FY27 EPS $55.99 fails as a high-confidence rebound. Revenue beat or in-line 8/8 from Q3’24–Q2’26; LSEG NI missed the first three investment-cycle prints (Q2–Q4’25) and only beat in Q2’26 after the FY26 cut. See `estimate-vs-actuals-2026-08-17.md`. This is an expectations finding, not a new operating fact.
 
 **Ads test (2026-08-17):** street does not publish an auditable ads line. Independent reconstruction puts Q2’26 ads at ~$0.5–0.6bn (~5.5% of revenue, mid-2% of GMV) and TTM ~$2bn. That is not large enough to be the 2027 margin-recovery story on its own. See `ads-revenue-reconstruction-2026-08-17.md`.
+
+**BCB-ratio test (2026-08-22):** the $13.1bn restricted-cash pile is not a hidden cash reserve the multiple can “discover.” Brazil’s statutory cover is already 100% of prepaid e-money. Friday’s +0.04% print is not a BCB-rule event. See `bcb-reserve-ratio-2026-08-22.md`. EV restated **$103.90bn** at $1,922.73 (50,697,301 × 1922.73 + $6.425bn). Forward P/E **50.2× 2026E / 34.3× 2027E** (calculation).
 
 ## Consensus vs my read
 

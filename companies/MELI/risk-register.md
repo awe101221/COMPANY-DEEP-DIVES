@@ -1,6 +1,6 @@
 # MELI risk register
 
-**As-of:** 2026-08-16 (afternoon review: no probability revision; no new company event). P = subjective 12-month probability. Impact = effect on equity value if it hits.
+**As-of:** 2026-08-22 (BCB ratio sourced; no probability revision; no new company event). P = subjective 12-month probability. Impact = effect on equity value if it hits.
 
 | ID | Risk | Transmission | P | Impact | Leading indicators | Mitigant | Thesis link |
 |---|---|---|---:|---|---|---|---|
@@ -15,4 +15,4 @@
 | R9 | Cyber / outage / fraud | Trust, PDA, opex | 15% | Medium | Incident 8-Ks | 10-K cybersecurity program | Tail |
 | R10 | Key-person / succession | Strategy shift after Galperin/Szarfsztejn | 10% | Medium | 8-Ks, LTRP | Founder still Executive Chairman | Tail |
 
-**This week’s change:** R1 and R2 remain the live pair. Selic cut slightly *lowers* near-term R1 probability; 10-Q 90+ aging slightly *raises* it. Net: no probability revision until Q3.
+**This week’s change:** R1 and R2 remain the live pair. 2026-08-22: R6/R7 Brazil payments-regulation channel is now statute-backed (Res. 80 art. 22 = 100% e-money safeguard). That *clarifies* the existing R6/R7 path (wallet growth locks cash; a future buffer would consume available cash). It does **not** raise the 12-month probability — the rule has been in force since 2021. No probability revision until Q3 or a BCB rewrite.
