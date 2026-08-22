@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run).
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run). S53–S64 were assigned on open PRs #6–#9 (not on this branch). S65–S73 accessed **2026-08-22** (BCB ratio run).
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -58,10 +58,19 @@ Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (esti
 | S50 | Latin America Ad Spending 2025 | eMarketer | 2025-06-25 | 2025 market | https://www.emarketer.com/content/latin-america-ad-spending-2025 | Total LatAm ads >$40bn; digital 56.6% — used only to test the 10% share claim |
 | S51 | Amazon 2025 10-K ads line | Amazon / SEC | 2026 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm | Advertising services $68.635bn analog; Amazon does not report ads/GMV |
 | S52 | Yahoo MELI quote + analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,844.58; FY26/27 EPS $38.31 / $55.99 unchanged |
+| S65 | EDGAR company index reconfirm | SEC | live 2026-08-22 | filings through 2026-08-06 | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001099590 | Still no 8-K after 2026-08-06 |
+| S66 | Resolução BCB nº 80 (DOU) | BCB / Imprensa Nacional | 2021-03-25; DOU 2021-03-29 | payments-institution rule | https://www.in.gov.br/en/web/dou/-/resolucao-bcb-n-80-de-25-de-marco-de-2021-310910168 | Art. 22: 100% e-money safeguard; arts. 3, 23, 27 |
+| S67 | Resolução BCB nº 237 | BCB | 2022-08-24 | CCME operating rule | https://www.legisweb.com.br/legislacao/?id=435665 | Defines CCME as the art. 22 cash account at BCB |
+| S68 | Resolução BCB nº 494 | BCB | 2025-09-05 | authorization calendar | http://cpro7066.publiccloud.com.br/materia/60163/resolucao-bcb-n-494-de-5-de-setembro-de-2025 | Amends arts. 9–13; **not** art. 22 |
+| S69 | Q2 2026 10-Q Note 3 (re-read) | MELI / SEC | 2026-08-06 | cash map | https://www.sec.gov/Archives/edgar/data/1099590/000109959026000023/meli-20260630.htm | BCB cash $11,174mn; BCB securities $202mn |
+| S70 | BCB open data — Mercado Pago IP Ltda. | BCB | metadata updated 2026-03-30 | institution status | https://dadosabertos.bcb.gov.br/dataset/ir-10573521000191 | Listed SFN IP; CNPJ 10.573.521/0001-91 |
+| S71 | BCB compulsório summary | BCB / Deban | live table (cites Res. 189/2022 and later) | bank reserve contrast | https://bcb.gov.br/content/estabilidadefinanceira/aliquotascompulsorios/Resumo_aliquotas_compulsorios.pdf | 21% bank sight deposits — **not** the IP rule |
+| S72 | Yahoo MELI quote + analysis | Yahoo / Refinitiv | retrieved 2026-08-22 | 2026-08-21 close / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Close $1,922.73; FY26/27 EPS $38.31 / $55.99; rev $41.67bn / $53.21bn |
+| S73 | StockAnalysis MELI history | StockAnalysis | retrieved 2026-08-22 | 2026-08-21 session | https://stockanalysis.com/stocks/meli/history/ | Confirms $1,922.73 close; +0.04% |
 
-**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
+**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV. Applying the 21% bank *compulsório* to Mercado Pago wallets. Treating Res. 494/2025 as a reserve-ratio change.
 
-**Not obtained this run:** official call audio; full 2025 10-K risk-factor read; 13F/13D detail; sell-side models; X posts.
+**Not obtained this run:** official call audio; Brazil-only funds payable; CNBV/CMF/BCRA statutory text to article level; Mercado Pago descargo; X posts.
 
 ## Source priority
 

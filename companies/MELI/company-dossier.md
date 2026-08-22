@@ -1,6 +1,6 @@
 # MELI company dossier
 
-**Last updated:** 2026-08-17 (ads reconstruction added under Commerce; no leadership or capital-structure change). Stable facts; date any item that can change.
+**Last updated:** 2026-08-22 (BCB 100% e-money safeguard under cash classification; no leadership or capital-structure change). Stable facts; date any item that can change.
 
 ## Identity
 
@@ -71,7 +71,7 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 | TPV | All Mercado Pago payments excl. P2P | GMV or acquiring TPV |
 | Acquiring TPV | POS + marketplace + checkout/link + QR | Full TPV (excludes some wallet/credit-card spend) |
 | Credit portfolio / loans receivable | Gross or net book (state which) | Originations or TPV |
-| Cash | Unrestricted cash | Restricted cash, customer funds, credit receivables |
+| Cash | Unrestricted cash / management “available cash” | Restricted cash, customer funds, credit receivables. Brazil prepaid wallets are a **100%** BCB safeguard (Res. 80 art. 22), not a bank reserve — `bcb-reserve-ratio-2026-08-22.md` (2026-08-22) |
 
 ## Capital allocation record (high level)
 

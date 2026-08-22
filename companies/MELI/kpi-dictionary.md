@@ -1,6 +1,6 @@
 # MELI KPI dictionary
 
-**Last updated:** 2026-08-17 (ads reconstruction). Definitions from Q2 2026 shareholder letter and 2025 10-K unless noted.
+**Last updated:** 2026-08-22 (BCB 100% note). Definitions from Q2 2026 shareholder letter and 2025 10-K unless noted.
 
 | KPI | Official definition | Units | Known definition changes | Where disclosed |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@
 | Net debt | Loans payable + operating leases − (unrestricted cash + eligible ST/LT investments). Excludes restricted cash, guarantee securities, VIE securitization investments, equity at cost | $ mn | Non-GAAP; **includes leases** | Letter |
 | Adjusted FCF | CFO − customer-fund/restricted-cash build − capex − Δ loans receivable + net fintech funding. From Q2 2025 also adjusts management-restricted cash and digital assets | $ mn | Definition widened Q2 2025 | Letter |
 | Available cash, investments and digital assets | Unrestricted cash + eligible investments + digital assets (from Q2 2025) | $ mn | Non-GAAP | Letter |
+| Restricted cash / BCB mandatory guarantee | 10-Q Note 3 line “Cash in bank accounts (Central Bank of Brazil mandatory guarantee).” Statute behind it: Res. BCB 80 art. 22 — **100%** of Brazil prepaid e-money (+ in-transit + pending credits) in CCME cash or ≤540-day Tesouro. Not the 21% bank *compulsório*. Securities pledged to the same rule sit in ST investments, not on this cash line | $ mn | Brazil-only e-money stock is **not** disclosed; do not test 100% against consolidated funds payable | 10-Q Note 3; `bcb-reserve-ratio-2026-08-22.md` |
 | Commerce (revenue) | Marketplace fees, shipping, 1P, ads, classifieds, membership, ancillary | $ | Segment/letter classification, not a GAAP segment | Letter |
 | Advertising / Mercado Ads | Letter: “ad sales” inside Commerce. 10-K: advertising sales fees inside Commerce services (Product Ads, Brands Ads, Display, Video; Display/Video also off-platform). **Not a GAAP line after aggregation** | $ and % of GMV | Company printed ads **as % of GMV** through Q4 2024 (last print 2.1%). From 2025 letters: **USD and FXN growth only**, plus qualitative share/margin comments. Food-delivery GMV inclusion from Q2 2025 slightly dilutes ads/GMV vs a merchandise-only base | Letters; 2025 10-K; reconstruction in `ads-revenue-reconstruction-2026-08-17.md` |
 | Fintech (revenue) | Off-platform fees, financing, credit interest, Mpago investment income net of BR pass-through, MPOS sales | $ | Same | Letter |
@@ -36,3 +37,4 @@
 - **CFO >> owner earnings** because of funds payable to customers and credit-related working capital.
 - **15–90 NPL ≠ 90+ NPL.** See credit deep-dive.
 - **Ads $ ≠ a GAAP line.** After Q4 2024 the company stopped printing ads/GMV. Dollar figures in `ads-revenue-reconstruction-2026-08-17.md` are calculations, not reported actuals.
+- **Restricted cash ≠ 100% of consolidated funds payable.** Art. 22 is a Brazil prepaid-e-money test. The 10-Q does not isolate that stock. See `bcb-reserve-ratio-2026-08-22.md`.
