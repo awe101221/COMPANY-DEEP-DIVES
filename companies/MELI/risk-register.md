@@ -1,6 +1,6 @@
 # MELI risk register
 
-**As-of:** 2026-08-16 (afternoon review: no probability revision; no new company event). P = subjective 12-month probability. Impact = effect on equity value if it hits.
+**As-of:** 2026-08-23 (13D residual review: no probability revision; no new company event). P = subjective 12-month probability. Impact = effect on equity value if it hits.
 
 | ID | Risk | Transmission | P | Impact | Leading indicators | Mitigant | Thesis link |
 |---|---|---|---:|---|---|---|---|
@@ -13,6 +13,6 @@
 | R7 | Regulation (payments, credit, labor, antitrust, tax) | Capital, take-rate, or product constraints | 25% | Medium-High | Central-bank/circulars, PIX rules, MX tax | Local licenses, scale | All |
 | R8 | FX translation (BRL, MXN, ARS) | USD growth/margins noisy; equity AOCI | 50% (noise) | Medium | Spot FX vs 2025 averages | Natural hedges; FXN reporting | All |
 | R9 | Cyber / outage / fraud | Trust, PDA, opex | 15% | Medium | Incident 8-Ks | 10-K cybersecurity program | Tail |
-| R10 | Key-person / succession | Strategy shift after Galperin/Szarfsztejn | 10% | Medium | 8-Ks, LTRP | Founder still Executive Chairman | Tail |
+| R10 | Key-person / succession | Strategy shift after Galperin/Szarfsztejn | 10% | Medium | 8-Ks, LTRP, 13D/144s | Founder still Executive Chairman; 6.70% trust is not a lockup | Tail |
 
-**This week’s change:** R1 and R2 remain the live pair. Selic cut slightly *lowers* near-term R1 probability; 10-Q 90+ aging slightly *raises* it. Net: no probability revision until Q3.
+**This week’s change:** R1 and R2 remain the live pair. The 2024–25 Meliga Form 144s (100k notice; 150k program) are periodic trust diversification, not a “founder dumping / leaving” signal. R10 stays **10%**. No probability revision until Q3 or a new 13D/144.

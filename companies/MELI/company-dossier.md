@@ -1,6 +1,6 @@
 # MELI company dossier
 
-**Last updated:** 2026-08-17 (ads reconstruction added under Commerce; no leadership or capital-structure change). Stable facts; date any item that can change.
+**Last updated:** 2026-08-23 (13D residual / Amendment No. 1 added under Governance; no leadership or capital-structure change). Stable facts; date any item that can change.
 
 ## Identity
 
@@ -35,6 +35,8 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 **Incentives (2026-03-31 8-K):** 2026 bonus for NEOs tied to constant-dollar net revenues & financial income, constant-dollar income from operations, adjusted TPV, and Competitive NPS. 2026 LTRP: six-year cash, first payment Jan–Apr 2027, grant date 1 Jan 2026. **Implication:** official incentives still reward *growth and operating income*, not reported GAAP EPS or FCF. That is consistent with the current “invest over harvest” posture.
 
 **Governance notes (2025 10-K):** staggered board; 20% voting-power limitation; no dividend since Q1 2018 (board: reinvestment > dividend). LTRP is cash, not equity — dilution is low (share count ~50.7mn and stable) but compensation still hits G&A / opex.
+
+**Ownership (as of 2026-08-23; 13D/144 path):** the Galperin group’s live 13D is **3,400,136 / 6.70%** after the June 17, 2026 Meliga LP → Meliga Corp. distribution for no consideration (PR #6). Amendment No. 1 (2024-10-31) was the prior wrap at **3,550,136 / 7.00%** and did not sell stock. The 150,000-share gap versus the April 2026 proxy matches a 2025 Meliga Form 144 program (117,986 sold for $272.0mn reported; 32,014 remainder inferred). An earlier August 2024 144 notice of 100,000 matches the May-2024 → Nov-2024 count drop. Full residual memo: `13d-residual-2026-08-23.md`. Marcos Galperin’s personal proxy line is 35 shares. Named-executive equity is de minimis; alignment is the cash LTRP.
 
 **Share count (2026-06-30):** 50,696,802 issued and outstanding; 226,593 treasury; 110,000,000 authorized.
 

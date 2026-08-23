@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run).
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run). S53–S62 accessed **2026-08-23** (13D residual run).
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -58,10 +58,20 @@ Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (esti
 | S50 | Latin America Ad Spending 2025 | eMarketer | 2025-06-25 | 2025 market | https://www.emarketer.com/content/latin-america-ad-spending-2025 | Total LatAm ads >$40bn; digital 56.6% — used only to test the 10% share claim |
 | S51 | Amazon 2025 10-K ads line | Amazon / SEC | 2026 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm | Advertising services $68.635bn analog; Amazon does not report ads/GMV |
 | S52 | Yahoo MELI quote + analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,844.58; FY26/27 EPS $38.31 / $55.99 unchanged |
+| S53 | Schedule 13D/A Amendment No. 1 | Galperin Trust /SD / SEC | 2024-11-01 | event 2024-10-31 | https://www.sec.gov/Archives/edgar/data/1099590/000143774924033000/gtsd20241101f_sc13da.htm | 3,550,136 / 7.00%; estate wrap; no 60-day transactions |
+| S54 | Schedule 13D (initial Galperin Trust /SD) | Galperin Trust /SD / SEC | 2024-05-24 | event 2024-05-20 | https://www.sec.gov/Archives/edgar/data/1099590/000143774924018325/0001437749-24-018325.txt | 3,650,136 / 7.2%; prior wrap |
+| S55 | Schedule 13D/A Amendment No. 2 | Galperin Trust /SD / SEC | 2026-06-18 | event 2026-06-17 | https://www.sec.gov/Archives/edgar/data/1099590/000143774926021169/0001437749-26-021169.txt | 3,400,136 / 6.70%; LP → Corp distribution; no consideration |
+| S56 | Form 144 | Meliga No. 1 LP / SEC | 2024-08-13 | proposed sale | https://www.sec.gov/Archives/edgar/data/1099590/000143774924026540/0001437749-24-026540.txt | 100,000 @ $188,362,000 |
+| S57 | Form 144 | Meliga No. 1 LP / SEC | 2025-02-26 | proposed sale | https://www.sec.gov/Archives/edgar/data/1099590/000143774925005291/0001437749-25-005291.txt | 150,000 @ $329,646,000 |
+| S58 | Form 144 | Meliga No. 1 LP / SEC | 2025-05-28 | proposed + prior sales | https://www.sec.gov/Archives/edgar/data/1099590/000143774925018691/0001437749-25-018691.txt | 32,014 remaining; 117,986 sold for $272,033,980.48 |
+| S59 | Meliga No. 1 LP EDGAR 144 index | SEC | live 2026-08-23 | completeness | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001515083&type=144 | Exactly three 144s; none after 2025-05-28 |
+| S60 | EDGAR company index reconfirm | SEC | live 2026-08-23 | filings through 2026-08-06 | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001099590 | Still no 8-K after 2026-08-06 |
+| S61 | Yahoo MELI analysis + StockAnalysis history | Yahoo / StockAnalysis | retrieved 2026-08-23 | price / consensus | https://finance.yahoo.com/quote/MELI/analysis/ ; https://stockanalysis.com/stocks/meli/history/ | Close $1,922.73 on 2026-08-21; FY26/27 EPS $38.31 / $55.99 |
+| S62 | DEF 14A beneficial ownership | MELI / SEC | 2026-04-23 | as-of 2026-04-14 | https://www.sec.gov/Archives/edgar/data/1099590/000109959026000010/meli-20260423.htm | Proxy still cited Amendment No. 1 3,550,136 |
 
-**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
+**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV. Secform4 “Sale” tags on 13D count changes — those pages infer a sale from the share-count delta; use the 144 table and 13D text instead. Finexus-style “Baillie boosted” headlines (PR #6). Deutsche Bank “new stake” 13F headlines as a live catalyst.
 
-**Not obtained this run:** official call audio; full 2025 10-K risk-factor read; 13F/13D detail; sell-side models; X posts.
+**Not obtained this run:** official call audio; ticket-level fills of the Aug-2024 100k and May-2025 32,014; CNBV/CMF/BCRA statutory formulas; Q2/Q3 2026 13Fs; X posts.
 
 ## Source priority
 

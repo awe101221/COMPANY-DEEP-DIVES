@@ -1,8 +1,8 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and both 2026-08-17 incremental runs: no probability change.  
-**Last thesis review:** 2026-08-17 (ads reconstruction)  
-**Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
+**Current status:** Initial thesis dated 2026-08-16 (morning). Subsequent incremental runs through 2026-08-23: no probability change.  
+**Last thesis review:** 2026-08-23 (13D residual / Amendment No. 1)  
+**Valuation as of:** 2026-08-21 16:00 EDT close $1,922.73. Reverse DCF still anchored to the 2026-08-14 close $1,844.58 / $99.94bn EV (move +4.2%, inside the 10% rebuild band).
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
 
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-23 — 13D residual / Amendment No. 1; no probability change
+
+New work: Amendment No. 1 (2024-11-01) is an estate-planning wrap at 3,550,136 / 7.00% and does not describe a sale. The 150,000-share gap versus the April 2026 proxy matches the 2025 Meliga Form 144 program (117,986 sold for $272.0mn reported; 32,014 remainder inferred). The June 2026 13D/A remains a no-consideration wrap of the leftover 3,400,136 (PR #6). This is 2024–25 trust diversification, not a live August 2026 flow event. It does **not** change 25/45/30. No new company operating print. No 8-K after 2026-08-06.
 
 ### 2026-08-17 — ads reconstruction; no probability change
 
