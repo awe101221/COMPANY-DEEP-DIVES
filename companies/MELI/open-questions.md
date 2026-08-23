@@ -1,6 +1,6 @@
 # MELI Open Research Questions
 
-**Last reviewed:** 2026-08-17 (ads reconstruction run)
+**Last reviewed:** 2026-08-23 (13D residual / Amendment No. 1). Later incremental work on PRs #6–#10 is not on this branch and is **not** superseded.
 
 Rank unresolved questions by their potential effect on investment decisions, not by ease of answering.
 
@@ -16,12 +16,12 @@ Rank unresolved questions by their potential effect on investment decisions, not
 | 8 | Mexico tax-reform GMV drag in ppts | Separates temporary World Cup from structural | Management quantification | Low | Open |
 | 9 | Customer-fund / restricted-cash mapping vs regulatory regimes | EV bridge quality | 10-K notes by country | Medium | Open |
 | 10 | 2026 LTRP / bonus payout sensitivity to EBIT | Incentive alignment | 8-K already read | Low-Med | Open |
-| 11 | Insider / 13D ownership after June 2026 filings | Governance / flow | 13D/A 2026-06-18; Form 4s | High researchability — alternate next if #4 stalls | Open |
+| 11 | Insider / 13D ownership after June 2026 filings | Governance / flow | 13D/A 2026-06-18; Form 4s; Amendment No. 1; Meliga 144s | **Progressed 2026-08-18** on PR #6 (June wrap, not a sale). **Residual progressed 2026-08-23** — `13d-residual-2026-08-23.md`. 150k vs April proxy = 2025 Form 144 program | Progressed; leftover is ticket-level fill of the Aug-2024 100k and May-2025 32,014 |
 | 12 | Food-delivery contribution to GMV/items (definition break) | KPI comparability | Not disclosed | Low | Open |
 
 ## Resolved questions
 
-None fully resolved. #4, #5, and #6 are progressed, not closed.
+None fully resolved. #4, #5, #6, and the #11 residual are progressed, not closed. #11’s June wrap lives on PR #6; the 150k mechanism is sourced on this run.
 
-**Selected this run:** #4 (ads dollars).  
-**Suggested next run if no new 8-K:** #11 (13D/A / Form 4s) or a full 10-K risk-factor read. Do not redo #4 unless a new ads/GMV print arrives.
+**Selected this run:** #11 residual (Amendment No. 1 + 2025 Form 144s).  
+**Suggested next run if no new 8-K:** CNBV / CMF / BCRA statutory customer-fund formulas (leftover of #9 after PR #10’s BCB ratio), GS 2026-09-08 listening brief, or ticket-level fill of the Aug-2024 100k / May-2025 32,014. Do not redo #4, #5, #6, the June ownership wrap, or this residual unless those inputs change.

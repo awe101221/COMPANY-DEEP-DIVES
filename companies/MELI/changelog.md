@@ -2,6 +2,16 @@
 
 Dated views only. Do not silently overwrite.
 
+## 2026-08-23 — Incremental run (13D residual / Amendment No. 1)
+
+- **Trigger:** scheduled cron 2026-08-23T12:02:54Z. Prior successful run 2026-08-22 ~14:00 UTC on `cursor/meli-intelligence-update-9891` (PR #10, BCB ratio). This branch is based on current `main` (`261a59f`).
+- **Company event:** none. No 8-K after 2026-08-06. Price still 2026-08-21 close $1,922.73. Consensus unchanged.
+- **Deep research:** leftover of #11. Amendment No. 1 is a wrap at 3,550,136 / 7.00%. The 150k vs April 2026 proxy matches the 2025 Meliga Form 144 program (117,986 sold / $272.0mn reported; 32,014 remainder inferred). Memo: `13d-residual-2026-08-23.md`.
+- **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence stays ~48%.
+- **Does not supersede:** PRs #6, #7, #8, #9, or #10.
+- **Status:** `research progress only`.
+- **Do not merge automatically.**
+
 ## 2026-08-17 — Pre-merge review of PR #5
 
 - **Base:** PR #5 is based on current `main` (`ef1cdb2`). `main` is not empty: it already has the repo scaffold, MELI folder templates, and the MELI analyst skill. This PR only changes files under `companies/MELI/`.

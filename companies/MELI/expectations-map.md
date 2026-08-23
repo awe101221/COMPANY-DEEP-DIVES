@@ -1,6 +1,6 @@
 # MELI expectations map
 
-**As-of:** 2026-08-17. Price as-of 2026-08-14 close **$1,844.58** (no session since; this run is before the 2026-08-17 cash open). Consensus unchanged vs 2026-08-16 afternoon.
+**As-of:** 2026-08-23. Price as-of 2026-08-21 close **$1,922.73** (markets closed 2026-08-22–23). Consensus current field unchanged vs the 2026-08-22 memory: FY26/FY27 EPS **$38.31 / $55.99**. Reverse DCF not rebuilt (+4.2% vs the 2026-08-14 $1,844.58 print).
 
 ## What the price appears to embed (inference, now reverse-DCF backed)
 
@@ -42,4 +42,4 @@ Street near-term is a trough: FY26 EPS $38.31 vs FY25 $39.40; implied EBIT margi
 
 ## Ownership / flow
 
-Not updated this run (13F lag). June 2026 Form 4s and a 13D/A (2026-06-18) remain an open workstream (#11). Short interest 809k shares / 1.60% of float as of 2026-07-31 (Yahoo/Morningstar) — not a crowded short.
+**Progressed 2026-08-23.** June 2026 13D/A is a wrap of 3,400,136 / 6.70% (PR #6). The 150k residual versus the April 2026 proxy is a 2025 Meliga Form 144 program, not a 2026 flow event (`13d-residual-2026-08-23.md`). Last documented Meliga sale print is 2025-05-23. 13F lag remains (latest 13Gs are 3/31/2026 event dates). Short interest 809k shares / 1.60% of float as of 2026-07-31 (Yahoo/Morningstar, prior run) — not re-pulled.
