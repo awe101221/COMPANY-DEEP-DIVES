@@ -1,12 +1,14 @@
 # MELI Open Research Questions
 
-**Last reviewed:** 2026-08-17 (ads reconstruction run)
+**Last reviewed:** 2026-08-25 (Brazil CFO card interview run)
 
 Rank unresolved questions by their potential effect on investment decisions, not by ease of answering.
 
+This file on `main` does not yet include the dated rows opened on PRs #6–#11 (ownership, consignado, customer-funds, BA expediente, BCB ratio, 13D residual). Those PRs are **not superseded**.
+
 | Priority | Question | Why it matters | Evidence needed | Next research step | Status |
 |---:|---|---|---|---|---|
-| 1 | Is card NIMAL −2.5% vintage mix or structural? | Determines whether cards are a cash-flow hole or a 12–18 month investment. | Cohort NIMAL; 90+ by product | Wait for GS 2026-09-08 and Q3; foundation memo on other branch | In progress — foundation `credit-deep-dive-2026-08-16.md` |
+| 1 | Is card NIMAL −2.5% vintage mix or structural? | Determines whether cards are a cash-flow hole or a 12–18 month investment. | Cohort NIMAL; 90+ by product; product PDA *rate* vs dollars | **Progressed 2026-08-25** — Folha interview with Brazil CFO Lima restates the letter and adds “higher provisions than other lines” + funding pass-through. Memo: `brazil-cfo-cards-2026-08-25.md`. Still no cohort NIMAL. Ask at GS 2026-09-08; wait for Q3 | Progressed; vintage/mix weight ~60%, not resolved |
 | 2 | What 90+ NPL by product is doing, and is the late-2025 vintage contained? | 10-Q shows 18.7% of gross loans 90–360 DPD vs 7.0% 15–90 NPL. | Product-level aging | Ask at GS 9/8; wait for Q3 10-Q | Open |
 | 3 | When do Brazil free-shipping lanes become contribution-positive across most of the R$19–79 band? | Core commerce payback. | Management update of “half of ASP ranges” | Q3 letter / GS | Open |
 | 4 | What is ads revenue and incremental margin in dollars? | Could justify a 4× residual sales multiple. | Not in GAAP; last take-rate print was Q4’24 | **Progressed 2026-08-17** — `ads-revenue-reconstruction-2026-08-17.md`. Refresh if a new ads/GMV print arrives | Progressed; dollars ranged, incremental margin still unknown |
@@ -21,7 +23,7 @@ Rank unresolved questions by their potential effect on investment decisions, not
 
 ## Resolved questions
 
-None fully resolved. #4, #5, and #6 are progressed, not closed.
+None fully resolved. #1, #4, #5, and #6 are progressed, not closed. Later open PRs progressed #9, #11, and related leftovers without closing them.
 
-**Selected this run:** #4 (ads dollars).  
-**Suggested next run if no new 8-K:** #11 (13D/A / Form 4s) or a full 10-K risk-factor read. Do not redo #4 unless a new ads/GMV print arrives.
+**Selected this run:** #1 (card NIMAL), via the 2026-08-24 Folha / Lima interview.  
+**Suggested next run if no new 8-K:** GS 2026-09-08 listening brief, or CNBV/CMF/BCRA statutory formulas (leftover of #9 after PR #10). Do not redo #1 unless a product-level print or GS remarks arrive.

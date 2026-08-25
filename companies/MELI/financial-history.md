@@ -1,7 +1,7 @@
 # MELI Financial and Operating History
 
 **Status:** Partial — annual 2023–25 and quarterly 2023–Q2 2026 revenue complete; quarterly P&L from Q3 2024 through Q2 2026 now from primary 8-Ks. Ads dollars reconstructed 2026-08-17 (not GAAP). Full eight-quarter *operating-KPI* block still incomplete.  
-**Last verified:** 2026-08-17. $ millions unless noted.
+**Last verified:** 2026-08-25 (no new company print; card mix language from Folha is a restatement of the Q2 letter). $ millions unless noted.
 
 ## Annual financial history
 
@@ -30,7 +30,7 @@
 **Country revenue 2025 (10-K):** Brazil $15,201 / Mexico $6,475 / Argentina $5,962 / Other $1,255.  
 **Country revenue 2024:** Brazil $11,406 / Mexico $4,664 / Argentina $3,818 / Other $889.
 
-**NIMAL path:** 36.2% → 28.2% → 22.4% → Q2’26 20.7%. Mix to cards is the management explanation. Independent verification of mix vs price vs loss is incomplete.
+**NIMAL path:** 36.2% → 28.2% → 22.4% → Q2’26 20.7%. Mix to cards is the management explanation. Independent verification of mix vs price vs loss is incomplete. Brazil CFO Lima (Folha, 2026-08-24) restated that explanation and added that cards take higher provisions than consumer/SME lines; still no product PDA rate. See `brazil-cfo-cards-2026-08-25.md`.
 
 ## Quarterly revenue (reported)
 

@@ -1,6 +1,6 @@
 # MELI company dossier
 
-**Last updated:** 2026-08-17 (ads reconstruction added under Commerce; no leadership or capital-structure change). Stable facts; date any item that can change.
+**Last updated:** 2026-08-25 (Brazil CFO identified; no group-leadership or capital-structure change). Stable facts; date any item that can change.
 
 ## Identity
 
@@ -31,6 +31,7 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 | Technology & Operations President | Daniel Rabinovich | 2026-03-31 8-K (bonus/LTRP) |
 | EVP & CFO (PFO/PAO) | Martín de los Santos | 10-Q / 8-K signatures |
 | IR (on calls) | Richard Cathcart, Senior Director IR | Q2 2026 call |
+| Brazil CFO (country; not a group NEO / not PFO) | João Paulo Lima | Folha *Painel S.A.* 2026-08-24; third-party listings as VP & CFO Brazil since Nov 2024 |
 
 **Incentives (2026-03-31 8-K):** 2026 bonus for NEOs tied to constant-dollar net revenues & financial income, constant-dollar income from operations, adjusted TPV, and Competitive NPS. 2026 LTRP: six-year cash, first payment Jan–Apr 2027, grant date 1 Jan 2026. **Implication:** official incentives still reward *growth and operating income*, not reported GAAP EPS or FCF. That is consistent with the current “invest over harvest” posture.
 

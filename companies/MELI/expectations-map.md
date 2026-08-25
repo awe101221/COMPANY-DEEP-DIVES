@@ -1,10 +1,12 @@
 # MELI expectations map
 
-**As-of:** 2026-08-17. Price as-of 2026-08-14 close **$1,844.58** (no session since; this run is before the 2026-08-17 cash open). Consensus unchanged vs 2026-08-16 afternoon.
+**As-of:** 2026-08-25. Price as-of 2026-08-24 close **$1,947.90**. Consensus EPS unchanged vs the 2026-08-17 / 2026-08-23 Yahoo print. Reverse DCF still anchored to $1,844.58 / $99.94bn EV (not rebuilt; +5.6%).
 
 ## What the price appears to embed (inference, now reverse-DCF backed)
 
 The stock is ~−8% YTD and ~−22% over 52 weeks (Yahoo) while TTM revenue is +46% and TTM NI is −9%. That combination usually means the market has **cut the near-term margin assumption**, not the growth assumption.
+
+**2026-08-25 tape:** last close $1,947.90 is +5.60% vs the DCF print. Implied equity ~$98.75bn and restated EV ~$105.2bn (calculation: $99.94bn + price delta × 50,696,802). Forward P/E **50.8× 2026E / 34.8× 2027E** on unchanged Yahoo EPS $38.31 / $55.99. One session of +1.31% after a country-CFO interview and a third-party Squadra long (unverified letter) is **not** payback evidence.
 
 The completed reverse DCF (`reverse-dcf-2026-08-16.md`) says $99.9bn EV is consistent with:
 
@@ -42,4 +44,4 @@ Street near-term is a trough: FY26 EPS $38.31 vs FY25 $39.40; implied EBIT margi
 
 ## Ownership / flow
 
-Not updated this run (13F lag). June 2026 Form 4s and a 13D/A (2026-06-18) remain an open workstream (#11). Short interest 809k shares / 1.60% of float as of 2026-07-31 (Yahoo/Morningstar) — not a crowded short.
+13D / Form 4 reconstruction lives on open PRs #6 and #11 (not on this branch): June 2026 13D/A is an estate wrap; the 150k residual vs the April proxy is a 2025 Form 144 program. Short interest 809k shares / 1.60% of float as of 2026-07-31 (Yahoo/Morningstar) — not a crowded short. Squadra’s 2026-08-24 press (largest-long claim) is third-party positioning only.

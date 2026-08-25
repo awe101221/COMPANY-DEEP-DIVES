@@ -1,6 +1,6 @@
 # MELI risk register
 
-**As-of:** 2026-08-16 (afternoon review: no probability revision; no new company event). P = subjective 12-month probability. Impact = effect on equity value if it hits.
+**As-of:** 2026-08-25 (Brazil CFO interview: no probability revision; no new 8-K). P = subjective 12-month probability. Impact = effect on equity value if it hits.
 
 | ID | Risk | Transmission | P | Impact | Leading indicators | Mitigant | Thesis link |
 |---|---|---|---:|---|---|---|---|
@@ -15,4 +15,4 @@
 | R9 | Cyber / outage / fraud | Trust, PDA, opex | 15% | Medium | Incident 8-Ks | 10-K cybersecurity program | Tail |
 | R10 | Key-person / succession | Strategy shift after Galperin/Szarfsztejn | 10% | Medium | 8-Ks, LTRP | Founder still Executive Chairman | Tail |
 
-**This week’s change:** R1 and R2 remain the live pair. Selic cut slightly *lowers* near-term R1 probability; 10-Q 90+ aging slightly *raises* it. Net: no probability revision until Q3.
+**This week’s change:** R1 and R2 remain the live pair. The 2026-08-24 Lima interview is message-consistent with the Q2 letter (vintage mix + acquisition value) and does **not** reduce R1. 10-Q 90–360 DPD 18.7% and unused card lines $14.0bn still sit on the other side of that claim. No probability revision until GS 2026-09-08 or Q3.

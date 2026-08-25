@@ -1,8 +1,8 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and both 2026-08-17 incremental runs: no probability change.  
-**Last thesis review:** 2026-08-17 (ads reconstruction)  
-**Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
+**Current status:** Initial thesis dated 2026-08-16 (morning). Subsequent dated reviews through 2026-08-25: no probability change. Open incremental PRs #6–#11 also recorded no probability change; they are not on this branch and are not superseded.  
+**Last thesis review:** 2026-08-25 (Brazil CFO card interview)  
+**Valuation as of:** 2026-08-24 16:00 EDT close $1,947.90. Reverse DCF still anchored to the 2026-08-14 close $1,844.58 / $99.94bn EV; not rebuilt (+5.6%).
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
 
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-25 — Brazil CFO card interview; no probability change
+
+New work: Folha *Painel S.A.* 2026-08-24 interview with João Paulo Lima (Brazil CFO). Every printed KPI is a restatement of the 2026-08-05 letter. Incremental claims: cards take higher provisions than consumer/SME lines; funding cost is passed through by product risk; cards are an “entry door” into Mercado Pago. This is additional management-claim evidence for the vintage/mix side of question #1, not cohort data. 10-Q 90–360 DPD 18.7% is unchanged. Price $1,947.90 (2026-08-24 close). Street FY26/FY27 EPS still $38.31 / $55.99 (Yahoo). DCF not rebuilt. This does **not** change 25/45/30. No 8-K after 2026-08-06.
 
 ### 2026-08-17 — ads reconstruction; no probability change
 
