@@ -2,6 +2,16 @@
 
 Dated views only. Do not silently overwrite.
 
+## 2026-08-25 — Incremental run (Brazil CFO card interview)
+
+- **Trigger:** scheduled cron 2026-08-25T12:03:03Z. Last successful run 2026-08-23 ~13:00 UTC on `cursor/meli-intelligence-update-9a06` (PR #11). This branch is based on current `main` (`261a59f`). It does not include or supersede PRs #6–#11.
+- **Company event:** none. No 8-K after 2026-08-06. IR calendar unchanged (GS 2026-09-08; Q3 provisional 2026-11-04). No MP descargo on the BA file.
+- **External:** Folha 2026-08-24 interview with Brazil CFO João Paulo Lima. KPI block restates the Q2 letter. New mechanism language on card PDA vs other lines and funding pass-through. Memo: `brazil-cfo-cards-2026-08-25.md`.
+- **Tape:** 2026-08-24 close $1,947.90 (+1.31% vs 2026-08-21; +5.60% vs the $1,844.58 DCF print). Consensus unchanged. DCF not rebuilt.
+- **Rejected:** eMarketer 2026-08-24 Mercado Coin item is Reuters 2026-03-31 news.
+- **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence stays ~48%.
+- **Status:** `research progress only`.
+
 ## 2026-08-17 — Pre-merge review of PR #5
 
 - **Base:** PR #5 is based on current `main` (`ef1cdb2`). `main` is not empty: it already has the repo scaffold, MELI folder templates, and the MELI analyst skill. This PR only changes files under `companies/MELI/`.

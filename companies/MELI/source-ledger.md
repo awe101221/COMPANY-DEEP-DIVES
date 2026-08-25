@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run).
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run). S80–S88 accessed **2026-08-25** (Brazil CFO interview run). IDs jump to S80 so they do not collide with source rows on open incremental PRs #6–#11.
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -58,10 +58,19 @@ Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (esti
 | S50 | Latin America Ad Spending 2025 | eMarketer | 2025-06-25 | 2025 market | https://www.emarketer.com/content/latin-america-ad-spending-2025 | Total LatAm ads >$40bn; digital 56.6% — used only to test the 10% share claim |
 | S51 | Amazon 2025 10-K ads line | Amazon / SEC | 2026 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm | Advertising services $68.635bn analog; Amazon does not report ads/GMV |
 | S52 | Yahoo MELI quote + analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,844.58; FY26/27 EPS $38.31 / $55.99 unchanged |
+| S80 | EDGAR company atom (CIK 0001099590) | SEC | live 2026-08-25 | filings through 2026-08-06 | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001099590&output=atom | No 8-K after 2026-08-06 |
+| S81 | IR news & events reconfirm | MELI | live 2026-08-25 | calendar | https://investor.mercadolibre.com/news-and-events | GS 9/8; Q3 11/4 provisional; no new PR |
+| S82 | IR SEC filings reconfirm | MELI | live 2026-08-25 | completeness | https://investor.mercadolibre.com/sec-filings | Latest company forms still 10-Q 8/6 and 8-K 8/5 |
+| S83 | Cartão de crédito ainda é porta de entrada | Folha *Painel S.A.* / Luana Franzão | 2026-08-24 17:07 BRT | interview | https://www1.folha.uol.com.br/colunas/painelsa/2026/08/cartao-de-credito-ainda-e-porta-de-entrada-para-o-mercado-pago-diz-cfo-do-mercado-livre.shtml | Brazil CFO João Paulo Lima; card as entry door; higher PDA vs other lines; funding pass-through |
+| S84 | Q2 2026 letter card/NIMAL passage | MELI / SEC 8-K EX-99.1 | 2026-08-05 | Q2 2026 | https://www.sec.gov/Archives/edgar/data/1099590/000109959026000021/ | Card NIMAL −2.5%; 2.6mn vs 1.6mn; 47% mix; 4.6% / 7.0% 15–90; 2–3× ecosystemic |
+| S85 | Yahoo MELI quote + analysis | Yahoo / Refinitiv | retrieved 2026-08-25 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Close $1,947.90; FY26/27 EPS $38.31 / $55.99 |
+| S86 | MELI daily history | StockAnalysis | retrieved 2026-08-25 | price | https://stockanalysis.com/stocks/meli/history/ | Confirms 2026-08-24 close $1,947.90 |
+| S87 | Yahoo chart API 10d | Yahoo | retrieved 2026-08-25 | price | https://query1.finance.yahoo.com/v8/finance/chart/MELI?interval=1d&range=10d | Confirms 2026-08-24 close 1947.90 |
+| S88 | Mercado Pago terminates Mercado Coin | Reuters | 2026-03-31 | stale | https://www.reuters.com/technology/mercadolibres-fintech-terminates-its-cryptocurrency-mercado-coin-2026-03-31/ | Used only to reject eMarketer 2026-08-24 recycle |
 
-**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
+**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV. eMarketer 2026-08-24 Mercado Coin shutdown — Reuters dated **2026-03-31**. Squadra Brazil-commerce EBIT-negative and Shopee below-R$80 inversion (Seu Dinheiro / SpaceMoney 2026-08-24) — third-party calculations, no primary letter obtained.
 
-**Not obtained this run:** official call audio; full 2025 10-K risk-factor read; 13F/13D detail; sell-side models; X posts.
+**Not obtained this run:** official call audio; CNBV/CMF/BCRA statutory formula texts; Mercado Pago descargo; X posts; Squadra primary letter.
 
 ## Source priority
 

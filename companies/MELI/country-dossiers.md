@@ -1,6 +1,6 @@
 # MELI country dossiers
 
-**As-of:** 2026-08-16 (afternoon check: no new official BR/MX/AR print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
+**As-of:** 2026-08-25 (no new official BR/MX/AR print since 2026-08-13 INDEC IPC; IPCA-15 August is 2026-08-26). Discuss macro only through MELI P&L, credit, and FX.
 
 ## Brazil (~54% of Q2 revenue)
 
@@ -13,6 +13,8 @@
 - Acquiring TPV +32% YoY (FXN), helped by large online merchants (lower take-rate, incremental dollars).
 - Free/slow shipments variable-contribution-positive in **half** of ASP bands R$19–79 (mgmt).
 - Credit: Brazil consumer NIMAL recovered QoQ after Q1 provision spike; NPLs “broadly stable YoY” and “nearly bottoms” (Giménez). Card issuance 2.6mn in the quarter, described as Brazil-heavy.
+- **2026-08-24 (Folha / João Paulo Lima, Brazil CFO):** cards are “not the most profitable” but an “entry door” into Mercado Pago; he says they take higher provisions than consumer and SME lines and that funding cost is passed through by product risk. KPIs restated from the Q2 letter ($7.7bn / 47% of the $16.4bn book; 15–90 card 4.6% / group 7.0%). Management claim, not a new print. Comparison: `brazil-cfo-cards-2026-08-25.md`.
+- Headcount (Lima claim): ~90k employees in Brazil; no reduction plan despite AI spend in finance, legal, and CX. Group FT count on Yahoo key stats is 123,670 (third-party; not re-checked against the 10-K this run).
 
 **Macro (official):**
 
