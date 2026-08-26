@@ -2,6 +2,16 @@
 
 Dated views only. Do not silently overwrite.
 
+## 2026-08-26 — Incremental run (Galperin / Argentina mora mix)
+
+- **Trigger:** scheduled cron 2026-08-26T12:01:25Z. Prior successful run 2026-08-25 ~12:30 UTC on `cursor/meli-intelligence-update-aa93` (PR #12). This branch is based on current `main` (`261a59f`).
+- **Company event:** none. No 8-K after 2026-08-06. IR calendar unchanged.
+- **External event:** Galperin 2026-08-25 X posts (after last-run cutoff) defending MP mora on dollar-share / median-ticket grounds. Fernández / Pública note: 19.0% of people / 2.9% of dollars. Pública still works for MELI (La Nación).
+- **Tape:** 2026-08-25 close $1,997.00. EV restated $107.67bn. DCF not rebuilt.
+- **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence stays ~48%.
+- **Does not supersede:** PRs #6–#12.
+- **Status:** `research progress only`.
+
 ## 2026-08-17 — Pre-merge review of PR #5
 
 - **Base:** PR #5 is based on current `main` (`ef1cdb2`). `main` is not empty: it already has the repo scaffold, MELI folder templates, and the MELI analyst skill. This PR only changes files under `companies/MELI/`.

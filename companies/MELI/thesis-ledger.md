@@ -1,8 +1,8 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and both 2026-08-17 incremental runs: no probability change.  
-**Last thesis review:** 2026-08-17 (ads reconstruction)  
-**Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
+**Current status:** Initial thesis dated 2026-08-16 (morning). Subsequent incremental runs through 2026-08-26: no probability change.  
+**Last thesis review:** 2026-08-26 (Galperin / Argentina mora mix)  
+**Valuation as of:** 2026-08-25 16:00 EDT close $1,997.00 (EV restated $107.67bn; DCF not rebuilt)
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
 
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-26 — Galperin / Argentina mora mix; no probability change
+
+New work: after the 2026-08-25 cutoff, Galperin defended Mercado Pago’s mora on dollar-share and median-ticket grounds (<3% of system mora dollars; ARS 0.1 million vs public-bank ARS 1.4 million). The Fernández / Pública note he amplified also has MELI at 19.0% of people in mora and 2.9% of mora dollars (median ARS 116,000). Pública still works for MELI (La Nación). Official BCRA *bank* June 2026 irregularity is 7.6% / 12.8% households — a different universe. No 8-K, no descargo, no collection stay. Tape $1,997.00; EV $107.67bn. This sizes the Argentina *political / person-count* risk versus the *dollar* claim. It does **not** change 25/45/30. Do not write 19%, 2.9%, 12.8%, or 26.2% into MELI’s book.
 
 ### 2026-08-17 — ads reconstruction; no probability change
 

@@ -1,6 +1,6 @@
 # MELI company dossier
 
-**Last updated:** 2026-08-17 (ads reconstruction added under Commerce; no leadership or capital-structure change). Stable facts; date any item that can change.
+**Last updated:** 2026-08-26 (Argentina mora-mix pointer; no leadership or capital-structure change). Stable facts; date any item that can change.
 
 ## Identity
 
@@ -83,7 +83,7 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 
 ## Accounting flags
 
-- **Argentina:** hyperinflation / FX. 10-Q notes April 2025 FX-band liberalization; from 1 Jan 2026 bands update with last monthly inflation. USD growth ≠ real growth.
+- **Argentina:** hyperinflation / FX. 10-Q notes April 2025 FX-band liberalization; from 1 Jan 2026 bands update with last monthly inflation. USD growth ≠ real growth. **2026-08-26:** founder social-media defense of MP mora mix (<3% of system mora dollars) after a BA consumer-defense expediente; see `argentina-mora-mix-2026-08-26.md`. Not a 10-Q disclosure.
 - **Credit:** write-off at **360 days**. 15–90 NPL is a *short* window; 90–360 stays on book.
 - **Device sales:** POS devices sold at a loss; inventory restock books the loss upfront (Q2 Mexico).
 - **Loan sales:** true-sale facilities in Mexico (new $150mn revolver Q2’26) and Argentina ($100mn). Gains are in credit revenue / other — small vs book ($53mn MX + $66mn AR sold in Q2).

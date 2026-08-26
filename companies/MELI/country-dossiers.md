@@ -1,6 +1,6 @@
 # MELI country dossiers
 
-**As-of:** 2026-08-16 (afternoon check: no new official BR/MX/AR print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
+**As-of:** 2026-08-26 (Argentina mora-mix addendum; no new official INDEC IPC since 2026-08-13. BCRA Informe sobre Bancos June 2026 published 2026-08-21. August IPCA-15 scheduled 2026-08-26 — official print not retrieved). Discuss macro only through MELI P&L, credit, and FX.
 
 ## Brazil (~54% of Q2 revenue)
 
@@ -58,6 +58,8 @@
 - 10-Q: April 2025 FX-band liberalization; from 1 Jan 2026 bands update with last monthly inflation; dividend remittance flexibility for FY beginning 2025.
 
 **MELI transmission:** Do **not** read +20% USD or +48% FXN as real volume. Items +22% is the cleaner activity read. High DC margin means a consumption/FX shock hits group EBIT harder than the revenue mix suggests. Card book is young; a 2026–27 AR credit scare at banks is a live local headline (Giménez acknowledged others are worried).
+
+**2026-08-26 addendum (political / mora mix):** After the 2026-08-20 BA consumer-defense expediente (PR #9), Galperin on 2026-08-25 said MELI is <3% of system mora *dollars* and that its median mora ticket is ARS 0.1 million vs ARS 1.4 million at public banks (founder claim via Infobae/iProfesional/BAE). The Fernández / Pública note he amplified has MELI at **19.0% of people in mora** and **2.9% of mora dollars** (median ARS 116,000). Pública still works for MELI (La Nación). Official BCRA *bank* June 2026 irregularity is **7.6%** private-sector / **12.8%** households ([BCRA](https://www.bcra.gob.ar/publicaciones/informe-sobre-bancos-junio-de-2026/)) — not Mercado Pago. No descargo and no collection-stay order found. Full memo: `argentina-mora-mix-2026-08-26.md`. Do not write any of those percentages into MELI’s Argentina book.
 
 ## Other countries (~5% of Q2 revenue)
 
