@@ -1,6 +1,10 @@
 # MELI expectations map
 
-**As-of:** 2026-08-17. Price as-of 2026-08-14 close **$1,844.58** (no session since; this run is before the 2026-08-17 cash open). Consensus unchanged vs 2026-08-16 afternoon.
+**As-of:** 2026-08-26. Price as-of 2026-08-25 close **$1,997.00**. Consensus EPS unchanged vs 2026-08-17; revenue estimates a few tens of millions higher.
+
+### 2026-08-26 tape note (no thesis change)
+
+Close **$1,997.00** is +8.26% vs the 2026-08-14 reverse-DCF print and +2.52% vs 2026-08-24. EV restated **$107.67bn** on the same 10-Q net-debt bridge. Forward P/E **52.1× 2026E / 35.7× 2027E** on Yahoo EPS $38.31 / $55.99 (retrieved 2026-08-26). FY26/FY27 revenue **$41.67bn / $53.21bn**. The 10% DCF-rebuild line from $1,844.58 is **$2,029**. A two-session bounce without an 8-K is not payback evidence. Argentina mora headlines are a political tape risk, not a new earnings print.
 
 ## What the price appears to embed (inference, now reverse-DCF backed)
 

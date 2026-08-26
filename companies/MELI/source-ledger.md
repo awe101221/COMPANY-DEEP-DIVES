@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run).
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run). S53–S64 accessed **2026-08-26** (Galperin / Argentina mora-mix run).
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -58,10 +58,22 @@ Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (esti
 | S50 | Latin America Ad Spending 2025 | eMarketer | 2025-06-25 | 2025 market | https://www.emarketer.com/content/latin-america-ad-spending-2025 | Total LatAm ads >$40bn; digital 56.6% — used only to test the 10% share claim |
 | S51 | Amazon 2025 10-K ads line | Amazon / SEC | 2026 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm | Advertising services $68.635bn analog; Amazon does not report ads/GMV |
 | S52 | Yahoo MELI quote + analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,844.58; FY26/27 EPS $38.31 / $55.99 unchanged |
+| S53 | IR news & events reconfirm | MELI | live 2026-08-26 | calendar | https://investor.mercadolibre.com/news-and-events | GS 9/8; Q3 11/4 provisional; no new PR |
+| S54 | IR SEC filings reconfirm | MELI | live 2026-08-26 | filings through 2026-08-06 | https://investor.mercadolibre.com/sec-filings | Completeness check after EDGAR block |
+| S55 | Qué dijo Marcos Galperin sobre la mora en Mercado Pago | Infobae | 2026-08-25 12:30 p.m. EST | founder posts + Fernández quotes | https://www.infobae.com/economia/2026/08/25/que-dijo-marcos-galperin-sobre-la-mora-en-mercado-pago/ | Primary journalism reprint of Galperin; 19.0% / 2.9% quote |
+| S56 | Galperin defendió a Mercado Pago | iProfesional | 2026-08-25 | founder posts | https://www.iprofesional.com/finanzas/463013-mercado-pago-morosidad-menos-bancos-publicos | Triangulation of quotes + Fernández medians |
+| S57 | Galperin habló del monto y omitió el 19% | BAE Negocios | 2026-08-25 16:39 AR | founder posts + framing | https://www.baenegocios.com/economia/mercado-pago-galperin-hablo-del-monto-de-la-mora-y-dejo-fuera-un-dato-clave-1862/ | Person-vs-dollar framing; FX 1,530 venta |
+| S58 | El autor del tuit… trabaja para Mercado Libre | La Nación | 2026-08-25 | independence | https://www.lanacion.com.ar/politica/el-autor-del-tuit-sobre-la-mora-celebrado-por-milei-y-galperin-trabajo-para-mercado-libre-nid25082026/ | Fernández / Pública still a MELI vendor (indexed; full HTML not retrieved) |
+| S59 | Qué dijo Galperin sobre la mora en Mercado Libre | La Nación | 2026-08-25 | founder posts | https://www.lanacion.com.ar/politica/que-dijo-marcos-galperin-sobre-la-mora-en-mercado-libre-nid25082026/ | Second LN reprint; full HTML 429 this run |
+| S60 | Informe sobre Bancos, junio de 2026 | BCRA | published 2026-08-21 | June 2026 bank mora | https://www.bcra.gob.ar/publicaciones/informe-sobre-bancos-junio-de-2026/ | Official 7.6% / 12.8% / 3.5%; not MELI |
+| S61 | Yahoo MELI Analysis | Yahoo / Refinitiv | retrieved 2026-08-26 | consensus + 2026-08-25 close | https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,997.00; FY26/27 EPS $38.31 / $55.99; rev $41.67bn / $53.21bn |
+| S62 | Yahoo chart API | Yahoo | retrieved 2026-08-26 | daily closes | https://query1.finance.yahoo.com/v8/finance/chart/MELI?interval=1d&range=10d | Confirms $1,997.00 close 2026-08-25 |
+| S63 | StockAnalysis MELI history | StockAnalysis | retrieved 2026-08-26 | price | https://stockanalysis.com/stocks/meli/history/ | Confirms $1,997.00 / $1,947.90 |
+| S64 | Diario de Cuyo usury recap | Diario de Cuyo | retrieved 2026-08-26 | Solano cautelar | https://www.diariodecuyo.com.ar/economia/mercado-libre-denuncia-presunta-usura-cuestionan-tasas-1375-y-piden-frenar-los-cobros-n6580900 | No stay order as of retrieval |
 
-**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
+**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV. 2025 IPCA-15 −0.14% August articles recirculated as 2026 news. eMarketer 2026-08-24 Mercado Coin item (Reuters 2026-03-31; rejected on PR #12).
 
-**Not obtained this run:** official call audio; full 2025 10-K risk-factor read; 13F/13D detail; sell-side models; X posts.
+**Not obtained this run:** official call audio; EDGAR HTML (blocked); X original posts; IBGE August 2026 IPCA-15 release; full La Nación HTML; LSEG terminal extract; Mercado Pago descargo; Juzgado N° 53 order.
 
 ## Source priority
 

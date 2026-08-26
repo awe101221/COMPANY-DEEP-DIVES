@@ -1,6 +1,6 @@
 # MELI risk register
 
-**As-of:** 2026-08-16 (afternoon review: no probability revision; no new company event). P = subjective 12-month probability. Impact = effect on equity value if it hits.
+**As-of:** 2026-08-26 (Galperin / Argentina mora-mix review: no probability revision to R1–R10; R11 added). P = subjective 12-month probability. Impact = effect on equity value if it hits.
 
 | ID | Risk | Transmission | P | Impact | Leading indicators | Mitigant | Thesis link |
 |---|---|---|---:|---|---|---|---|
@@ -14,5 +14,6 @@
 | R8 | FX translation (BRL, MXN, ARS) | USD growth/margins noisy; equity AOCI | 50% (noise) | Medium | Spot FX vs 2025 averages | Natural hedges; FXN reporting | All |
 | R9 | Cyber / outage / fraud | Trust, PDA, opex | 15% | Medium | Incident 8-Ks | 10-K cybersecurity program | Tail |
 | R10 | Key-person / succession | Strategy shift after Galperin/Szarfsztejn | 10% | Medium | 8-Ks, LTRP | Founder still Executive Chairman | Tail |
+| R11 | Argentina consumer-defense / political mora | Conduct remedies, collection stay, or CFT rule that slows AR originations/recoveries. Fine itself is de minimis (~$1.2mn) | 25% | Medium | BA descargo; Juzgado N° 53 stay; next BCRA PNFC; any 10-Q AR cut | High local DC; claimed low dollar-share of system mora (founder / vendor-adjacent) | Base / R3 satellite |
 
-**This week’s change:** R1 and R2 remain the live pair. Selic cut slightly *lowers* near-term R1 probability; 10-Q 90+ aging slightly *raises* it. Net: no probability revision until Q3.
+**This week’s change (2026-08-26):** R1 and R2 remain the live pair. R3 (AR FX/consumption) is unchanged at 40%. R11 is the *political/conduct* node opened by the 2026-08-20 BA expediente (PR #9) and sized this run by Galperin’s dollar-share defense vs Fernández’s 19% person-share. Do not rewrite Kicillof 24.5%, BCRA fintech 26.2%, BCRA bank 12.8%, or Fernández 19/2.9 into MELI’s book. Net: no 25/45/30 revision.
