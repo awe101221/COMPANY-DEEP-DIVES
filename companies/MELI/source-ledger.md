@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run).
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run). S53–S67 accessed **2026-08-27** (MX/CL/AR statute run). Later incremental PRs #6–#13 hold additional sources not copied here.
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -58,10 +58,25 @@ Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (esti
 | S50 | Latin America Ad Spending 2025 | eMarketer | 2025-06-25 | 2025 market | https://www.emarketer.com/content/latin-america-ad-spending-2025 | Total LatAm ads >$40bn; digital 56.6% — used only to test the 10% share claim |
 | S51 | Amazon 2025 10-K ads line | Amazon / SEC | 2026 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm | Advertising services $68.635bn analog; Amazon does not report ads/GMV |
 | S52 | Yahoo MELI quote + analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,844.58; FY26/27 EPS $38.31 / $55.99 unchanged |
+| S53 | EDGAR company index reconfirm | SEC | live 2026-08-27 | filings through 2026-08-06 | https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001099590 | Still no 8-K after 2026-08-06 |
+| S54 | IR news & events reconfirm | MELI | live 2026-08-27 | calendar | https://investor.mercadolibre.com/news-and-events | GS 9/8; Q3 11/4 provisional; no new PR |
+| S55 | IR SEC filings reconfirm | MELI | live 2026-08-27 | completeness | https://investor.mercadolibre.com/sec-filings | Confirms no filing after 2026-08-06 |
+| S56 | Yahoo MELI quote | Yahoo | 2026-08-26 close | price | https://finance.yahoo.com/quote/MELI/ | Close $1,950.44; mkt cap $98.881bn |
+| S57 | Yahoo MELI chart API | Yahoo | retrieved 2026-08-27 | 10-day tape | https://query1.finance.yahoo.com/v8/finance/chart/MELI?interval=1d&range=10d | Confirms 8/25 $1,997.00 and 8/26 $1,950.44 |
+| S58 | Yahoo MELI Analysis | Yahoo / Refinitiv | retrieved 2026-08-27 | consensus | https://finance.yahoo.com/quote/MELI/analysis/ | FY26/27 EPS $38.29 / $56.07; rev $41.69bn / $53.32bn |
+| S59 | IPCA-15 agosto 2026 | IBGE Agência de Notícias | 2026-08-26 09:00 BRT | BR inflation preview | https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47847-ipca-15-e-de-0-40-em-agosto | Official −0.40% / +3.09% YTD / +4.24% y/y |
+| S60 | LRITF art. 46 | Cámara de Diputados | law text (current compilation) | MX IFPE lock-up | https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf | 100% same-day segregation; sight-deposit cap |
+| S61 | DOF IFPE oficio | CNBV / DOF | 2022-05-11 | MX license | https://dof.gob.mx/nota_detalle.php?codigo=5651692&fecha=11/05/2022 | MercadoLibre, S.A. de C.V., IFPE authorized |
+| S62 | Banxico–CNBV reglas conjuntas IFPE | Banxico / CNBV | 2021-01-28 DOF | MX ops rules | https://www.banxico.org.mx/marco-normativo/normativa-emitida-por-el-banco-de-mexico/reglas-conjuntas-instituciones-de-fondos-de-pago-e/%7BADF42F57-E748-2DBE-AAA2-1988AA7A29FE%7D.pdf | Security/ops; does not replace art. 46 |
+| S63 | BCRA TO PSPCP 4.1–4.2 | BCRA | current TO (A 6859 lineage) | AR wallet lock-up | https://www.bcra.gob.ar/archivos/Pdfs/Texord/t-snp-psp.pdf | 100% peso sight accounts; no SEDESA on CVU |
+| S64 | BCRA Com. “C” 89162 annex | BCRA | register as-of 2020-12-31 | AR entity | https://www.bcra.gob.ar/archivos/Pdfs/comytexord/C89162.pdf | Mercadolibre S.R.L. on PSPCP register |
+| S65 | BCCH Cap. III.J.1.3 | Banco Central de Chile | current chapter | CL prepaid issuer | https://www.bcentral.cl/documents/33528/115568/CapIIIJ13.pdf | Segregation + RL formula + 25,000 UF capital floor |
+| S66 | CMF NCG 541 | CMF | 2025-07-23 | CL reserve formula | https://www.cmfchile.cl/normativa/ncg_541_2025.pdf | \(RL=\max(0.1C_m, ALp-Pp-Frp)\) |
+| S67 | Infobae Costa interview | Infobae | 2026-08-26 | BA file follow-up | https://www.infobae.com/economia/2026/08/26/el-gobierno-bonaerense-endurece-los-controles-sobre-las-billeteras-virtuales-que-deberan-informar-las-empresas-investigadas/ | Restates expediente; no descargo; minister-via-press T&C claim |
 
-**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
+**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV. Do not write Costa’s “recognized non-compliances” into MELI’s book. Do not treat Estadão’s 2026-08-26 cofrinho promo as a funding-structure change.
 
-**Not obtained this run:** official call audio; full 2025 10-K risk-factor read; 13F/13D detail; sell-side models; X posts.
+**Not obtained this run:** official call audio; 2026 live BCRA SEFyC certificate number; Chile Annex 2 list / C75 filing; country-level funds payable; X posts (MCP down).
 
 ## Source priority
 

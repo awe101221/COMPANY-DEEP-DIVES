@@ -1,6 +1,6 @@
 # MELI country dossiers
 
-**As-of:** 2026-08-16 (afternoon check: no new official BR/MX/AR print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
+**As-of:** 2026-08-27 (IPCA-15 August 2026 official; MX/CL/AR customer-fund statutes). Discuss macro only through MELI P&L, credit, and FX. Open PRs #6–#13 hold later country notes not copied here.
 
 ## Brazil (~54% of Q2 revenue)
 
@@ -18,6 +18,7 @@
 
 - Selic **14.00%** as of 2026-08-05 Copom (from 14.25%). Fourth 25 bp cut. Next meeting data-dependent; market ~73% odds of 13.75% in September (Valor, 2026-08-12 — third-party).
 - IPCA July 2026: **+0.07% m/m, +4.44% y/y, +3.44% YTD** ([IBGE](https://www.ibge.gov.br/estatisticas/economicas/precos-e-custos/9256-indice-nacional-de-precos-ao-consumidor-amplo.html)). Within the 1.5–4.5% tolerance band around 3% target.
+- IPCA-15 August 2026: **−0.40% m/m, +3.09% YTD, +4.24% y/y** ([IBGE Agência](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47847-ipca-15-e-de-0-40-em-agosto), released 2026-08-26 09:00 BRT). Housing −1.41% and Transport −1.00% did the work (Itaipu electricity bonus + airfares/fuel). Preview, not the full August IPCA.
 - Copom still sees 2026 IPCA 5.1% and 2028Q1 3.2% in the reference scenario.
 - Presidential election October 2026 (political/fiscal risk → BRL, rates).
 
@@ -39,6 +40,7 @@
 **Macro:**
 
 - Banxico overnight rate **6.50%**, held 2026-08-06, third consecutive hold, unanimous. Forward guidance: appropriate to keep the rate here. Inflation-to-3% delayed to **4Q27**. Headline 3.10% 1H July; core 3.95% ([Banxico](https://www.banxico.org.mx/canales/%7BD39E4E89-FD89-84C4-848E-F228A0BE59E6%7D.pdf)).
+- Customer funds (2026-08-27 statute read): MercadoLibre, S.A. de C.V., IFPE must segregate client money by end of day under LRITF art. 46 (sight accounts, 1-day govt/Banxico *reporto*, or admin trust; sight-deposit cap). See `customer-funds-mx-cl-ar-2026-08-27.md`.
 
 **MELI transmission:** Best long-run flywheel market (CFO) but the *near-term* P&L is the weakest sequential story. Tax reform + device costs + World Cup are three different problems; only the World Cup is obviously temporary.
 
@@ -56,6 +58,7 @@
 - INDEC IPC July 2026: **+2.1% m/m, +33.8% y/y, +19.3% YTD** ([INDEC](https://www.indec.gob.ar/uploads/informesdeprensa/ipc_08_2642C82F62AE.pdf)). Monthly rebound from 1.9% in June.
 - BCRA REM (survey 29–31 Jul, published 6 Aug): 2026 inflation **29.8%**; Aug FX **$1,512/USD**; Dec FX **$1,652/USD** (+14.1% vs Dec 2025).
 - 10-Q: April 2025 FX-band liberalization; from 1 Jan 2026 bands update with last monthly inflation; dividend remittance flexibility for FY beginning 2025.
+- Customer funds (2026-08-27 statute read): BCRA TO 4.1.2 requires **100%** of PSPCP client funds in peso sight accounts at local banks. 4.2.2: not a bank deposit; no SEDESA on the CVU. See `customer-funds-mx-cl-ar-2026-08-27.md`.
 
 **MELI transmission:** Do **not** read +20% USD or +48% FXN as real volume. Items +22% is the cleaner activity read. High DC margin means a consumption/FX shock hits group EBIT harder than the revenue mix suggests. Card book is young; a 2026–27 AR credit scare at banks is a live local headline (Giménez acknowledged others are worried).
 
@@ -65,3 +68,4 @@
 - CBT now ~2× the GMV share in smaller countries vs a year ago; China FC volume +170% QoQ (letter).
 - Instore launched in Uruguay in Q2.
 - Chile called out in Q1 (GMV +40% — Q1 call). Not updated in Q2 letter at the same granularity.
+- Chile customer funds (2026-08-27): Mercado Pago Emisora S.A. is a CMF prepaid-card issuer. Segregation in cash or Annex 2 instruments plus \(RL=\max(0.1C_m, ALp-Pp-Frp)\) — not a 100% cash-or-Tesouro test. See `customer-funds-mx-cl-ar-2026-08-27.md`.

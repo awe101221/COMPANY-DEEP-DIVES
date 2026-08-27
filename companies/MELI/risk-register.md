@@ -1,6 +1,6 @@
 # MELI risk register
 
-**As-of:** 2026-08-16 (afternoon review: no probability revision; no new company event). P = subjective 12-month probability. Impact = effect on equity value if it hits.
+**As-of:** 2026-08-27 (MX/CL/AR statute read; no probability revision; no new company event). P = subjective 12-month probability. Impact = effect on equity value if it hits. Open PRs #6–#13 hold later risk notes not copied here.
 
 | ID | Risk | Transmission | P | Impact | Leading indicators | Mitigant | Thesis link |
 |---|---|---|---:|---|---|---|---|
@@ -9,10 +9,10 @@
 | R3 | Argentina FX + consumption | USD DC collapse; translation; credit vintages | 40% | Medium-High | INDEC IPC, BCRA FX, AR items, AR DC | High local margins; card cherry-pick (mgmt) | Bear |
 | R4 | Mexico demand + tax reform + device costs | GMV/FXN and DC margin stay compressed | 35% | Medium | MX FXN GMV, active devices, chip prices | Share gains vs physical retail (mgmt) | Base/bear |
 | R5 | Competitive subsidies (Shopee, Amazon, Nubank) | Take-rate and shipping costs stay elevated | 30% | Medium | Seller growth, price index, Amazon–NuPay volume (unverified) | Logistics density, ads, credit bundle | Base |
-| R6 | Funding / ALM | Credit book outruns deposits/securitizations; net debt ↑ | 20% | High | Loans payable, customer funds, securitizations, adj. FCF | Wallet AUM $23bn; notes MELI31/33 | Bear |
-| R7 | Regulation (payments, credit, labor, antitrust, tax) | Capital, take-rate, or product constraints | 25% | Medium-High | Central-bank/circulars, PIX rules, MX tax | Local licenses, scale | All |
+| R6 | Funding / ALM | Credit book outruns deposits/securitizations; net debt ↑ | 20% | High | Loans payable, customer funds, securitizations, adj. FCF | Wallet AUM $23bn; notes MELI31/33. MX art. 46 and AR TO 4.1.2 are 100% lock-ups; CL reserve is net-of-flows (`customer-funds-mx-cl-ar-2026-08-27.md`) | Bear |
+| R7 | Regulation (payments, credit, labor, antitrust, tax) | Capital, take-rate, or product constraints | 25% | Medium-High | Central-bank/circulars, PIX rules, MX tax, BA consumer-defense file (PR #9) | Local licenses, scale | All |
 | R8 | FX translation (BRL, MXN, ARS) | USD growth/margins noisy; equity AOCI | 50% (noise) | Medium | Spot FX vs 2025 averages | Natural hedges; FXN reporting | All |
 | R9 | Cyber / outage / fraud | Trust, PDA, opex | 15% | Medium | Incident 8-Ks | 10-K cybersecurity program | Tail |
 | R10 | Key-person / succession | Strategy shift after Galperin/Szarfsztejn | 10% | Medium | 8-Ks, LTRP | Founder still Executive Chairman | Tail |
 
-**This week’s change:** R1 and R2 remain the live pair. Selic cut slightly *lowers* near-term R1 probability; 10-Q 90+ aging slightly *raises* it. Net: no probability revision until Q3.
+**This week’s change:** R1 and R2 remain the live pair. IPCA-15 −0.40% slightly *lowers* near-term Brazil inflation pressure on R1; it does not touch 90+ aging or unused lines. MX/AR 100% statutes refine R6’s classification and do not change P. Net: no probability revision until Q3 or GS 9/8.

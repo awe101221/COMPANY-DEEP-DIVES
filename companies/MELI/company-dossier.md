@@ -1,6 +1,6 @@
 # MELI company dossier
 
-**Last updated:** 2026-08-17 (ads reconstruction added under Commerce; no leadership or capital-structure change). Stable facts; date any item that can change.
+**Last updated:** 2026-08-27 (MX IFPE / AR PSPCP / CL prepaid-issuer licenses added under Capital allocation; no leadership change). Stable facts; date any item that can change.
 
 ## Identity
 
@@ -80,6 +80,7 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 - Capex rising: $509mn (2023) → $860mn (2024) → $1,327mn (2025) → $712mn H1 2026.
 - Credit book is the largest use of cash: H1 2026 loans receivable net change −$4,069mn.
 - Net debt (mgmt def., incl. leases) $4.7bn → $6.4bn in six months.
+- **Licensed wallets (verified 2026-08-27):** Mexico — MercadoLibre, S.A. de C.V., IFPE (DOF 2022-05-11); Argentina — Mercadolibre S.R.L. on the BCRA PSPCP register as of 2020-12-31; Chile — Mercado Pago Emisora S.A., CMF prepaid-card issuer (Res. 6.312, 2021-11-05). Client-money statutes: `customer-funds-mx-cl-ar-2026-08-27.md`. Brazil BCB ratio is on PR #10.
 
 ## Accounting flags
 
