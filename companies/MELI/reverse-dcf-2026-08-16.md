@@ -2,7 +2,8 @@
 
 **Question:** What growth, margin, reinvestment, and duration does the 2026-08-14 close of $1,844.58 imply, once cash, debt, customer funds, and the credit book are classified correctly?  
 **Status:** First completed reverse DCF. Not a full integrated forecast.  
-**As-of:** 2026-08-16. Price 2026-08-14 16:00 EDT. Balance sheet 2026-06-30.
+**As-of:** 2026-08-16. Price 2026-08-14 16:00 EDT. Balance sheet 2026-06-30.  
+**Tape restatement 2026-08-27:** 2026-08-26 close $1,950.44 → equity $98.88bn → **EV $105.31bn** on the same $6.425bn plug. Model not rebuilt (move +5.7% vs $1,844.58; 10% trigger $2,029). MX/AR 100% statutes (`customer-funds-mx-cl-ar-2026-08-27.md`) do not change the plug.
 
 Epistemic labels are marked. This memo is **my calculation** on top of reported facts and third-party consensus.
 

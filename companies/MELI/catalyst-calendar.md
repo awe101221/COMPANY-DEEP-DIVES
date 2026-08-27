@@ -1,6 +1,6 @@
 # MELI catalyst calendar
 
-**As-of:** 2026-08-16 (afternoon check: IR calendar unchanged). Only items that can move growth, margins, credit, cash, regulation, or valuation.
+**As-of:** 2026-08-27 (IR calendar unchanged; IPCA-15 August recorded). Only items that can move growth, margins, credit, cash, regulation, or valuation.
 
 | Date | Event | Why it matters | Status |
 |---|---|---|---|
@@ -10,7 +10,8 @@
 | 2026-08-06 | Q2 10-Q | Credit aging, unused lines, loan sales | Occurred |
 | 2026-08-11 | IBGE IPCA July | Supports more Copom cuts | Occurred |
 | 2026-08-13 | INDEC IPC July +2.1% | AR consumption/FX | Occurred |
-| **2026-09-08** | Goldman Sachs conference (SF) | First IR forum after the print; listen for H2 margin/credit language | Upcoming ([IR](https://investor.mercadolibre.com/news-and-events)) |
+| 2026-08-26 | IBGE IPCA-15 August −0.40% / +4.24% y/y | BR real rates / Copom path | **Occurred** ([IBGE](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47847-ipca-15-e-de-0-40-em-agosto)) |
+| **2026-09-08** | Goldman Sachs conference (SF) | First IR forum after the print; listen for H2 margin/credit language, card NIMAL, reserve sleeves, AR mora | Upcoming ([IR](https://investor.mercadolibre.com/news-and-events)) |
 | Mid-Sep 2026 | Copom (market: 13.75% vs hold) | BR rates | Upcoming |
 | **2026-09-24** | Banxico meeting | MX rates | Upcoming (Banxico statement) |
 | Oct 2026 | Brazil presidential election | Political/fiscal risk → FX, rates, consumption | Upcoming (Reuters context) |
@@ -20,4 +21,4 @@
 | Ongoing | Memory-chip / POS device costs | MX/AR acquiring margins | Watch |
 | Ongoing | Amazon–Nubank checkout in Brazil | Bundle competition | Watch |
 
-No MELI investor day is on the IR calendar as of 2026-08-16.
+No MELI investor day is on the IR calendar as of 2026-08-27.

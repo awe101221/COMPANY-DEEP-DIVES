@@ -1,8 +1,8 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and both 2026-08-17 incremental runs: no probability change.  
-**Last thesis review:** 2026-08-17 (ads reconstruction)  
-**Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
+**Current status:** Initial thesis dated 2026-08-16 (morning). Incremental runs through 2026-08-27: no probability change.  
+**Last thesis review:** 2026-08-27 (MX / CL / AR customer-fund statutes)  
+**Valuation as of:** 2026-08-26 16:00 EDT close $1,950.44 (EV restated $105.31bn; DCF still the 2026-08-16 $1,844.58 work)
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
 
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-27 — MX / CL / AR customer-fund statutes; no probability change
+
+New work: leftover of #9. Mexico LRITF art. 46 and Argentina BCRA TO 4.1.2 are 100% client-money lock-ups. Chile is segregation plus \(RL=\max(0.1C_m, ALp-Pp-Frp)\), not a Brazil-style 100% cash-or-Tesouro test. This **reinforces** the existing “customer funds are not excess cash” rule. It does **not** change the $6.425bn net-debt plug or 25/45/30. Official IPCA-15 August 2026 −0.40% / +4.24% y/y supports the Copom path and is not a MELI operating print. Price $1,950.44; EV $105.31bn. No 8-K after 2026-08-06. Open PRs #6–#13 are not superseded.
 
 ### 2026-08-17 — ads reconstruction; no probability change
 

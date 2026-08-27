@@ -1,6 +1,6 @@
 # MELI expectations map
 
-**As-of:** 2026-08-17. Price as-of 2026-08-14 close **$1,844.58** (no session since; this run is before the 2026-08-17 cash open). Consensus unchanged vs 2026-08-16 afternoon.
+**As-of:** 2026-08-27. Price as-of 2026-08-26 close **$1,950.44**. EV restated **$105.31bn** on the same $6.425bn net-debt plug. Reverse DCF not rebuilt (still the 2026-08-16 $1,844.58 / $99.94bn work). Yahoo FY26/FY27 EPS **$38.29 / $56.07** (retrieved 2026-08-27) vs $38.31 / $55.99 on 2026-08-17 — noise. Later tape/consensus notes on PRs #6–#13 are not copied here.
 
 ## What the price appears to embed (inference, now reverse-DCF backed)
 
@@ -25,8 +25,8 @@ Street near-term is a trough: FY26 EPS $38.31 vs FY25 $39.40; implied EBIT margi
 | Object | Market / street (third-party, Yahoo 2026-08-16) | My read |
 |---|---|---|
 | 2026 growth | Revenue $41.63bn (+44%) | Agree: FXN 35–45% is the base |
-| 2026 EPS | $38.31 (cut 4% in 30 days, 7.5% in 90 days) | Agree directionally; quality of the $1.94bn NI is the issue |
-| 2027 EPS | $55.99 (+46% YoY) | Street rebound is a *margin* forecast I would not underwrite at 70%+ |
+| 2026 EPS | $38.29 (Yahoo 2026-08-27; was $38.31 on 2026-08-17) | Agree directionally; quality of the $1.94bn NI is the issue |
+| 2027 EPS | $56.07 (Yahoo 2026-08-27; was $55.99) | Street rebound is a *margin* forecast I would not underwrite at 70%+ |
 | 2026–27 EBIT | Implied ~7.0–7.8% | Matches the print; does not match the multiple |
 | Credit | 15–90 NPL “fine” | Underweights 90+ aging and unused lines |
 | Terminal margin | Embedded 12–15% (DCF) | Possible, not demonstrated |

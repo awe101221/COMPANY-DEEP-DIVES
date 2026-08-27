@@ -1,6 +1,6 @@
 # MELI KPI dictionary
 
-**Last updated:** 2026-08-17 (ads reconstruction). Definitions from Q2 2026 shareholder letter and 2025 10-K unless noted.
+**Last updated:** 2026-08-27 (customer-fund regime note). Definitions from Q2 2026 shareholder letter and 2025 10-K unless noted.
 
 | KPI | Official definition | Units | Known definition changes | Where disclosed |
 |---|---|---|---|---|
@@ -36,3 +36,4 @@
 - **CFO >> owner earnings** because of funds payable to customers and credit-related working capital.
 - **15–90 NPL ≠ 90+ NPL.** See credit deep-dive.
 - **Ads $ ≠ a GAAP line.** After Q4 2024 the company stopped printing ads/GMV. Dollar figures in `ads-revenue-reconstruction-2026-08-17.md` are calculations, not reported actuals.
+- **Restricted cash ≠ a single statutory ratio.** Brazil (PR #10) is Res. BCB 80 art. 22 = 100% prepaid e-money. Mexico LRITF art. 46 and Argentina BCRA TO 4.1.2 are also 100% lock-ups. Chile’s CMF/BCCH liquidity reserve is \(\max(0.1C_m, ALp-Pp-Frp)\), not a 100% cash-or-Tesouro test. See `customer-funds-mx-cl-ar-2026-08-27.md`. Do not apply the 21% Brazilian bank *compulsório* to any wallet.

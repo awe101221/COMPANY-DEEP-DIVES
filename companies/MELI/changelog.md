@@ -2,6 +2,16 @@
 
 Dated views only. Do not silently overwrite.
 
+## 2026-08-27 — Incremental run (MX / CL / AR customer-fund statutes)
+
+- **Trigger:** scheduled cron 2026-08-27T12:02:07Z. Prior successful run 2026-08-26 ~12:30 UTC on `cursor/meli-intelligence-update-b921` (PR #13). This branch is based on `main` at the PR #5 merge; it does **not** copy or supersede PRs #6–#13.
+- **Company event:** none. No 8-K after 2026-08-06. IR calendar unchanged.
+- **Macro:** official IBGE IPCA-15 August 2026 **−0.40% / +4.24% y/y**, released 2026-08-26 09:00 BRT (flagged and not retrieved on the prior run).
+- **Tape:** 2026-08-26 close $1,950.44. EV restated $105.31bn. DCF not rebuilt.
+- **Deep research:** leftover of #9 — Mexico LRITF art. 46 and Argentina BCRA TO 4.1.2 are 100% lock-ups; Chile is segregation plus a net-of-flows liquidity reserve (`customer-funds-mx-cl-ar-2026-08-27.md`).
+- **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence stays ~48%.
+- **Status:** `research progress only`.
+
 ## 2026-08-17 — Pre-merge review of PR #5
 
 - **Base:** PR #5 is based on current `main` (`ef1cdb2`). `main` is not empty: it already has the repo scaffold, MELI folder templates, and the MELI analyst skill. This PR only changes files under `companies/MELI/`.
