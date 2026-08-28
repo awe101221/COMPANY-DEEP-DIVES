@@ -2,6 +2,16 @@
 
 Dated views only. Do not silently overwrite.
 
+## 2026-08-28 — Incremental run (Brazil-only funds payable)
+
+- **Trigger:** scheduled cron 2026-08-28T12:13:33Z. Prior successful run 2026-08-27 ~13:30 UTC on `cursor/meli-intelligence-update-1fd2` (PR #14). This branch is based on `main` at `261a59f`. PRs #6–#14 are **not** superseded.
+- **Company event:** none. No 8-K after 2026-08-06. Price 2026-08-27 close $1,930.75. Yahoo FY26/FY27 EPS $38.29 / $56.07 unchanged vs PR #14.
+- **Deep research:** Brazil prepaid wallets from MP IP Ltda COSIF 4010 (`brazil-funds-payable-2026-08-28.md`). Q1 R$51.1bn / $9.78bn = 69% of group funds payable; art. 22 cover of STR-close 102%. Tesouro line matches the 10-Q BCB-securities footnote. June COSIF due 2026-08-31.
+- **Also ingested:** BCRA A 8406 CCT go-live 2026-08-31 (system-wide; MP habilitación not found).
+- **Thesis:** **No thesis change.** Bull 25 / base 45 / bear 30. Confidence stays ~48%.
+- **Status:** `research progress only`.
+- **Do not merge automatically.**
+
 ## 2026-08-17 — Pre-merge review of PR #5
 
 - **Base:** PR #5 is based on current `main` (`ef1cdb2`). `main` is not empty: it already has the repo scaffold, MELI folder templates, and the MELI analyst skill. This PR only changes files under `companies/MELI/`.

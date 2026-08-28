@@ -1,8 +1,8 @@
 # MELI Thesis Ledger
 
-**Current status:** Initial thesis dated 2026-08-16 (morning). 2026-08-16 afternoon and both 2026-08-17 incremental runs: no probability change.  
-**Last thesis review:** 2026-08-17 (ads reconstruction)  
-**Valuation as of:** 2026-08-14 16:00 EDT close $1,844.58
+**Current status:** Initial thesis dated 2026-08-16 (morning). Subsequent incremental runs through 2026-08-28: no probability change.  
+**Last thesis review:** 2026-08-28 (Brazil COSIF funds payable)  
+**Valuation as of:** 2026-08-27 16:00 EDT close $1,930.75 (EV restated $104.31bn; DCF not rebuilt)
 
 Never silently overwrite an old thesis. Add a dated entry whenever probabilities, assumptions, valuation, or conclusions change.
 
@@ -51,6 +51,10 @@ Never silently overwrite an old thesis. Add a dated entry whenever probabilities
 ---
 
 ## Thesis change log
+
+### 2026-08-28 — Brazil COSIF funds payable; no probability change
+
+New work: Mercado Pago IP Ltda COSIF 4010 (latest public date-base 2026-03). Brazil prepaid wallets R$51.1bn / $9.78bn = 69% of group funds payable $14,145mn. Art. 22 cover of the STR-close stock is 102%. Tesouro line matches the 10-Q BCB-securities footnote. BCRA A 8406 CCT go-live 2026-08-31 is a system-wide collection rail, not a MELI print. Price $1,930.75; EV $104.31bn. These refine the float map. They do **not** change 25/45/30. No new company operating print. No 8-K after 2026-08-06.
 
 ### 2026-08-17 — ads reconstruction; no probability change
 

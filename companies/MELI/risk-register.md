@@ -1,6 +1,6 @@
 # MELI risk register
 
-**As-of:** 2026-08-16 (afternoon review: no probability revision; no new company event). P = subjective 12-month probability. Impact = effect on equity value if it hits.
+**As-of:** 2026-08-28 (Brazil COSIF + CCT ingested; no probability revision; no new company 8-K). P = subjective 12-month probability. Impact = effect on equity value if it hits.
 
 | ID | Risk | Transmission | P | Impact | Leading indicators | Mitigant | Thesis link |
 |---|---|---|---:|---|---|---|---|
@@ -15,4 +15,4 @@
 | R9 | Cyber / outage / fraud | Trust, PDA, opex | 15% | Medium | Incident 8-Ks | 10-K cybersecurity program | Tail |
 | R10 | Key-person / succession | Strategy shift after Galperin/Szarfsztejn | 10% | Medium | 8-Ks, LTRP | Founder still Executive Chairman | Tail |
 
-**This week’s change:** R1 and R2 remain the live pair. Selic cut slightly *lowers* near-term R1 probability; 10-Q 90+ aging slightly *raises* it. Net: no probability revision until Q3.
+**This week’s change:** R6/R7 Brazil-float reading is now ticked at the IP-entity *liability* (69% of group funds payable; 102% art. 22 cover as of Q1). That **raises confidence** in the existing classification; it does **not** change R6/R7 probabilities. CCT (A 8406, 2026-08-31) sits inside R3/R7 as a collection-rail watch, not a new probability. R1 and R2 remain the live pair. No probability revision until Q3 or a new print.

@@ -2,7 +2,7 @@
 
 Record the provenance of every source supporting a material fact, calculation, model assumption, or thesis change.
 
-Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run).
+Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (estimate-history run). S43–S52 accessed **2026-08-17** (ads reconstruction run). S53–S64 accessed **2026-08-28** (Brazil COSIF / CCT run). Later open PRs #6–#14 have their own incremental source IDs and are not copied here.
 
 | ID | Title | Publisher | Pub date | Period | URL | Why it matters |
 |---|---|---|---|---|---|---|
@@ -58,10 +58,22 @@ Access date **2026-08-16** unless noted. S31–S42 accessed **2026-08-17** (esti
 | S50 | Latin America Ad Spending 2025 | eMarketer | 2025-06-25 | 2025 market | https://www.emarketer.com/content/latin-america-ad-spending-2025 | Total LatAm ads >$40bn; digital 56.6% — used only to test the 10% share claim |
 | S51 | Amazon 2025 10-K ads line | Amazon / SEC | 2026 | FY 2025 | https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm | Advertising services $68.635bn analog; Amazon does not report ads/GMV |
 | S52 | Yahoo MELI quote + analysis reconfirm | Yahoo / Refinitiv | retrieved 2026-08-17 | price / consensus | https://finance.yahoo.com/quote/MELI/ ; https://finance.yahoo.com/quote/MELI/analysis/ | Price $1,844.58; FY26/27 EPS $38.31 / $55.99 unchanged |
+| S53 | IR SEC filings page | MELI | live 2026-08-28 | completeness | https://investor.mercadolibre.com/sec-filings | Still no filing after 2026-08-06 (data.sec.gov 403 this run) |
+| S54 | IR news & events | MELI | live 2026-08-28 | calendar | https://investor.mercadolibre.com/news-and-events | GS 9/8; Q3 11/4 provisional; no new PR |
+| S55 | Yahoo MELI quote + chart API | Yahoo | 2026-08-27 close | price | https://finance.yahoo.com/quote/MELI/ ; https://query1.finance.yahoo.com/v8/finance/chart/MELI?interval=1d&range=10d | Close $1,930.75 |
+| S56 | Yahoo MELI Analysis | Yahoo / Refinitiv | retrieved 2026-08-28 | consensus | https://finance.yahoo.com/quote/MELI/analysis/ | FY26/27 EPS $38.29 / $56.07; rev $41.69bn / $53.32bn |
+| S57 | COSIF 4010 MP IP Ltda | BCB | generated 2026-05-31 | 202512–202603 | https://www4.bcb.gov.br/fis/cosif/cont/balan/individualizados/202603/4010/202603-4010-10573521.ZIP | Brazil prepaid wallets; CCME; títulos |
+| S58 | PTAX CotacaoDolarDia | BCB Olinda | 2025-12-31; 2026-03-31 | FX | https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?%40dataCotacao='03-31-2026'&%24format=json | Venda 5.5024 / 5.2194 |
+| S59 | Form 10-Q Q1 2026 Note 3 | MELI / SEC | 2026-05-08 | QE 2026-03-31 | https://www.sec.gov/Archives/edgar/data/1099590/000109959026000017/ | BCB cash $9,465mn; BCB securities $194mn; FP $14,145mn |
+| S60 | BCB balancetes dataset / Comunicado 44.132/2025 | BCB | dataset page 2026-07-28 | calendar | https://dadosabertos.bcb.gov.br/dataset/ifs-balancetes | Apr–Jun COSIF publish 31 Aug |
+| S61 | BCRA CCT note | BCRA | 2026-03-02 | rule | https://www.bcra.gob.ar/noticias/cobro-cuotas-con-transferencia-cct/ | Official go-live 31 Aug 2026 |
+| S62 | Comunicación A 8406 | BCRA / BO | 2026-03-20 (BO) | rule | https://www.boletinoficial.gob.ar/detalleAviso/primera/339764/20260320 ; https://www.bcra.gob.ar/Pdfs/comytexord/A8406.pdf | Full CCT terms |
+| S63 | IN BCB nº 687 | BCB | 2025-12-09; in force 2026-02-01 | COSIF map | https://www.legisweb.com.br/legislacao/?id=487730 | 4.9.9 vs prepaid 4.1.9 |
+| S64 | MP IP Pilar 3 4T2025 | Mercado Pago IP | 4Q 2025 | capital | https://http2.mlstatic.com/storage/cx-support-fcm-api/fcm-pub-os-prod/content-hub/mdanze/pilar%203%20-%204t2025.pdf | Not used for wallet stock; 1Q/2Q 2026 not retrieved |
 
-**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV.
+**Rejected / do not reuse:** LogHouse claim of Shopee Brazil Q2 GMV $38bn (2026-08-12) — inconsistent with Sea/Shopee scale and with MELI’s $21.9bn company GMV. COSIF 33410000 unused commitments spliced to the 10-Q $14.0bn card line.
 
-**Not obtained this run:** official call audio; full 2025 10-K risk-factor read; 13F/13D detail; sell-side models; X posts.
+**Not obtained this run:** June 2026 COSIF (due 2026-08-31); CCT habilitación print; Mercado Pago descargo; official call audio; X posts. Direct EDGAR submissions JSON was 403.
 
 ## Source priority
 
