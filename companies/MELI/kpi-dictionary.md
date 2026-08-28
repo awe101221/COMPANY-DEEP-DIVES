@@ -1,6 +1,6 @@
 # MELI KPI dictionary
 
-**Last updated:** 2026-08-17 (ads reconstruction). Definitions from Q2 2026 shareholder letter and 2025 10-K unless noted.
+**Last updated:** 2026-08-28 (COSIF prepaid-wallet line added). Definitions from Q2 2026 shareholder letter and 2025 10-K unless noted.
 
 | KPI | Official definition | Units | Known definition changes | Where disclosed |
 |---|---|---|---|---|
@@ -28,6 +28,7 @@
 | MELI+ subscribers | Loyalty program subscribers | n/a | +72% YoY Q2’26 (mgmt); absolute not disclosed | Letter |
 | AUM | Mercado Pago assets under management | $ bn | $23bn Q2’26; AUM/user $264 (mgmt) | Letter |
 | Credit portfolio | Management’s $16.4bn Q2 figure matches 10-Q **gross** loans receivable $16,375mn | $ | Always state gross vs net | Letter vs 10-Q Note 4 |
+| Brazil prepaid wallets (COSIF 41930000) | Mercado Pago IP Ltda *conta de pagamento pré-paga*. Art. 22 is tested on the STR-close control (30966000), not this liability | R$ and $ | **Not** in the 10-Q. USD is a PTAX calculation. Do not splice to group funds payable without stating the 69% Q1 share is a calculation | BCB COSIF 4010; `brazil-funds-payable-2026-08-28.md` |
 
 ## Reconciliation notes
 

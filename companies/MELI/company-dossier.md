@@ -1,6 +1,6 @@
 # MELI company dossier
 
-**Last updated:** 2026-08-17 (ads reconstruction added under Commerce; no leadership or capital-structure change). Stable facts; date any item that can change.
+**Last updated:** 2026-08-28 (Brazil COSIF prepaid-wallet pointer; no leadership or capital-structure change). Stable facts; date any item that can change.
 
 ## Identity
 
@@ -62,6 +62,8 @@ Latin America’s largest online commerce and fintech ecosystem (company claim; 
 **Advertising (Mercado Ads):** not broken out in GAAP. Last company take-rate print was **Q4 2024: 2.1% of GMV**. Subsequent letters give growth only (Q2 2026: +73% USD / +62% FXN; management: first time >10% of LatAm digital-ad market; “one of our highest-margin revenue lines”). Working reconstruction as of 2026-08-17: Q2 2026 ads **~$480–630mn** (base ~$560mn, ~2.55% of GMV); TTM envelope **~$1.7–2.1bn**. Incremental margin is not disclosed. Ads revenue is not netted against credit provisions. Full memo: `ads-revenue-reconstruction-2026-08-17.md`.
 
 **Fintech revenue (letter definition):** off-platform fees, financing fees, interest on merchant/consumer/card credit, interest on Mpago cash/investments net of yield passed to Brazilian users, MPOS device sales.
+
+**Brazil payments entity:** Mercado Pago Instituição de Pagamento Ltda. (CNPJ 10.573.521/0001-91; BCB código 323; S3). Prepaid-wallet stock is in COSIF 4010, not the 10-Q country notes. As of 2026-03-31: R$51.1bn / $9.78bn (calculation). Memo: `brazil-funds-payable-2026-08-28.md`.
 
 **Do not confuse:**
 

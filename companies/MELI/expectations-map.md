@@ -1,6 +1,6 @@
 # MELI expectations map
 
-**As-of:** 2026-08-17. Price as-of 2026-08-14 close **$1,844.58** (no session since; this run is before the 2026-08-17 cash open). Consensus unchanged vs 2026-08-16 afternoon.
+**As-of:** 2026-08-28. Price as-of 2026-08-27 close **$1,930.75**. Yahoo FY26/FY27 EPS **$38.29 / $56.07** (unchanged vs the 2026-08-27 run on PR #14; noise vs the 2026-08-16 $38.31 / $55.99). EV restated **$104.31bn**. Reverse DCF not rebuilt.
 
 ## What the price appears to embed (inference, now reverse-DCF backed)
 
@@ -19,6 +19,8 @@ Street near-term is a trough: FY26 EPS $38.31 vs FY25 $39.40; implied EBIT margi
 **Eight-quarter test (2026-08-17):** street FY27 EPS $55.99 fails as a high-confidence rebound. Revenue beat or in-line 8/8 from Q3’24–Q2’26; LSEG NI missed the first three investment-cycle prints (Q2–Q4’25) and only beat in Q2’26 after the FY26 cut. See `estimate-vs-actuals-2026-08-17.md`. This is an expectations finding, not a new operating fact.
 
 **Ads test (2026-08-17):** street does not publish an auditable ads line. Independent reconstruction puts Q2’26 ads at ~$0.5–0.6bn (~5.5% of revenue, mid-2% of GMV) and TTM ~$2bn. That is not large enough to be the 2027 margin-recovery story on its own. See `ads-revenue-reconstruction-2026-08-17.md`.
+
+**Float test (2026-08-28):** Brazil prepaid wallets are now a COSIF liability ($9.78bn / 69% of group funds payable at Q1). That supports the reverse-DCF cash map. It does **not** change what the $1,931 tape embeds for 2027 margins.
 
 ## Consensus vs my read
 

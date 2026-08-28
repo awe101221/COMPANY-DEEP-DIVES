@@ -1,6 +1,6 @@
 # MELI country dossiers
 
-**As-of:** 2026-08-16 (afternoon check: no new official BR/MX/AR print since 2026-08-13 INDEC IPC). Discuss macro only through MELI P&L, credit, and FX.
+**As-of:** 2026-08-28 (Brazil COSIF prepaid wallets added; official IPCA-15 August is on PR #14). Discuss macro only through MELI P&L, credit, and FX.
 
 ## Brazil (~54% of Q2 revenue)
 
@@ -21,7 +21,9 @@
 - Copom still sees 2026 IPCA 5.1% and 2028Q1 3.2% in the reference scenario.
 - Presidential election October 2026 (political/fiscal risk → BRL, rates).
 
-**MELI transmission:** Brazil is the only large market where FXN growth is *accelerating*. That is why management is spending. The bear case for Brazil is not “growth dies tomorrow”; it is “they bought 56% item growth with take-rate and shipping that never fully earn back, while a 2027 credit cycle hits a 75% growing book.” Electricity inflation is a small extra logistics-cost watch item (CFO: some energy costs absorbed).
+**Customer float (2026-08-28, COSIF 4010):** Mercado Pago IP Ltda prepaid wallets were R$51.1bn ($9.78bn at PTAX 5.2194) on 2026-03-31 — **69%** of group funds payable. Art. 22 cover of the STR-close stock was 102%. See `brazil-funds-payable-2026-08-28.md`. June COSIF is due 2026-08-31.
+
+**MELI transmission:** Brazil is the only large market where FXN growth is *accelerating*. That is why management is spending. The bear case for Brazil is not “growth dies tomorrow”; it is “they bought 56% item growth with take-rate and shipping that never fully earn back, while a 2027 credit cycle hits a 75% growing book.” Electricity inflation is a small extra logistics-cost watch item (CFO: some energy costs absorbed). Wallet growth continues to lock cash into CCME.
 
 **Competition:** Amazon–Nubank NuPay at Amazon checkout (July 2026) attacks the financing wedge. Shopee remains the low-ASP competitor; ignore the $38bn-Brazil-GMV blog claim.
 
@@ -56,6 +58,8 @@
 - INDEC IPC July 2026: **+2.1% m/m, +33.8% y/y, +19.3% YTD** ([INDEC](https://www.indec.gob.ar/uploads/informesdeprensa/ipc_08_2642C82F62AE.pdf)). Monthly rebound from 1.9% in June.
 - BCRA REM (survey 29–31 Jul, published 6 Aug): 2026 inflation **29.8%**; Aug FX **$1,512/USD**; Dec FX **$1,652/USD** (+14.1% vs Dec 2025).
 - 10-Q: April 2025 FX-band liberalization; from 1 Jan 2026 bands update with last monthly inflation; dividend remittance flexibility for FY beginning 2025.
+
+**Collection rail (2026-08-28):** BCRA Comunicación A 8406 requires Cobro con Transferencia to be available from **2026-08-31** for loan-installment collection (consent, 30% cuota/ingreso, max three attempts, 0.6% minimum acceptor fee). Mercado Pago habilitación not found. Process change, not a mora print. BA consumer-defense file and Galperin mora-mix notes remain on PRs #9 / #13.
 
 **MELI transmission:** Do **not** read +20% USD or +48% FXN as real volume. Items +22% is the cleaner activity read. High DC margin means a consumption/FX shock hits group EBIT harder than the revenue mix suggests. Card book is young; a 2026–27 AR credit scare at banks is a live local headline (Giménez acknowledged others are worried).
 

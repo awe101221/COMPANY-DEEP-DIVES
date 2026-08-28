@@ -24,6 +24,7 @@ All MELI agents and automations must read and write only within `companies/MELI/
 - `reverse-dcf-2026-08-16.md`: first completed reverse DCF / EV bridge / SOTP.
 - `estimate-vs-actuals-2026-08-17.md`: eight-quarter (Q3’24–Q2’26) estimate-vs-actuals reconstruction.
 - `ads-revenue-reconstruction-2026-08-17.md`: ads dollars reconstructed from letter take-rates and growth rates.
+- `brazil-funds-payable-2026-08-28.md`: Brazil prepaid e-money from Mercado Pago IP Ltda COSIF 4010 (open question #9 leftover).
 
 ## Operating rules
 
